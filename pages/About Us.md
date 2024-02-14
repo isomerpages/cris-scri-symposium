@@ -56,6 +56,10 @@ qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
 &nbsp; &nbsp; &nbsp; &nbsp; <img src="/images/At_A_Glance_05.png">
 			</div>
 &nbsp; &nbsp; &nbsp; <div class="col is-9"><p>The <strong>Singapore Clinical Research Institute (SCRI)</strong> has deep roots in the nation’s commitment to advancing clinical research. The journey began with the establishment of the Clinical Trials &amp; Epidemiology Research Unit (CTERU) in November 1996. Initiated by the Ministry of Health (MOH) and funded by the National Medical Research Council (NMRC), CTERU was envisioned to provide essential infrastructure support for not-for-profit-sector research. With a clear mandate, CTERU embarked on multi-centre clinical trials, epidemiological studies, and evidence-based medicine studies, all benchmarked to international standards.</p>
+&nbsp; &nbsp; &nbsp; </div>
+&nbsp; &nbsp; </div>
+&nbsp; &nbsp; <div class="row">
+&nbsp; &nbsp; &nbsp; <div class="col is-12">
 
 <p>In September 2008, a significant transformation took place when CTERU underwent a restructuring to emerge as SCRI, the national academic clinical research institute. This transition was not just a change in name but a leap in vision and capabilities. Building on the solid foundation laid by CTERU, SCRI aimed to develop enhanced resources and capabilities to foster intellectual and scientific leadership in the field of clinical research. A central aspect of this evolution was the emphasis on providing the necessary infrastructure to facilitate collaborative clinical research, ensuring that the research conducted was both cutting-edge and relevant to the needs of the community.</p>
 
