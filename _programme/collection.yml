@@ -2,6 +2,6 @@ collections:
   programme:
     output: true
     order:
-      - Example Session.md
       - Overview.md
       - The Value of Clinical Trials to Singapore Opening Session.md
+      - Example Session.md
