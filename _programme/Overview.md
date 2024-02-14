@@ -6,7 +6,7 @@ description: ""
 ---
 <div>
     <b>30 Jul | 00:00 - 00:00</b>&nbsp;<b>GMT+8</b>
-    <h3>The Value of Clinical Trials to Singapore OPening Session</h3>
+    <h3>The Value of Clinical Trials to Singapore Opening Session</h3>
   </div>
   <section>
     <div class="bp-container">
