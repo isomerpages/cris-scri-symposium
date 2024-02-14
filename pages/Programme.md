@@ -41,3 +41,15 @@ description: ""
             </div>
         </div>
     </section>
+		<section class="bp-section bottom-navigation is-flex">
+                    <div class="is-full-width">
+                        <a class="is-half is-left is-full-height" href="/programmeoverview/">
+                            <p class="has-text-weight-semibold"><span class="sgds-icon sgds-icon-arrow-left is-size-4"></span> PREVIOUS </p>
+                            <p class="is-hidden-mobile">Overview</p>
+                        </a>
+                        <a class="is-half is-right is-full-height" href="/programme/session-2/">
+                            <p class="has-text-weight-semibold">NEXT <span class="sgds-icon sgds-icon-arrow-right is-size-4"></span></p>
+                            <p class="is-hidden-mobile">International Safety@Sea Conference Session 2</p>
+                        </a>
+                    </div>
+                </section>
