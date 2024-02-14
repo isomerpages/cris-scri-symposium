@@ -78,7 +78,7 @@ description: ""
     </div>
   </div>
 </section>
-<style>
+<style type="text/css">
 	.speaker-name {
 margin-top: 0px;
 	text-decoration: none;
