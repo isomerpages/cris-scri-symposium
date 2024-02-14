@@ -90,6 +90,7 @@ description: ""
   <style type="text/css">
     hr.my-3 {
       margin-top: 0.75rem;
+      margin-bottom: 0.75rem;
     }
   
     .is-left {
