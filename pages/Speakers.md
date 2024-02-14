@@ -12,7 +12,7 @@ description: ""
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
       <div class="col is-6">
-        <a href="/john-appleseed">
+        <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
           </div>
@@ -22,7 +22,7 @@ description: ""
         </a>
       </div>
       <div class="col is-6">
-        <a href="/john-appleseed">
+        <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
           </div>
@@ -34,7 +34,7 @@ description: ""
 		</div>
 		<div class="row">
       <div class="col is-6">
-        <a href="/john-appleseed">
+        <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
           </div>
@@ -44,7 +44,7 @@ description: ""
         </a>
       </div>
       <div class="col is-6">
-        <a href="/john-appleseed">
+        <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
           </div>
@@ -56,7 +56,7 @@ description: ""
     </div>
     <div class="row">
       <div class="col 6">
-        <a href="/john-appleseed">
+        <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
           </div>
