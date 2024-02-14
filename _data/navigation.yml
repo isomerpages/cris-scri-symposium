@@ -2,6 +2,8 @@ logo: /images/scri_logo.png
 links:
   - title: About Us
     url: /about-us
+  - title: About the Event
+    url: /about-the-event
   - title: Programme
     url: /programme
   - title: Speakers
