@@ -48,7 +48,7 @@ qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
 </tbody>
 </table>
 <hr>
-<div class="row">
+<div class="row padding--top--xl">
 	<div class="col is-3">
 		<img src="/images/At_A_Glance_05.png">
 	</div>
