@@ -30,7 +30,7 @@ sections:
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
         minim veniam, quis
-      image: /images/SCRI_Web_Theme_pic_01.png
+      image: /images/SCRI_Web_Theme_pic_01.jpg
   - infopic:
       title: Lorem ipsum dolor
       subtitle: Add an image and text
@@ -38,13 +38,13 @@ sections:
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
         minim veniam, quis
-      image: /images/SCRI_Web_Theme_pic_02.png
+      image: /images/SCRI_Web_Theme_pic_02.jpg
       alt: Image alt text
   - infopic:
       title: Lorem ipsum dolor
       id: infopic
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna
-      image: /images/SCRI_Web_Theme_pic_03.png
+      image: /images/SCRI_Web_Theme_pic_03.jpg
       alt: Image alt text
 ---
