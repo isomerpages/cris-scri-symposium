@@ -31,6 +31,7 @@ sections:
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
         minim veniam, quis
       image: /images/SCRI_Web_Theme_pic_01.jpg
+      alt: test
   - infopic:
       title: Lorem ipsum dolor
       subtitle: Add an image and text
