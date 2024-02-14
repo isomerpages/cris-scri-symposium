@@ -18,6 +18,7 @@ sections:
         - title: Speakers
           description: ""
           url: ""
+      variant: image
   - infobar:
       title: Infobar title
       subtitle: Subtitle
