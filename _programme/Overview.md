@@ -9,7 +9,7 @@ description: ""
     <h3>The Value of Clinical Trials to Singapore Opening Session</h3>
   </div>
   <section>
-    <div class="bp-container">
+    <div class="bp-container is-fluid">
       <div class="row">
         <div class="col is-full">
             <div class="row">
@@ -23,7 +23,7 @@ description: ""
                     <hr class="my-3 border-primary">
                     <div class="speakers px-2">
                       <div class="row">
-                        <div class="col is-12 prog-speaker">
+                        <div class="col is-6 prog-speaker">
                           <div class="row">
                             <div class="col is-4">
                               <img alt="john Appleseed" src="/images/Speakers_John_Lim.png" class="speaker-image mb-4">
@@ -58,7 +58,25 @@ description: ""
                     <hr class="my-3 border-primary">
                     <div class="speakers px-2">
                       <div class="row">
-                        <div class="col is-12 prog-speaker">
+                        <div class="col is-6 prog-speaker">
+                          <div class="row">
+                            <div class="col is-4">
+                              <img alt="john Appleseed" src="/images/Speakers_John_Lim.png" class="speaker-image mb-4">
+                            </div>
+                            <div class="col is-8">
+                              <div class="speaker-name text-ellipsis">
+                                <a rel="noopener" class="speaker-name text-ellipsis" href="#"><b>John Appleseed</b></a>
+                              </div>
+                              <div class="text-ellipsis speaker-position">
+                                Designation
+                              </div>
+                              <div class="text-ellipsis speaker-company">
+                                Country
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col is-6 prog-speaker">
                           <div class="row">
                             <div class="col is-4">
                               <img alt="john Appleseed" src="/images/Speakers_John_Lim.png" class="speaker-image mb-4">
@@ -115,5 +133,9 @@ description: ""
     .content h3 {
       margin-top: 1rem;
     }
+	.bp-container.is-fluid {
+	margin-left: 0px;
+	margin-right: 0px;
+	}
   </style>
   
