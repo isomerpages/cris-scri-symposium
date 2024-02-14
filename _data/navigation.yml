@@ -1,8 +1,14 @@
 logo: /images/scri_logo.png
 links:
+  - title: About Us
+    url: /about-us
+  - title: Programme
+    url: /programme
+  - title: Speakers
+    url: /speakers
+  - title: Media Room
+    url: /media-room
+  - title: Resources
+    url: /resources
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
