@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: ABOUT US
           description: ""
-          url: ""
+          url: /about-us
         - title: Programme
           description: ""
-          url: ""
+          url: /programme
         - title: Speakers
           description: ""
-          url: ""
+          url: /speakers
       variant: image
   - infobar:
       title: Impact of Clinical Trials on Healtcare
