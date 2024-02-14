@@ -66,7 +66,7 @@ description: ""
         </a>
       </div>
       <div class="col is-6">
-        <a href="/john-appleseed">
+        <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
           </div>
@@ -79,23 +79,10 @@ description: ""
   </div>
 </section>
 <style type="text/css">
-	.speaker-name {
-margin-top: 0px;
+	.content .speaker {
 	text-decoration: none;
 	}
+	.speaker .speaker-name {
+margin-top: 0px;
+	}
 </style>
-    <style>
-    .heading1 {
-        color: red;
-        font-weight:700;
-        font-size: 35px;
-    }
-    .heading2 {
-        color: blue;
-        font-weight:700;
-        font-size: 30px;
-    }
-    </style>
-    
-    # Markdown heading styles {#identifier .heading1}
-    ## Markdown heading styles {#identifier .heading2}
