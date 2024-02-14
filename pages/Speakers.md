@@ -79,10 +79,7 @@ description: ""
   </div>
 </section>
 <style type="text/css">
-	.content .speaker {
-	text-decoration: none;
-	}
-	.speaker .speaker-name {
-margin-top: 0px;
-	}
+	.content .speaker {	text-decoration: none; }
+	.speaker .speaker-name { margin-top: 0px;	}
+	.speaker .speaker-image { width: 50%; }
 </style>
