@@ -2,7 +2,7 @@ collections:
   example-folder:
     output: true
     order:
-      - The Value of Clinical Trials to Singapore Opening Session.md
       - Overview.md
+      - The Value of Clinical Trials to Singapore Opening Session.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
