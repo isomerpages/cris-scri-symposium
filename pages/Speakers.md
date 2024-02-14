@@ -78,3 +78,9 @@ description: ""
     </div>
   </div>
 </section>
+<style>
+	.speaker-name {
+margin-top: 0px;
+	text-decoration: none;
+	}
+</style>
