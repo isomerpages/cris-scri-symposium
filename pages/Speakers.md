@@ -56,21 +56,24 @@ description: ""
       <div class="col is-6">
         <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">John Appleseed</h4>
-          <div class="speaker-position text-ellipsis">Designation</div>
-          <div class="speaker-company text-ellipsis">Country</div>
+          <h4 class="speaker-name text-ellipsis">Mr Ng How Yue</h4>
+          <div class="speaker-position text-ellipsis">Permanent Secretary (Health Development), </div>
+          <div class="speaker-company text-ellipsis">Ministry of Health</div>
         </a>
       </div>
       <div class="col is-6">
         <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">John Appleseed</h4>
-          <div class="speaker-position text-ellipsis">Designation</div>
-          <div class="speaker-company text-ellipsis">Country</div>
+          <h4 class="speaker-name text-ellipsis">Prof Tan Chorh Chuan</h4>
+          <div class="speaker-position text-ellipsis">Permanent Secretary (National Research and Development)</div>
+          <div class="speaker-company text-ellipsis">Permanent Secretary (Public Sector Science and Technology Policy and Plans Office)</div>
+					          <div class="speaker-company text-ellipsis">Chairman, A*STAR</div>
+					          <div class="speaker-company text-ellipsis">Chairman, MOH Office for Healthcare Transformation (MOHT)</div>
+										<div class="speaker-company text-ellipsis">Chair, Healthier SG Implementation Office, MOH</div>
         </a>
       </div>
     </div>
@@ -78,7 +81,7 @@ description: ""
       <div class="col 6">
         <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">John Appleseed</h4>
           <div class="speaker-position text-ellipsis">Designation</div>
@@ -88,7 +91,7 @@ description: ""
       <div class="col is-6">
         <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">John Appleseed</h4>
           <div class="speaker-position text-ellipsis">Designation</div>
