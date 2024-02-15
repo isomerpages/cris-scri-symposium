@@ -9,10 +9,15 @@ description: ""
 <img src="/images/Speakers_John_Lim.png">
 </div>
 <div class="col is-9 speaker-details">
-<h4>John Appleseed</h4>
-<p>Designation<br> Country
-</p>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur</p>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur</p>
+	<h4><b>Professor John Lim</b></h4>
+<b>Chairman, Consortium for Clinical Research and Innovation Singapore<br>
+Senior Advisor, Ministry of Health<br>
+Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School</b>
+	
+<p>Professor John Lim is the inaugural Chairman of the Consortium for Clinical Research &amp; Innovation Singapore (CRIS), founding Executive Director of the Centre of Regulatory Excellence (CoRE) at the Duke-National University of Singapore Medical School, Senior Advisor at Singapore’s Ministry of Health, and Policy Core Lead at the SingHealth Duke-NUS Global Health Institute.</p>
+	
+<p>Formerly Chief Executive Officer of Singapore’s Health Sciences Authority and Deputy Director of Medical Services in MOH, Professor Lim has also held other senior positions in Singapore’s Health and Education ministries. His current roles promote capacity building, scientific excellence and innovation for health regulation and systems in Southeast Asia and Asia-Pacific. He is a member of the Singapore Food Agency Board, US Pharmacopoeia Council of the Convention and Asia-Pacific Chapter Chair, Davos Alzheimer’s Collaborative Leadership Group, and APEC Harmonization Center Advisory Board, among others. </p>
+	
+<p>Professor Lim has been awarded the DIA Global Connector Inspire Award and the Regulatory Affairs Professional Society’s Founder’s Award for leadership in promoting global collaboration, and shaping regulatory practice and policy throughout his career.</p>
 </div>
 </div>
