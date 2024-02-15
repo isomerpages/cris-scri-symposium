@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/MainBanner1.jpg
       key_highlights:
-        - title: ABOUT US
+        - title: REGISTER NOW
           description: ""
-          url: /about-us
+          url: /register
+        - title: ABOUT THE EVENT
+          description: ""
+          url: /about-the-event
         - title: Programme
           description: ""
           url: /programme
-        - title: Speakers
-          description: ""
-          url: /speakers
       variant: center
       title: Clinical Trials Symposium 2024
       subtitle: "The Promise of Clinical Trials: Transforming Tomorrow's  Health"
@@ -25,6 +25,8 @@ sections:
       description: Organised by the Singapore Clinical Research Institute, the two-day
         symposium aims to showcase growth and opportunities of clinical trials
         in Singapore.
+      subtitle: Raffles City Convention Centre
+      title: 30 - 31 July 2024
   - infopic:
       title: The Future of Clinical Trials
       id: infopic
