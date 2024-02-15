@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SCRI_Web_Banner.png
+      background: /images/MainBanner1.jpg
       key_highlights:
         - title: ABOUT US
           description: ""
@@ -18,34 +18,28 @@ sections:
         - title: Speakers
           description: ""
           url: /speakers
-      variant: image
+      variant: center
+      title: Clinical Trials Symposium 2024
+      subtitle: "The Promise of Clinical Trials: Transforming Tomorrow's  Health"
   - infobar:
-      title: Impact of Clinical Trials on Healtcare
-      description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-        illo
+      description: Organised by the Singapore Clinical Research Institute, the two-day
+        symposium aims to showcase growth and opportunities of clinical trials
+        in Singapore.
   - infopic:
-      title: Lorem ipsum Dolor
+      title: The Future of Clinical Trials
       id: infopic
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis
+      description: This event takes a holistic approach to discuss about importance of
+        health economic outcome research and the future digitialisation of
+        clinical trial conduct.
       image: /images/SCRI_Web_Theme_pic_01.jpg
-      alt: test
+      alt: programme
+      button: Programme
+      url: /programme
   - infopic:
-      title: Lorem ipsum dolor
-      subtitle: Add an image and text
+      title: Launch of CTSG
       id: infopic
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis
+      description: "The Symposium will also feature the launch of Clinical Trial
+        Singapore (CTSG), a national online portal for clinical trials. "
       image: /images/SCRI_Web_Theme_pic_02.jpg
-      alt: Image alt text
-  - infopic:
-      title: Lorem ipsum dolor
-      id: infopic
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna
-      image: /images/SCRI_Web_Theme_pic_03.jpg
       alt: Image alt text
 ---
