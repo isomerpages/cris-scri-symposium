@@ -13,7 +13,7 @@ description: ""
     <div class="row">
       <div class="col is-3">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Janil_Puthucheary.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Janil Puthucheary</h4>
           <div class="speaker-position text-ellipsis">Senior Minister of State,</div>
