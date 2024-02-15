@@ -2,4 +2,5 @@ collections:
   about-the-event:
     output: true
     order:
+      - Organisers.md
       - About The Event.md
