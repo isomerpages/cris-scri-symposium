@@ -83,9 +83,10 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">John Appleseed</h4>
-          <div class="speaker-position text-ellipsis">Designation</div>
-          <div class="speaker-company text-ellipsis">Country</div>
+          <h4 class="speaker-name text-ellipsis">
+Sir Jeremy Farrar</h4>
+          <div class="speaker-position text-ellipsis">Chief Scientist,</div>
+          <div class="speaker-company text-ellipsis">World Health Organisation</div>
         </a>
       </div>
       <div class="col is-6">
@@ -93,9 +94,9 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">John Appleseed</h4>
-          <div class="speaker-position text-ellipsis">Designation</div>
-          <div class="speaker-company text-ellipsis">Country</div>
+          <h4 class="speaker-name text-ellipsis">Prof Kenneth Mak</h4>
+          <div class="speaker-position text-ellipsis">Director-General, Health</div>
+          <div class="speaker-company text-ellipsis">Ministry of Health, Singapore</div>
         </a>
       </div>
     </div>
