@@ -4,7 +4,7 @@ permalink: /about-the-event/
 variant: tiptap
 description: ""
 ---
-<h4>Getting to Raffles City Convention Centre</h4>
+<h4><strong>Getting to Raffles City Convention Centre</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/raffles.png">
 </div>
