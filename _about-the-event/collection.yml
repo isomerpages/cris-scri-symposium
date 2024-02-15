@@ -2,6 +2,6 @@ collections:
   about-the-event:
     output: true
     order:
-      - Event Venue.md
-      - Organisers.md
       - About The Event.md
+      - Organisers.md
+      - Event Venue.md
