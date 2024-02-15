@@ -1,5 +1,7 @@
 logo: /images/scri_logo.png
 links:
+  - title: Register
+    url: /register
   - title: About Us
     url: /about-us
   - title: About the Event
@@ -8,11 +10,5 @@ links:
     url: /programme/overview/
   - title: Speakers
     url: /speakers
-  - title: Media Room
-    url: /media-room
-  - title: Resources
-    url: /resource-room/
   - title: Contact Us
     url: /contactus
-  - title: Register
-    url: /register
