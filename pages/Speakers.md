@@ -5,9 +5,28 @@ variant: markdown
 description: ""
 ---
 <div>
-  <h3>Opening Session</h3>
-
+  <h3>Guest of Honour</h3>
 </div>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-3">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Janil Puthucheary</h4>
+          <div class="speaker-position text-ellipsis">Senior Minister of State,</div>
+          <div class="speaker-company text-ellipsis">Ministry of Communications and Information &amp; Ministry of Health</div>
+      </div>
+		</div>
+  </div>
+</section>
+
+<div>
+  <h3>Our Speakers</h3>
+</div>
+
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
@@ -16,7 +35,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Prof. John Lim</h4>
+          <h4 class="speaker-name text-ellipsis">Prof John Lim</h4>
           <div class="speaker-position text-ellipsis">Chairman, CRIS</div>
           <div class="speaker-company text-ellipsis">Senior Advisor, Ministry of Health</div>
 					<div class="speaker-company text-ellipsis">Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School</div>
@@ -27,7 +46,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Danny_Soon.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">A/Prof. Danny Soon</h4>
+          <h4 class="speaker-name text-ellipsis">A/Prof Danny Soon</h4>
           <div class="speaker-position text-ellipsis">CEO, CRIS</div>
           <div class="speaker-company text-ellipsis">Executive Director, SCRI</div>
         </a>
