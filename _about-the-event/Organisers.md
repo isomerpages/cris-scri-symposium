@@ -29,6 +29,6 @@ description: ""
 <p>SCRI supports clinical trials and research in the domains of haematology and oncology, infectious diseases, ophthalmology, neuroscience, and cardiovascular.</p>
 
 <p>SCRI is a programme of CRIS and is supported by the National Medical Research Council, within the Division of Research and Innovation at MOH Holdings Pte Ltd (MOHH).</p>
-<p>For more information, please visit  [SCRI website](https://www.scri.edu.sg).</p>
+		<p>For more information, please visit the SCRI website <a href="https://www.scri.edu.sg">here</a>.</p>
 	</div>
 </div>
