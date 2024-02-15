@@ -9,7 +9,7 @@ description: ""
 <img src="/images/Speakers_John_Lim.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Professor John Lim</b></h4>
+	<h4><b>Prof John Lim</b></h4>
 <b>Chairman, Consortium for Clinical Research and Innovation Singapore<br>
 Senior Advisor, Ministry of Health<br>
 Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School</b>
