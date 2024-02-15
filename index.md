@@ -14,10 +14,10 @@ sections:
           url: /register
         - title: ABOUT THE EVENT
           description: ""
-          url: /about-the-event
+          url: /about-event/
         - title: Programme
           description: ""
-          url: /programme
+          url: /programme/day1/
       variant: center
       title: Clinical Trials Symposium 2024
       subtitle: "The Promise of Clinical Trials: Transforming Tomorrow's  Health"
