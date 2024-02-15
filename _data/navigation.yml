@@ -2,12 +2,10 @@ logo: /images/scri_logo.png
 links:
   - title: Register
     url: /register
-  - title: About Us
-    url: /about-us
-  - title: About the Event
-    url: /about-the-event
+  - title: About The Event
+    collection: about-the-event
   - title: Programme
-    url: /programme/day1/
+    collection: programme
   - title: Speakers
     url: /speakers
   - title: Contact Us
