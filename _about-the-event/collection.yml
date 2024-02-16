@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - About The Event.md
-      - Organisers.md
+      - Organiser.md
       - Event Venue.md
