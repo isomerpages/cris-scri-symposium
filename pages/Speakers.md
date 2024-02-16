@@ -13,11 +13,11 @@ description: ""
     <div class="row">
       <div class="col is-6 is-offset-3 speaker">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Janil_Puthucheary.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Janil Puthucheary</h4>
-          <div class="speaker-position text-ellipsis">Senior Minister of State,</div>
-          <div class="speaker-company text-ellipsis">Ministry of Communications and Information &amp; Ministry of Health</div>
+          <h4 class="speaker-name text-ellipsis">GOH Name</h4>
+          <div class="speaker-position text-ellipsis">Designation 1</div>
+          <div class="speaker-company text-ellipsis">Designation 2</div>
       </div>
 		</div>
   </div>
