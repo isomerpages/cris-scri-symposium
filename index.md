@@ -36,7 +36,7 @@ sections:
       image: /images/SCRI_Web_Theme_pic_01.jpg
       alt: programme
       button: Programme
-      url: /programme
+      url: /programme/day1
   - infopic:
       title: Launch of CTSG
       id: infopic
