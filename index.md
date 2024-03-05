@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /programme/day1/
       variant: center
-      title: Clinical Trials Symposium 2024
+      title: SCRI Clinical Trials Symposium 2024
       subtitle: "The Promise of Clinical Trials: Transforming Tomorrow's  Health"
   - infobar:
       description: Organised by the Singapore Clinical Research Institute, the two-day
