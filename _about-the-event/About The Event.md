@@ -5,9 +5,11 @@ variant: markdown
 description: ""
 ---
 <h4><strong>Clinical Trials Symposium</strong></h4>
-<p>The Clinical Trials Symposium 2024 aims to showcase growth and opportunities of clinical trials in Singapore. Organised by the Singapore Clinical Research Institute, the two-day symposium will gather local and regional leaders from the pharmaceutical industry, academic and healthcare leaders, patient advocates and regulatory organisations. This event takes a holistic approach to discuss about importance of health economic outcome research, real-world data in complementing the traditional clinical development information, and future digitialisation of clinical trial conduct.</p>
+<p>The SCRI Clinical Trials Symposium 2024 is themed “The Promise of Clinical Trials: Transforming Tomorrow’s Health” and brings together clinicians, researchers, academics, and industry experts in clinical research from around the world. The Symposium will offer an excellent opportunity for knowledge exchange and networking, share practical insights of how clinical trials improve patients’ lives and contribute towards positive health and economic outcomes in Singapore and beyond.</p>
 
-<p>The Symposium will also feature the launch of Clinical Trial Singapore (CTSG), a national online portal for clinical trials. Targeted for research volunteers, clinicians, and industry sponsors, CTSG serves as a single point of access to information about ongoing trials and medical experts. It also provides a searchable tissue repository catalogue to foster translational research in Singapore.</p>
+<p>The Symposium will showcase the value proposition of clinical trials in Singapore and launch an initiative to provide integrated access to trial information for industry partners, research volunteers and medical experts. This two-day event will also cover topics on the importance of health economic outcomes research and real-world data in complementing traditional clinical development approaches, conduct decentralised clinical trials, patient advocacy in clinical trials design and opportunities for biotech companies.</p>
+
+<p>We very much look forward to receiving and engaging you at this conference.</p>
 <h4><strong>What You Can Expect</strong></h4>
 <table>
 <tbody>
