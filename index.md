@@ -37,12 +37,4 @@ sections:
       alt: programme
       button: Programme
       url: /programme/day1
-  - infopic:
-      title: Launch of CTSG
-      id: infopic
-      description: The Symposium will also feature the launch of Clinical Trial
-        Singapore (CTSG), a national online portal for clinical trials, ongoing
-        trials and medical experts.
-      image: /images/SCRI_Web_Theme_pic_02.jpg
-      alt: Image alt text
 ---
