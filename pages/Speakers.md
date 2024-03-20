@@ -58,9 +58,9 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Ng How Yue</h4>
-          <div class="speaker-position text-ellipsis">Permanent Secretary (Health Development), </div>
-          <div class="speaker-company text-ellipsis">Ministry of Health</div>
+          <h4 class="speaker-name text-ellipsis">Dr Akhmal Yusof</h4>
+          <div class="speaker-position text-ellipsis">CEO</div>
+          <div class="speaker-company text-ellipsis">Clinical Research Malaysia</div>
         </a>
       </div>
       <div class="col is-6">
@@ -68,35 +68,33 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Prof Tan Chorh Chuan</h4>
-          <div class="speaker-position text-ellipsis">Permanent Secretary (National Research and Development)</div>
-          <div class="speaker-company text-ellipsis">Permanent Secretary (Public Sector Science and Technology Policy and Plans Office)</div>
-					          <div class="speaker-company text-ellipsis">Chairman, A*STAR</div>
-					          <div class="speaker-company text-ellipsis">Chairman, MOH Office for Healthcare Transformation (MOHT)</div>
-										<div class="speaker-company text-ellipsis">Chair, Healthier SG Implementation Office, MOH</div>
+          <h4 class="speaker-name text-ellipsis">Ms Ai Ling Sim-Devadas</h4>
+          <div class="speaker-position text-ellipsis">Deputy Director (Advocacy and Engagement)</div>
+										<div class="speaker-company text-ellipsis">Lee Kong Chian School of Medicine</div>
         </a>
       </div>
     </div>
     <div class="row">
       <div class="col 6">
-        <a class="speaker" href="/john-appleseed">
+        <a class="speaker">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">
-Sir Jeremy Farrar</h4>
-          <div class="speaker-position text-ellipsis">Chief Scientist,</div>
-          <div class="speaker-company text-ellipsis">World Health Organisation</div>
+Dr Daphne Gardner Tan</h4>
+          <div class="speaker-position text-ellipsis">Senior Consultant (Endocrinology)</div>
+          <div class="speaker-company text-ellipsis">Singapore General Hospital</div>
         </a>
       </div>
       <div class="col is-6">
-        <a class="speaker" href="/john-appleseed">
+        <a class="speaker" href="/david-lye">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_DavidLye.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Prof Kenneth Mak</h4>
-          <div class="speaker-position text-ellipsis">Director-General, Health</div>
-          <div class="speaker-company text-ellipsis">Ministry of Health, Singapore</div>
+          <h4 class="speaker-name text-ellipsis">Prof David Lye</h4>
+          <div class="speaker-position text-ellipsis">Director, NCID</div>
+          <div class="speaker-company text-ellipsis">Deputy Executive Director, PREPARE</div>
+					<div class="speaker-position text-ellipsis">Professor, Lee Kong Chian School of Medicine &amp; Yong Loo Lin School of Medicine</div>
         </a>
       </div>
     </div>
