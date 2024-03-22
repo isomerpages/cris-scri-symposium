@@ -45,7 +45,6 @@ sections:
       url: /programme/day1
   - infopic:
       title: CPE/ CME Points
-      subtitle: Add an image and text
       id: infopic
       description: Healthcare professionals may accumulate Continuing Professional
         Education (CPE)/ Continuing Medical Education (CME) points by attending
