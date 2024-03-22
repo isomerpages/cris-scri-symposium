@@ -30,7 +30,7 @@ description: ""
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/john-lim">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
@@ -41,7 +41,7 @@ description: ""
 					<div class="speaker-company text-ellipsis">Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School</div>
         </a>
       </div>
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/danny-soon">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Danny_Soon.png" alt="">
@@ -51,9 +51,7 @@ description: ""
           <div class="speaker-company text-ellipsis">Executive Director, SCRI</div>
         </a>
       </div>
-		</div>
-		<div class="row">
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
@@ -63,7 +61,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Clinical Research Malaysia</div>
         </a>
       </div>
-      <div class="col is-6">
+					</div>
+		<div class="row">
+      <div class="col is-4">
         <a class="speaker" href="/john-appleseed">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
@@ -73,9 +73,7 @@ description: ""
 										<div class="speaker-company text-ellipsis">Lee Kong Chian School of Medicine</div>
         </a>
       </div>
-    </div>
-    <div class="row">
-      <div class="col 6">
+      <div class="col is-4">
         <a class="speaker">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
@@ -86,7 +84,7 @@ Dr Daphne Gardner Tan</h4>
           <div class="speaker-company text-ellipsis">Singapore General Hospital</div>
         </a>
       </div>
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/david-lye">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
@@ -98,7 +96,7 @@ Dr Daphne Gardner Tan</h4>
       </div>
     </div>
 		    <div class="row">
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/david-lye">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_DavidLye.png" alt="">
@@ -109,7 +107,7 @@ Dr Daphne Gardner Tan</h4>
 					<div class="speaker-position text-ellipsis">Professor, Lee Kong Chian School of Medicine &amp; Yong Loo Lin School of Medicine</div>
         </a>
       </div>
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/david-lye">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
@@ -120,9 +118,7 @@ Dr Daphne Gardner Tan</h4>
 					<div class="speaker-company text-ellipsis">Head, Innovation Transfer Office (Research Office), NUHS</div>
         </a>
       </div>
-    </div>
-    <div class="row">
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/edwin-chan">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_EdwinChan.png" alt="">
@@ -134,7 +130,9 @@ Dr Daphne Gardner Tan</h4>
 										<div class="speaker-company text-ellipsis">CRIS</div>
         </a>
       </div>
-      <div class="col is-6">
+					    </div>
+    <div class="row">
+      <div class="col is-4">
         <a class="speaker" href="/henry-yau">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_HenryYau.png" alt="">
@@ -145,9 +143,7 @@ Dr Daphne Gardner Tan</h4>
 					          <div class="speaker-company text-ellipsis">Honorary Assistant Professor, Macau University of Science and Technology</div>
         </a>
       </div>
-		</div>
-		    <div class="row">
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/marianne-pilgaard">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_MariannePilgaard.png" alt="">
@@ -157,7 +153,7 @@ Dr Daphne Gardner Tan</h4>
           <div class="speaker-company text-ellipsis">Trial Nation, Denmark</div>
         </a>
       </div>
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/nidhi-swarup">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speaker_NidhiSwarup.png" alt="">
@@ -169,7 +165,7 @@ Dr Daphne Gardner Tan</h4>
       </div>
 		</div>
 		    <div class="row">
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/ho-wen-qi">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_WenQiHo.png" alt="">
@@ -179,7 +175,7 @@ Dr Daphne Gardner Tan</h4>
           <div class="speaker-company text-ellipsis">ClavystBio</div>
         </a>
       </div>
-      <div class="col is-6">
+      <div class="col is-4">
         <a class="speaker" href="/blank">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
