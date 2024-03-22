@@ -2,12 +2,12 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Singapore Clinical Research Institute
+agency_name: SCRI Clinial Trials Symposium
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
+      - phone: +65 6270 0303
+      - email: secretariat@scri-symposium.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: Event Secretariat
 feedback: ""
 ---
