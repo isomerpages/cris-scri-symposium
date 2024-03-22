@@ -186,9 +186,9 @@ Dr Daphne Gardner</h4>
         </a>
       </div>
       <div class="col is-4">
-        <a class="speaker" href="/blank">
+        <a class="speaker" href="/yeo-khung-keong">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_YeoKhungKeong.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Yeo Khung Keong</h4>
           <div class="speaker-position text-ellipsis">CEO &amp; Senior Consultant, National Heart Centre Singapore </div>
