@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Singapore Clinical Research Institute
+title: SCRI Clinical Trials Symposium
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -41,9 +41,9 @@ sections:
       title: CPE/ CME Points
       subtitle: Add an image and text
       id: infopic
-      description: "Healthcare professionals may accumulate Continuing Professional
+      description: Healthcare professionals may accumulate Continuing Professional
         Education (CPE)/ Continuing Medical Education (CME) points by attending
-        this event. "
+        this event.
       button: Register Now
       url: /register/
       image: /images/SCRI_Web_Theme_pic_01.jpg
