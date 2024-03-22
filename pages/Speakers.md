@@ -74,7 +74,7 @@ description: ""
         </a>
       </div>
       <div class="col is-4">
-        <a class="speaker">
+        <a class="speaker" href="/daphne-gardner">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_DaphneGardner.png" alt="">
           </div>
@@ -85,7 +85,7 @@ Dr Daphne Gardner</h4>
         </a>
       </div>
       <div class="col is-4">
-        <a class="speaker" href="/david-lye">
+        <a class="speaker" href="/blank">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
