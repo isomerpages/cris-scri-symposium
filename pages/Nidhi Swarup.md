@@ -14,14 +14,11 @@ description: ""
 	Alliance of Patients’ Organizations Singapore Ltd</b>
 	
 <p>Ms. Nidhi Swarup M.Sc. Operations Research, M.Sc. Finance and Graduate Certificate in
-Professional Counselling.<br>
+Professional Counselling. She has facilitated the formation of Support Groups in Thailand, Malaysia, Philippines, and India despite being diagnosed with multiple chronic conditions.</p>
 	
-She has facilitated the formation of Support Groups in Thailand, Malaysia, Philippines, and India
-despite being diagnosed with multiple chronic conditions.<br>
+<p>An inspirational speaker at global conferences, Nidhi shares her journey from "illness to wellness".</p>
 	
-An inspirational speaker at global conferences, Nidhi shares her journey from "illness to wellness".<br>
-	
-CURRENT APPOINTMENTS<br>
+<p>CURRENT APPOINTMENTS<br>
 * WHO Patients for Patient Safety Network
 * National Pharmacy Strategy Advisory Council, Ministry of Health
 * Global Partnership Lead, SingHealth Patient Advocacy Network
