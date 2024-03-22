@@ -180,9 +180,9 @@ Dr Daphne Gardner</h4>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Placeholder Name</h4>
-          <div class="speaker-position text-ellipsis">Placeholder</div>
-          <div class="speaker-company text-ellipsis">Placeholder</div>
+          <h4 class="speaker-name text-ellipsis">Prof Yeo Khung Keong</h4>
+          <div class="speaker-position text-ellipsis">CEO &amp; Senior Consultant, National Heart Centre Singapore </div>
+          <div class="speaker-company text-ellipsis">Deputy Group Chief Medical Informatics Officer (Research), SingHealth</div>
         </a>
       </div>
 		</div>
