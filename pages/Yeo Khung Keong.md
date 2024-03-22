@@ -10,7 +10,8 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Prof Yeo Khung Keong</b></h4>
-<b>Chief Executive Officer &amp; Senior Consultant<br>National Heart Centre Singapore</b>
+<b>Chief Executive Officer &amp; Senior Consultant, National Heart Centre Singapore<br>
+	Deputy Group Chief Medical Informatics Officer (Research), SingHealth</b>
 	
 <p>Prof Yeo Khung Keong graduated in 1997 from the National University of Singapore where he obtained his Bachelor of Medicine and Surgery. He subsequently trained in the United States of America and obtained his American Board of Internal Medicine Certifications in Internal Medicine, Cardiovascular Medicine and Interventional cardiology. </p>
 
