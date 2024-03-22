@@ -201,5 +201,5 @@ Dr Daphne Gardner</h4>
 <style type="text/css">
 	.content .speaker {	text-decoration: none; }
 	.speaker .speaker-name { margin-top: 0px;	}
-	.speaker .speaker-image { width: 50%; }
+	.speaker .speaker-image { width: 100%; }
 </style>
