@@ -33,8 +33,19 @@ sections:
       description: This event takes a holistic approach to discuss about importance of
         health economic outcome research and the future digitialisation of
         clinical trial conduct.
-      image: /images/SCRI_Web_Theme_pic_01.jpg
+      image: /images/SCRI_Web_Theme_pic_02.jpg
       alt: programme
       button: Programme
       url: /programme/day1
+  - infopic:
+      title: CPE/ CME Points
+      subtitle: Add an image and text
+      id: infopic
+      description: "Healthcare professionals may accumulate Continuing Professional
+        Education (CPE)/ Continuing Medical Education (CME) points by attending
+        this event. "
+      button: Register Now
+      url: /register/
+      image: /images/SCRI_Web_Theme_pic_01.jpg
+      alt: Image alt text
 ---
