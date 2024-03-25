@@ -87,11 +87,12 @@ Dr Daphne Gardner</h4>
       <div class="col is-4">
         <a class="speaker" href="/blank">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_DavidMatchar.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof David Matchar</h4>
-          <div class="speaker-position text-ellipsis">Professor, Duke-NUS</div>
-          <div class="speaker-company text-ellipsis">Lead Economic and Policy Analyst, PRECISE</div>
+          <div class="speaker-position text-ellipsis">Professor &amp; Inaugural Director (2008-2018)</div>
+          <div class="speaker-company text-ellipsis">Health Services and Systems Signature Research Programme</div>
+					          <div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
         </a>
       </div>
     </div>
