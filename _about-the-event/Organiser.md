@@ -20,15 +20,12 @@ description: ""
 <p>This is accomplished through the deployment of innovative technologies and processes, and strategic coordination of ecosystem capabilities and infrastructure to achieve synergies that will enhance the clinical research ecosystem aimed towards a healthier community and better patient outcomes.</p>
 
 <p>SCRI's key pillars include:<br>
-1. 	Clinical Research Operations<br>
-2. 	Clinical Trials Infrastructure Coordination<br>
-3. 	Clinical Research Networks<br>
-4. 	Academic Research Partnerships<br>
-5. 	SCRI Academy</p>
+1.  	Clinical Research Operations<br>
+2.  	Clinical Research Networks<br>
+3.  	Academic Research Partnerships<br>
+4.  	SCRI Academy</p>
 
-<p>SCRI supports clinical trials and research in the domains of haematology and oncology, infectious diseases, ophthalmology, neuroscience, and cardiovascular.</p>
-
-<p>SCRI is a programme of CRIS and is supported by the National Medical Research Council, within the Division of Research and Innovation at MOH Holdings Pte Ltd (MOHH).</p>
+<p>SCRI is a programme of CRIS and is supported by the National Medical Research Council.</p>
 		<p>For more information, please visit the SCRI website <a href="https://www.scri.edu.sg">here</a>.</p>
 	</div>
 </div>
