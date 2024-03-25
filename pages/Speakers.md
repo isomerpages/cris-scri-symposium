@@ -11,7 +11,7 @@ description: ""
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
-      <div class="col is-4 is-offset-3 speaker">
+      <div class="col is-4">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
