@@ -85,7 +85,7 @@ Dr Daphne Gardner</h4>
         </a>
       </div>
       <div class="col is-4">
-        <a class="speaker" href="/blank">
+        <a class="speaker" href="/david-matchar">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_DavidMatchar.png" alt="">
           </div>
