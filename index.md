@@ -44,11 +44,11 @@ sections:
       button: Programme
       url: /programme/day1
   - infopic:
-      title: CPE/ CME Points
+      title: CME Points
       id: infopic
-      description: Healthcare professionals may accumulate Continuing Professional
-        Education (CPE)/ Continuing Medical Education (CME) points by attending
-        this event.
+      description: Healthcare professionals may accumulate Continuing Medical
+        Education (CME) points by attending this event (More details coming
+        soon).
       button: Register Now
       url: /register/
       image: /images/SCRI_Web_Theme_pic_01.jpg
