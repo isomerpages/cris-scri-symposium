@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-1.  Thank you for visiting the **SCRI Clinical Trials Symposium** website. Access to any page in www.cris.sg (henceforth known as “Web Site”) is governed by the terms and conditions stipulated below (“Terms”). Your access and use of this Web Site constitutes your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Web Site.   In addition, the use of Datasets (as defined in the Singapore Open Data License set out below) contained in this Website is subject to the Singapore Open Data License; in the event of any inconsistency between these Terms of Use and the Singapore Open Data License, the former shall prevail.
+1.  Thank you for visiting the **SCRI Clinical Trials Symposium** website. Access to any page in www.scri-symposium.sg (henceforth known as “Web Site”) is governed by the terms and conditions stipulated below (“Terms”). Your access and use of this Web Site constitutes your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Web Site.   In addition, the use of Datasets (as defined in the Singapore Open Data License set out below) contained in this Website is subject to the Singapore Open Data License; in the event of any inconsistency between these Terms of Use and the Singapore Open Data License, the former shall prevail.
     
 2.  This Web Site is maintained by and belongs to CRIS.
     
@@ -99,7 +99,7 @@ variant: markdown
 
 **Permission for Use**
 
-1.  Where permission is required by these Terms of Use for the use of this Website or the Contents, you may apply for permission by writing to CRIS [contact@cris.sg](mailto:contact@cris.sg).
+1.  Where permission is required by these Terms of Use for the use of this Website or the Contents, you may apply for permission by writing to CRIS [secretariat@scri-symposium.sg](mailto:secretariat@scri-symposium.sg).
     
 2.  CRIS may, at its sole and absolute discretion, grant or refuse permission to use this Web Site or the Contents, and impose such conditions for the use of this Web Site or the Contents as it deems fit.
     
