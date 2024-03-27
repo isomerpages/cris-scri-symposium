@@ -1,40 +1,51 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: SCRI Clinical Trials Symposium
+url: https://www.scri-symposium.sg
+favicon: /images/scri_favicon.png
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#3254b1"
+  secondary-color: "#3254b1"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+      color: "#00838f"
+description: "The SCRI Clinical Trials Symposium 2024 is themed “The Promise of
+  Clinical Trials: Transforming Tomorrow’s Health” and brings together
+  clinicians, researchers, academics, and industry experts in clinical research
+  from around the world. The Symposium will offer an excellent opportunity for
+  knowledge exchange and networking, share practical insights of how clinical
+  trials improve patients’ lives and contribute towards positive health and
+  economic outcomes in Singapore and beyond."
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -46,3 +57,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging-lite.dak1k0p7e0zhd.amplifyapp.com
 prod: https://master.d1y742j1x1amr9.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: G-3QJTK8RW6E
+linkedin-insights: ""
+resources_name: resource-room

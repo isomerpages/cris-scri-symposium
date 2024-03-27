@@ -1,0 +1,7 @@
+collections:
+  about-the-event:
+    output: true
+    order:
+      - About The Event.md
+      - Organiser.md
+      - Event Venue.md
