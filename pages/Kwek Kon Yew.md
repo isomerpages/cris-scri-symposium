@@ -6,18 +6,15 @@ description: ""
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_WenQiHo.png">
+<img src="/images/Speakers_KwekKonYew.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Dr Ho Wen Qi</b></h4>
-<b>Therapeutics Lead<br>
-ClavystBio</b>
+	<h4><b>Dr Kwek Kon Yew</b></h4>
+<b>Senior Vice President, Clinical Development<br>
+Hummingbird Bioscience</b>
 	
-<p>Dr Ho Wen Qi focuses on investing in and building global healthcare companies from Singapore. Prior to joining ClavystBio, she headed up the Singapore investments and operations for Lightstone Ventures, where she played a major role in establishing the firm’s presence in Singapore. Wen Qi evaluated new investment opportunities in the biopharmaceutical and medical device sectors, and was actively involved in venture-building portfolio companies in Singapore such as Medisix Therapeutics and Allay Therapeutics. </p>
+<p>Dr Kwek Kon Yew is Senior Vice President of Clinical Development at Hummingbird Bioscience. Prior to joining the company, Kon Yew was Vice President of Clinical Development at Akeso Biopharma (HKEX: 9926), where he was responsible for Phase I to III immune-oncology clinical trials outside China; and represented clinical development to regulatory authorities, investigators, investors and key opinion leaders. His broad industry experience also includes serving as an investigator at Eli Lilly’s clinical research unit and the Head of Phase I and Drug Development Safety at IQVIA, advising on both oncology and non-oncology early clinical development studies.</p>
 	
-<p>Wen Qi is an advocate for early career researcher participation in biotech entrepreneurship, and serves on advisory and grant review panels with leading institutions in Singapore. She also serves on boards of ClavystBio’s portfolio companies.  </p>
-	
-<p>Wen Qi attained her PhD in Immunology at Stanford University, and BSc in Molecular and Cellular Biology at Johns Hopkins University.
-</p>
+<p>Kon Yew completed his undergraduate medical training at Oxford Medical School; and read for a doctorate in Molecular Biology on an EP Abraham Research Studentship at Oxford University. He also holds graduate diplomas in Family Medicine and Palliative Medicine from the National University of Singapore; and a Certificate in Human Pharmacology from the Faculty of Pharmaceutical Medicine, Royal Colleges of Physicians.</p>
 </div>
 </div>
