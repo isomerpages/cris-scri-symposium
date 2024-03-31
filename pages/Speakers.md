@@ -68,6 +68,18 @@ Dr Ho Wen Qi</h4>
         </a>
       </div>
       <div class="col is-4">
+        <a class="speaker" href="/kwek-kon-yew">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_KwekKonYew.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Kwek Kon Yew</h4>
+          <div class="speaker-position text-ellipsis">Senior Vice President, Clinical Development</div>
+          <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
+        </a>
+      </div>
+    </div>
+		    <div class="row">
+      <div class="col is-4">
         <a class="speaker" href="/nikki-kittiki">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
@@ -77,8 +89,6 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Takeda</div>
         </a>
       </div>
-    </div>
-		    <div class="row">
       <div class="col is-4">
         <a class="speaker" href="/david-lye">
           <div class="speaker-image-wrapper">
@@ -102,6 +112,8 @@ Dr Ho Wen Qi</h4>
 					<div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
         </a>
       </div>
+					    </div>
+    <div class="row">
       <div class="col is-4">
         <a class="speaker" href="/marianne-pilgaard">
           <div class="speaker-image-wrapper">
@@ -112,8 +124,6 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Trial Nation, Denmark </div>
         </a>
       </div>
-					    </div>
-    <div class="row">
       <div class="col is-4">
         <a class="speaker" href="/ailing-simdevadas">
           <div class="speaker-image-wrapper">
@@ -134,6 +144,8 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Alliance of Patients’ Organizations Singapore Ltd</div>
         </a>
       </div>
+		</div>
+		    <div class="row">
       <div class="col is-4">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -144,9 +156,7 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Associate Professor, NUS Medicine</div>
 					<div class="speaker-company text-ellipsis">Head, Innovation Transfer Office (Research Office), NUHS</div>
         </a>
-      </div>
-		</div>
-		    <div class="row">
+      </div>					
       <div class="col is-4">
         <a class="speaker" href="/henry-yau">
           <div class="speaker-image-wrapper">
@@ -157,7 +167,7 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Managing Director, The University of Hong Kong Clinical Trials Centre</div>
 					<div class="speaker-company text-ellipsis">Honorary Assistant Professor, Macau University of Science and Technology</div>
         </a>
-      </div>					
+      </div>
       <div class="col is-4">
         <a class="speaker" href="/yeo-khung-keong">
           <div class="speaker-image-wrapper">
@@ -168,6 +178,8 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Deputy Group Chief Medical Informatics Officer (Research), SingHealth</div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4">
         <a class="speaker" href="/akhmal-yusof">
           <div class="speaker-image-wrapper">
@@ -178,9 +190,8 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Clinical Research Malaysia</div>
         </a>
       </div>
-		</div>
   </div>
-</section>
+</div></section>
 <style type="text/css">
 	.content .speaker {	text-decoration: none; }
 	.speaker .speaker-name { margin-top: 0px;	}
