@@ -13,10 +13,10 @@ description: ""
 <b>Founding Chair<br>
 	Alliance of Patients’ Organizations Singapore Ltd</b>
 	
-<p>Ms. Nidhi Swarup M.Sc. Operations Research, M.Sc. Finance and Graduate Certificate in
+<p>Ms. Nidhi Swarup is a strong professional with two Masters Degrees in Operations Research, Finance and a Graduate Certificate in
 Professional Counselling. She has facilitated the formation of Support Groups in Thailand, Malaysia, Philippines, and India despite being diagnosed with multiple chronic conditions.</p>
 	
-<p>An inspirational speaker at global conferences, Nidhi shares her journey from "illness to wellness".</p>
+<p>Ms Swarup is an inspirational speaker at global conferences - she shares her journey from "illness to wellness".</p>
 	
 <p>CURRENT APPOINTMENTS<br>
 * WHO Patients for Patient Safety Network<br>
