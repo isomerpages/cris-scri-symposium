@@ -41,7 +41,7 @@ description: ""
           <div class="speaker-position text-ellipsis">Director, Cochrane Singapore</div>
           <div class="speaker-company text-ellipsis">Associate Professor, Duke-NUS Medical School </div>
 					<div class="speaker-company text-ellipsis">Chief Scientific Officer, SCRI</div>
-										<div class="speaker-company text-ellipsis">CRIS</div>
+										<div class="speaker-company text-ellipsis"></div>
         </a>
       </div>
 					    </div>
@@ -86,7 +86,7 @@ Dr Ho Wen Qi</h4>
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Nikki Kittiki</h4>
           <div class="speaker-position text-ellipsis">Vaccines Policy Lead, Growth &amp; Emerging Markets (GEM)</div>
-          <div class="speaker-company text-ellipsis">Takeda</div>
+          <div class="speaker-company text-ellipsis">Takeda, Singapore </div>
         </a>
       </div>
       <div class="col is-4">
@@ -95,7 +95,7 @@ Dr Ho Wen Qi</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_DavidLye.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof David Lye</h4>
-          <div class="speaker-position text-ellipsis">Director, NCID</div>
+          <div class="speaker-position text-ellipsis">Director, National Centre for Infectious Diseases (NCID)</div>
           <div class="speaker-company text-ellipsis">Deputy Executive Director, PREPARE</div>
 					<div class="speaker-position text-ellipsis">Professor, Lee Kong Chian School of Medicine &amp; Yong Loo Lin School of Medicine</div>
         </a>
@@ -130,8 +130,8 @@ Dr Ho Wen Qi</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_AiLingSimDevadas.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Ms Ai Ling Sim-Devadas</h4>
-          <div class="speaker-position text-ellipsis">Deputy Director (OPEN)</div>
-          <div class="speaker-company text-ellipsis">Lee Kong Chian School of Medicine, NTU</div>
+          <div class="speaker-position text-ellipsis">Deputy Director, Office of Patient Engagement (OPEN)</div>
+          <div class="speaker-company text-ellipsis">Lee Kong Chian School of Medicine, Nanyang Technological University (NTU)</div>
         </a>
       </div>
       <div class="col is-4">
@@ -152,9 +152,9 @@ Dr Ho Wen Qi</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_DavidTan.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">A/Prof David Tan</h4>
-          <div class="speaker-position text-ellipsis">Senior Consultant Medical Oncologist, NCIS</div>
+          <div class="speaker-position text-ellipsis">Senior Consultant Medical Oncologist, National University Cancer Institute (NCIS) </div>
           <div class="speaker-company text-ellipsis">Associate Professor, NUS Medicine</div>
-					<div class="speaker-company text-ellipsis">Head, Innovation Transfer Office (Research Office), NUHS</div>
+					<div class="speaker-company text-ellipsis">Head, Innovation Transfer Office (Research Office), National University Health System (NUHS) </div>
         </a>
       </div>					
       <div class="col is-4">
@@ -174,7 +174,7 @@ Dr Ho Wen Qi</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_YeoKhungKeong.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Yeo Khung Keong</h4>
-          <div class="speaker-position text-ellipsis">CEO &amp; Senior Consultant, National Heart Centre Singapore </div>
+          <div class="speaker-position text-ellipsis">CEO &amp; Senior Consultant, National Heart Centre Singapore (NHCS) </div>
           <div class="speaker-company text-ellipsis">Deputy Group Chief Medical Informatics Officer (Research), SingHealth</div>
         </a>
       </div>
