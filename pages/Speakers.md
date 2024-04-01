@@ -17,7 +17,7 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof John Lim</h4>
-          <div class="speaker-position text-ellipsis">Chairman, CRIS</div>
+          <div class="speaker-position text-ellipsis">Chairman, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
           <div class="speaker-company text-ellipsis">Senior Advisor, Ministry of Health</div>
 					<div class="speaker-company text-ellipsis">Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School</div>
         </a>
@@ -53,7 +53,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Daphne Gardner</h4>
           <div class="speaker-position text-ellipsis">Senior Consultant Endocrinologist</div>
-										<div class="speaker-company text-ellipsis">Singapore General Hospital</div>
+										<div class="speaker-company text-ellipsis">Singapore General Hospital (SGH)</div>
         </a>
       </div>
       <div class="col is-4">
