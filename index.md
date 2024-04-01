@@ -28,9 +28,9 @@ sections:
       title: SCRI Clinical Trials Symposium 2024
       subtitle: "The Promise of Clinical Trials: Transforming Tomorrow's  Health"
   - infobar:
-      description: Organised by the Singapore Clinical Research Institute, the two-day
-        symposium aims to showcase growth and opportunities of clinical trials
-        in Singapore.
+      description: Organised by the Singapore Clinical Research Institute (SCRI), the
+        two-day symposium aims to showcase growth and opportunities of clinical
+        trials in Singapore.
       subtitle: Raffles City Convention Centre
       title: 30 - 31 July 2024
   - infopic:
