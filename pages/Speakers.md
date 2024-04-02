@@ -5,6 +5,35 @@ variant: markdown
 description: ""
 ---
 <div>
+  <h3>Keynote Speakers</h3>
+</div>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-4">
+        <a class="speaker" href="/jeremy-farrar">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Sir Jeremy Farrar</h4>
+          <div class="speaker-position text-ellipsis">Chief Scientist</div>
+          <div class="speaker-company text-ellipsis">World Health Organization</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a class="speaker" href="/kenneth-mak">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_KennethMak.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Kenneth Mak</h4>
+          <div class="speaker-position text-ellipsis">Director-General of Health</div>
+          <div class="speaker-company text-ellipsis">Ministry of Health, Singapore</div>
+        </a>
+      </div>
+		</div></div></section>
+
+<div>
   <h3>Our Speakers</h3>
 </div>
 
@@ -68,6 +97,18 @@ Dr Ho Wen Qi</h4>
         </a>
       </div>
       <div class="col is-4">
+				<a class="speaker" href="/nikki-kittiki">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_NikkiKitikiti.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Nikki Kittiki</h4>
+          <div class="speaker-position text-ellipsis">Vaccines Policy Lead, Growth &amp; Emerging Markets, Takeda Pharmaceuticals International</div>
+          <div class="speaker-company text-ellipsis">Associate Visiting Expert, Centre of Regulatory Excellence, Duke-NUS Medical School</div>
+        </a>
+      </div>
+    </div>
+		    <div class="row">
+      <div class="col is-4">
         <a class="speaker" href="/kwek-kon-yew">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_KwekKonYew.png" alt="">
@@ -75,18 +116,6 @@ Dr Ho Wen Qi</h4>
           <h4 class="speaker-name text-ellipsis">Dr Kwek Kon Yew</h4>
           <div class="speaker-position text-ellipsis">Senior Vice President, Clinical Development</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
-        </a>
-      </div>
-    </div>
-		    <div class="row">
-      <div class="col is-4">
-        <a class="speaker" href="/nikki-kittiki">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Dr Nikki Kittiki</h4>
-          <div class="speaker-position text-ellipsis">Vaccines Policy Lead, Growth &amp; Emerging Markets (GEM)</div>
-          <div class="speaker-company text-ellipsis">Takeda, Singapore </div>
         </a>
       </div>
       <div class="col is-4">
