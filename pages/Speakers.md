@@ -155,11 +155,11 @@ Dr Ho Wen Qi</h4>
 			<div class="col is-4">
         <a class="speaker" href="/evelyn-pang">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_EvelynPang.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Ms Evelyn Pang</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
-          <div class="speaker-company text-ellipsis">Moderna Singapore</div>
+          <div class="speaker-company text-ellipsis">Moderna Biotech Singapore</div>
         </a>
       </div>
       <div class="col is-4">
