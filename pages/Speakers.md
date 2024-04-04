@@ -57,7 +57,7 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Danny_Soon.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Adj A/Prof Danny Soon</h4>
-          <div class="speaker-position text-ellipsis">CEO, CRIS</div>
+          <div class="speaker-position text-ellipsis">CEO, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
           <div class="speaker-company text-ellipsis">Executive Director, SCRI</div>
         </a>
       </div>
