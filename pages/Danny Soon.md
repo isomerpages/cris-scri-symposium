@@ -9,7 +9,7 @@ description: ""
 <img src="/images/Speakers_Danny_Soon.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>A/Prof Danny Soon</b></h4>
+	<h4><b>Adj A/Prof Danny Soon</b></h4>
 <b>Chief Executive Officer, Consortium for Clinical Research and Innovation Singapore<br>
 Executive Director, Singapore Clinical Research Institute</b>
 	
