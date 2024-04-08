@@ -299,7 +299,7 @@ Dr Ho Wen Qi</h4>
           </div>
           <h4 class="speaker-name text-ellipsis">Ms Yeoh Ying Ying</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
-          <div class="speaker-company text-ellipsis">Roche Singapore</div>
+          <div class="speaker-company text-ellipsis">Roche Pharmaceuticals, Singapore</div>
         </a>
       </div>
   </div>
