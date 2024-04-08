@@ -28,17 +28,18 @@ sections:
       title: SCRI Clinical Trials Symposium 2024
       subtitle: "The Promise of Clinical Trials: Transforming Tomorrow's  Health"
   - infobar:
-      description: Organised by the Singapore Clinical Research Institute (SCRI), the
-        two-day symposium aims to showcase growth and opportunities of clinical
+      description: Organised by the Singapore Clinical Research Institute, the two-day
+        event aims to showcase the impact of and opportunities for clinical
         trials in Singapore.
       subtitle: Raffles City Convention Centre
       title: 30 - 31 July 2024
   - infopic:
       title: The Future of Clinical Trials
       id: infopic
-      description: This event takes a holistic approach to discuss about importance of
-        health economic outcome research and the future digitialisation of
-        clinical trial conduct.
+      description: >
+        Hear from experts who will discuss topics on patient engagement, health
+        outcomes and impact of trials in pandemics, healthcare policy and
+        biotech support.
       image: /images/SCRI_Web_Theme_pic_02.jpg
       alt: programme
       button: Programme
@@ -46,9 +47,7 @@ sections:
   - infopic:
       title: CME Points
       id: infopic
-      description: Healthcare professionals may accumulate Continuing Medical
-        Education (CME) points by attending this event (More details coming
-        soon).
+      description: "Continuing Medical Education (CME) points are pending approval. "
       button: Register Now
       url: /register/
       image: /images/SCRI_Web_Theme_pic_01.jpg
