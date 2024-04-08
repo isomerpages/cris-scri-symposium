@@ -256,7 +256,7 @@ Dr Ho Wen Qi</h4>
           </div>
           <h4 class="speaker-name text-ellipsis">A/Prof Kelvin Bryan Tan</h4>
           <div class="speaker-position text-ellipsis">Principal Health Economist Chief</div>
-          <div class="speaker-company text-ellipsis">Health Economist's Office, MOH</div>
+          <div class="speaker-company text-ellipsis">Health Economist's Office, Ministry of Health (MOH)</div>
         </a>
       </div>
 			<div class="col is-4">
