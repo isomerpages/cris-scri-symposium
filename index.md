@@ -36,9 +36,8 @@ sections:
   - infopic:
       title: The Future of Clinical Trials
       id: infopic
-      description: >
-        Hear from experts who will discuss topics on patient engagement, health
-        outcomes and impact of trials in pandemics, healthcare policy and
+      description: Hear from experts who will discuss topics on patient engagement,
+        health outcomes and impact of trials in pandemics, healthcare policy and
         biotech support.
       image: /images/SCRI_Web_Theme_pic_02.jpg
       alt: programme
@@ -47,7 +46,7 @@ sections:
   - infopic:
       title: CME Points
       id: infopic
-      description: "Continuing Medical Education (CME) points are pending approval. "
+      description: Continuing Medical Education (CME) points are pending approval.
       button: Register Now
       url: /register/
       image: /images/SCRI_Web_Theme_pic_01.jpg
