@@ -10,9 +10,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Prof David Lye</b></h4>
-<b>Professor, Lee Kong Chian School of Medicine, NTU &amp; Yong Loo Lin School of Medicine <br>
-Deputy Executive Director, Programme for Research in Epidemic Preparedness and Response (PREPARE)<br>
-Director, Infectious Disease Research and Training Office, National Centre for Infectious Disease (NCID) </b>
+<b>Director, Infectious Disease Research and Training Office, National Centre for Infectious Disease (NCID)<br> Deputy Executive Director, Programme for Research in Epidemic Preparedness and Response (PREPARE)<br>Professor, Lee Kong Chian School of Medicine, NTU &amp; Yong Loo Lin School of Medicine </b>
 	
 <p>Professor Lye is Director, Infectious Disease Research and Training Office, National Centre for Infectious Disease; Professor, Lee Kong Chian School of Medicine and Yong Loo Lin School of Medicine; and Deputy Executive Director, Programme for Research in Epidemic Preparedness and Response, Singapore. He headed Singapore Infectious Disease Clinical Research Network from 2014 to 2020. </p>
 
