@@ -13,7 +13,7 @@ description: ""
 <b>Director-General of Health<br>
 Ministry of Health (MOH), Singapore</b>
 	
-<p>Professor Kenneth Mak is Director-General of Health at the Ministry of Health Singapore.</p>
+<p>Prof Kenneth Mak is Director-General of Health at the Ministry of Health Singapore.</p>
 
 <p>In this role, Prof Mak is the principal medical adviser to the Singapore Government and provides professional input and guidance to other Ministries and public agencies on health and healthcare related issues.</p>
 
