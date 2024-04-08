@@ -148,7 +148,7 @@ Dr Ho Wen Qi</h4>
           <h4 class="speaker-name text-ellipsis">Prof David Lye</h4>
           <div class="speaker-position text-ellipsis">Director, Infectious Disease Research and Training Office, National Centre for Infectious Diseases (NCID)</div>
           <div class="speaker-company text-ellipsis">Deputy Executive Director, PREPARE</div>
-					<div class="speaker-position text-ellipsis">Professor, Lee Kong Chian School of Medicine &amp; Yong Loo Lin School of Medicine</div>
+					<div class="speaker-position text-ellipsis">Professor, Lee Kong Chian School of Medicine, NTU &amp; Yong Loo Lin School of Medicine</div>
         </a>
       </div>
 			      <div class="col is-4">
