@@ -14,7 +14,7 @@ description: ""
       <div class="col is-6">
         <a class="speaker" href="/jeremy-farrar">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_JeremyFarrar.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Sir Jeremy Farrar</h4>
           <div class="speaker-position text-ellipsis">Chief Scientist</div>
@@ -131,7 +131,7 @@ Dr Ho Wen Qi</h4>
       <div class="col is-4">
         <a class="speaker" href="/kwek-kon-yew">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_KwekKonYew.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_KwekKonYew2.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Kwek Kon Yew</h4>
           <div class="speaker-position text-ellipsis">Senior Vice President, Clinical Development</div>
