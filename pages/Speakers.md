@@ -197,11 +197,11 @@ Dr Ho Wen Qi</h4>
 					<div class="col is-4">
         <a class="speaker" href="/poh-hwee-tee">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_PohHweeTee.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Ms Poh Hwee Tee</h4>
-          <div class="speaker-position text-ellipsis">Country President, Singapore &amp; Asian Emerging Markets</div>
-          <div class="speaker-company text-ellipsis">Novartis</div>
+          <div class="speaker-position text-ellipsis">Country President</div>
+          <div class="speaker-company text-ellipsis">Novartis Singapore and Asian Emerging Markets</div>
         </a>
       </div>
 							</div>
@@ -262,11 +262,11 @@ Dr Ho Wen Qi</h4>
 			<div class="col is-4">
         <a class="speaker" href="/toh-han-chong">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_TohHanChong.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Prof Toh Han Chong</h4>
-          <div class="speaker-position text-ellipsis">Deputy Medical Director (Strategic Partnerships)</div>
-          <div class="speaker-company text-ellipsis">National Cancer Centre</div>
+          <h4 class="speaker-name text-ellipsis">Dr Toh Han Chong</h4>
+          <div class="speaker-position text-ellipsis">Deputy CEO (Strategic Partnerships), National Cancer Centre Singapore</div>
+          <div class="speaker-company text-ellipsis">Professor, Duke-NUS Medical School</div>
         </a>
       </div>
 																</div>
