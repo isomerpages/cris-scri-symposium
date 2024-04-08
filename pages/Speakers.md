@@ -48,7 +48,7 @@ description: ""
           <h4 class="speaker-name text-ellipsis">Prof John Lim</h4>
           <div class="speaker-position text-ellipsis">Chairman, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
           <div class="speaker-company text-ellipsis">Senior Advisor, Ministry of Health</div>
-					<div class="speaker-company text-ellipsis">Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School</div>
+					<div class="speaker-company text-ellipsis">Executive Director, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School</div>
         </a>
       </div>
       <div class="col is-4">
