@@ -109,7 +109,7 @@ Dr Ho Wen Qi</h4>
     </div>
 		    <div class="row">
 					      <div class="col is-4">
-				<a class="speaker" href="/nikki-kittiki">
+				<a class="speaker" href="/nikki-kitikiti">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_NikkiKitikiti.png" alt="">
           </div>
