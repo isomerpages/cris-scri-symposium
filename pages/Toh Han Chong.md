@@ -10,7 +10,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Dr Toh Han Chong</b></h4>
-<b>Deputy CEO (Strategic Partnerships), National Cancer Centre Singapore<br>
+<b>Deputy CEO (Strategic Partnerships), National Cancer Centre, Singapore (NCCS)<br>
 	Professor, Duke-NUS Medical School</b>
 	
 <p>Dr Toh Han Chong is Deputy CEO (Strategic Partnerships), National Cancer Centre Singapore and tenured Professor at Duke NUS Medical School. Dr Toh obtained the International Baccalaureate diploma at the Lester B. Pearson College, Canada on a United World College Scholarship. He obtained his BSc (Intercalated) from the University of London in ‘Infection and Immunity’ and his medical degree from the University of Cambridge, UK. His oncology and research training were at the Singapore General Hospital, Massachusetts General Hospital, Harvard Medical School and at the Center for Cell and Gene Therapy, Baylor College of Medicine, Houston Texas, USA. Dr Toh is alumni of the Harvard Business School General Management Program. He is Principal Lead, Cellular Immunotherapy at the Singhealth Duke NUS Cell Therapy Centre. Dr Toh is a council member at the Singapore Ministry of Health Agency for Care Effectiveness (ACE) and member of the Ministry of Health Clinical Services Strategy Committee for Cell Therapy. </p>
