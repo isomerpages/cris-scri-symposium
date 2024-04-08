@@ -28,7 +28,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Kenneth Mak</h4>
           <div class="speaker-position text-ellipsis">Director-General of Health</div>
-          <div class="speaker-company text-ellipsis">Ministry of Health, Singapore</div>
+          <div class="speaker-company text-ellipsis">Ministry of Health (MOH), Singapore</div>
         </a>
       </div>
 		</div></div></section>
