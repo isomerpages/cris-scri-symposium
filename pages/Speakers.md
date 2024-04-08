@@ -18,7 +18,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Sir Jeremy Farrar</h4>
           <div class="speaker-position text-ellipsis">Chief Scientist</div>
-          <div class="speaker-company text-ellipsis">World Health Organization</div>
+          <div class="speaker-company text-ellipsis">World Health Organization (WHO)</div>
         </a>
       </div>
       <div class="col is-6">
