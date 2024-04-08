@@ -168,7 +168,7 @@ Dr Ho Wen Qi</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Ng Choon Peng</h4>
-          <div class="speaker-position text-ellipsis">CEO and Chairperson</div>
+          <div class="speaker-position text-ellipsis">CEO and Co-Founder</div>
           <div class="speaker-company text-ellipsis">ImmunoScape</div>
         </a>
       </div>
@@ -265,7 +265,7 @@ Dr Ho Wen Qi</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_TohHanChong.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Toh Han Chong</h4>
-          <div class="speaker-position text-ellipsis">Deputy CEO (Strategic Partnerships), National Cancer Centre Singapore</div>
+          <div class="speaker-position text-ellipsis">Deputy CEO (Strategic Partnerships), National Cancer Centre, Singapore (NCCS)</div>
           <div class="speaker-company text-ellipsis">Professor, Duke-NUS Medical School</div>
         </a>
       </div>
