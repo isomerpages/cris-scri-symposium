@@ -11,7 +11,7 @@ description: ""
 <div class="col is-9 speaker-details">
 	<h4><b>Prof Kenneth Mak</b></h4>
 <b>Director-General of Health<br>
-Ministry of Health, Singapore</b>
+Ministry of Health (MOH), Singapore</b>
 	
 <p>Professor Kenneth Mak is Director-General of Health at the Ministry of Health Singapore.</p>
 
