@@ -12,7 +12,7 @@ description: ""
 	<h4><b>Prof John Lim</b></h4>
 <b>Chairman, Consortium for Clinical Research and Innovation Singapore<br>
 Senior Advisor, Ministry of Health<br>
-Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School</b>
+Executive Director, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School</b>
 	
 <p>Professor John Lim is the inaugural Chairman of the Consortium for Clinical Research &amp; Innovation Singapore (CRIS), founding Executive Director of the Centre of Regulatory Excellence (CoRE) at the Duke-National University of Singapore Medical School, Senior Advisor at Singapore’s Ministry of Health, and Policy Core Lead at the SingHealth Duke-NUS Global Health Institute.</p>
 	
