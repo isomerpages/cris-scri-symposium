@@ -11,7 +11,7 @@ description: ""
 <div class="col is-9 speaker-details">
 	<h4><b>Ms Ai Ling Sim-Devadas</b></h4>
 <b>Deputy Director, Office of Patient Engagement (OPEN)<br>
-	Lee Kong Chian School of Medicine, NTU</b>
+	Lee Kong Chian School of Medicine, Nanyang Technological University (NTU)</b>
 	
 <p>Ms Ai Ling Sim-Devadas is a patient advocate, breast cancer survivor and a patient engagement professional. Committed to growing patient engagement in Singapore’s healthcare landscape, she is leading the Office of Patient Engagement (OPEN) at NTU’s Lee Kong Chian School of Medicine, to deepen patient public partnership for medical research and education.<br>
 
