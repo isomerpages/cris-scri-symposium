@@ -10,7 +10,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Prof David Lye</b></h4>
-<b>Professor, Lee Kong Chian School of Medicine &amp; Yong Loo Lin School of Medicine <br>
+<b>Professor, Lee Kong Chian School of Medicine, NTU &amp; Yong Loo Lin School of Medicine <br>
 Deputy Executive Director, Programme for Research in Epidemic Preparedness and Response (PREPARE)<br>
 Director, Infectious Disease Research and Training Office, National Centre for Infectious Disease (NCID) </b>
 	
