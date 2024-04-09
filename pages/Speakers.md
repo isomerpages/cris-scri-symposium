@@ -162,6 +162,17 @@ Dr Ho Wen Qi</h4>
 					<div class="speaker-company text-ellipsis">Health Services and Systems Signature Research Programme</div>
 					<div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
 							</a></div>
+						      <div class="col is-4">
+        <a class="speaker" href="/julie-marsh">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Julie Marsh</h4>
+          <div class="speaker-position text-ellipsis">Biostatistician &amp; Adjunct Senior Research Fellow</div>
+          <div class="speaker-company text-ellipsis">UWA Medical School, UWA Centre for Child Health Research (affiliated with the Telethon Kids Institute)</div>
+							</a></div>
+					</div>
+		    <div class="row">
 			<div class="col is-4">
         <a class="speaker" href="/ng-choon-peng">
           <div class="speaker-image-wrapper">
@@ -172,8 +183,6 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">ImmunoScape</div>
         </a>
       </div>
-		</div>
-		    <div class="row">
 								<div class="col is-4">
         <a class="speaker" href="/evelyn-pang">
           <div class="speaker-image-wrapper">
@@ -193,7 +202,9 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-position text-ellipsis">CEO</div>
           <div class="speaker-company text-ellipsis">Trial Nation, Denmark </div>
         </a>
-      </div>
+      </div>							
+		</div>
+		<div class="row">
 					<div class="col is-4">
         <a class="speaker" href="/poh-hwee-tee">
           <div class="speaker-image-wrapper">
@@ -204,8 +215,6 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Novartis Singapore and Asian Emerging Markets</div>
         </a>
       </div>
-							</div>
-		<div class="row">
 					      <div class="col is-4">
         <a class="speaker" href="/ailing-simdevadas">
           <div class="speaker-image-wrapper">
@@ -223,9 +232,10 @@ Dr Ho Wen Qi</h4>
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Venkateshan Srirangam</h4>
           <div class="speaker-position text-ellipsis">Medical Director</div>
-          <div class="speaker-company text-ellipsis">Experimental Drug Development Centre (EDDC)</div>
-        </a>
+          </a><div class="speaker-company text-ellipsis"><a class="speaker" href="/venkateshan-srirangam">Experimental Drug Development Centre (EDDC)        </a></div>
       </div>
+													</div>
+		<div class="row">
       <div class="col is-4">
         <a class="speaker" href="/nidhi-swarup">
           <div class="speaker-image-wrapper">
@@ -236,8 +246,6 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Alliance of Patients’ Organizations Singapore Ltd</div>
         </a>
       </div>
-										</div>
-		<div class="row">
       <div class="col is-4">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -259,6 +267,8 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Health Economist's Office, Ministry of Health (MOH)</div>
         </a>
       </div>
+																			</div>
+		<div class="row">
 			<div class="col is-4">
         <a class="speaker" href="/toh-han-chong">
           <div class="speaker-image-wrapper">
@@ -269,8 +279,6 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Professor, Duke-NUS Medical School</div>
         </a>
       </div>
-																</div>
-		<div class="row">
 			      <div class="col is-4">
         <a class="speaker" href="/henry-yau">
           <div class="speaker-image-wrapper">
@@ -292,6 +300,8 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Deputy Group Chief Medical Informatics Officer (Research), SingHealth</div>
         </a>
       </div>
+			  </div>
+<div class="row">
 			<div class="col is-4">
         <a class="speaker" href="/yeoh-ying-ying">
           <div class="speaker-image-wrapper">
@@ -302,8 +312,6 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Roche Pharmaceuticals, Singapore</div>
         </a>
       </div>
-  </div>
-<div class="row">
 	      <div class="col is-4">
         <a class="speaker" href="/akhmal-yusof">
           <div class="speaker-image-wrapper">
