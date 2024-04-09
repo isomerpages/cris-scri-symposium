@@ -260,7 +260,7 @@ Dr Ho Wen Qi</h4>
 			<div class="col is-4">
         <a class="speaker" href="/kelvin-bryan-tan">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_KelvinBryanTan.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Adj Prof Kelvin Bryan Tan</h4>
           <div class="speaker-position text-ellipsis">Principal Health Economist Chief</div>
