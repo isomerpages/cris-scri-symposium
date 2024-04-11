@@ -43,7 +43,7 @@ description: ""
       <div class="col is-4">
         <a class="speaker" href="/john-lim">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_John_Lim.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_JohnLim1.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof John Lim</h4>
           <div class="speaker-position text-ellipsis">Chairman, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
