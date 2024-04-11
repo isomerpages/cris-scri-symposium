@@ -6,7 +6,7 @@ description: ""
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_John_Lim.png">
+<img src="/images/Speakers_JohnLim1.png">
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Prof John Lim</b></h4>
@@ -14,10 +14,7 @@ description: ""
 Senior Advisor, Ministry of Health<br>
 Executive Director, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School</b>
 	
-<p>Professor John Lim is the inaugural Chairman of the Consortium for Clinical Research &amp; Innovation Singapore (CRIS), founding Executive Director of the Centre of Regulatory Excellence (CoRE) at the Duke-National University of Singapore Medical School, Senior Advisor at Singapore’s Ministry of Health, and Policy Core Lead at the SingHealth Duke-NUS Global Health Institute.</p>
-	
-<p>Formerly Chief Executive Officer of Singapore’s Health Sciences Authority and Deputy Director of Medical Services in MOH, Professor Lim has also held other senior positions in Singapore’s Health and Education ministries. His current roles promote capacity building, scientific excellence and innovation for health regulation and systems in Southeast Asia and Asia-Pacific. He is a member of the Singapore Food Agency Board, US Pharmacopoeia Council of the Convention and Asia-Pacific Chapter Chair, Davos Alzheimer’s Collaborative Leadership Group, and APEC Harmonization Center Advisory Board, among others. </p>
-	
-<p>Professor Lim has been awarded the DIA Global Connector Inspire Award and the Regulatory Affairs Professional Society’s Founder’s Award for leadership in promoting global collaboration, and shaping regulatory practice and policy throughout his career.</p>
+<p>Prof John Lim is Chairman of the Consortium for Clinical Research &amp; Innovation Singapore, Executive Director of the Duke-NUS Centre of Regulatory Excellence, Senior Advisor at Singapore’s Ministry of Health, and Policy Core Lead at the SingHealth Duke-NUS Global Health Institute. He graduated in medicine from the National University of Singapore and holds postgraduate degrees in public health from NUS and health policy and management from Harvard University.</p>
+<p>Formerly Chief Executive Officer of Singapore’s Health Sciences Authority and Deputy Director of Medical Services in MOH, Prof Lim sits on the Singapore Food Agency Board, Singapore Medical Council, and US Pharmacopoeia Council of the Convention, among others. He has received leadership awards from DIA and the Regulatory Affairs Professional Society for promoting global collaboration, and shaping regulatory practice and policy throughout his career.</p>
 </div>
 </div>
