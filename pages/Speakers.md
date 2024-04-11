@@ -325,8 +325,8 @@ Dr Ho Wen Qi</h4>
 </div></div></section>
 <style type="text/css">
 	.content .speaker {	text-decoration: none; }
-  .speaker-position { color: grey;}
-  .speaker-company { color: grey;}
+  .speaker-position { color: black;}
+  .speaker-company { color: black;}
 	.speaker .speaker-name { margin-top: 0px;	}
 	.speaker .speaker-image { width: 100%; }
 </style>
