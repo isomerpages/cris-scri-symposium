@@ -24,7 +24,7 @@ sections:
         - title: Programme
           description: ""
           url: /programme/day1/
-      variant: image
+      variant: center
       title: SCRI Clinical Trials Symposium 2024
       subtitle: "The Promise of Clinical Trials: Transforming Tomorrow's  Health"
   - infobar:
