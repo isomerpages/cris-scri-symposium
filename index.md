@@ -13,7 +13,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/MainBanner1.jpg
+      background: /images/MainBanner2.png
       key_highlights:
         - title: REGISTER NOW
           description: ""
