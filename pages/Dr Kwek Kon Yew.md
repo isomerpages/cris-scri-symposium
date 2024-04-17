@@ -1,5 +1,5 @@
 ---
-title: Kwek Kon Yew
+title: Dr Kwek Kon Yew
 permalink: /kwek-kon-yew/
 variant: markdown
 description: ""

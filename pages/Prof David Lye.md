@@ -1,5 +1,5 @@
 ---
-title: David Lye
+title: Prof David Lye
 permalink: /david-lye/
 variant: markdown
 description: ""

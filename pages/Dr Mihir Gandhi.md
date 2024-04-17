@@ -1,5 +1,5 @@
 ---
-title: Mihir Gandhi
+title: Dr Mihir Gandhi
 permalink: /mihir-gandhi/
 variant: markdown
 description: ""

@@ -163,7 +163,7 @@ Dr Ho Wen Qi</h4>
 					<div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
 							</a></div>
 						      <div class="col is-4">
-        <a class="speaker" href="/julie-marsh">
+        <a class="speaker">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
@@ -174,7 +174,7 @@ Dr Ho Wen Qi</h4>
 					</div>
 		    <div class="row">
 			<div class="col is-4">
-        <a class="speaker" href="/ng-choon-peng">
+        <a class="speaker">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
@@ -325,6 +325,8 @@ Dr Ho Wen Qi</h4>
 </div></div></section>
 <style type="text/css">
 	.content .speaker {	text-decoration: none; }
+  .speaker-position { color: black;}
+  .speaker-company { color: black;}
 	.speaker .speaker-name { margin-top: 0px;	}
 	.speaker .speaker-image { width: 100%; }
 </style>

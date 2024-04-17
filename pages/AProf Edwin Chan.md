@@ -1,5 +1,5 @@
 ---
-title: Edwin Chan
+title: AProf Edwin Chan
 permalink: /edwin-chan/
 variant: markdown
 description: ""

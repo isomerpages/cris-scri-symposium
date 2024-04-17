@@ -1,5 +1,5 @@
 ---
-title: Daphne Gardner
+title: Dr Daphne Gardner
 permalink: /daphne-gardner/
 variant: markdown
 description: ""

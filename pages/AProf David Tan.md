@@ -1,5 +1,5 @@
 ---
-title: David Tan
+title: AProf David Tan
 permalink: /david-tan/
 variant: markdown
 description: ""

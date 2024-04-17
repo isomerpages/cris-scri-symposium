@@ -1,5 +1,5 @@
 ---
-title: Kenneth Mak
+title: Prof Kenneth Mak
 permalink: /kenneth-mak/
 variant: markdown
 description: ""

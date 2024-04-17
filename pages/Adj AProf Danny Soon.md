@@ -1,5 +1,5 @@
 ---
-title: Danny Soon
+title: Adj AProf Danny Soon
 permalink: /danny-soon/
 variant: markdown
 description: ""

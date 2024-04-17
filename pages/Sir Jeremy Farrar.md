@@ -1,5 +1,5 @@
 ---
-title: Jeremy Farrar
+title: Sir Jeremy Farrar
 permalink: /jeremy-farrar/
 variant: markdown
 description: ""

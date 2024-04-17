@@ -1,5 +1,5 @@
 ---
-title: John Lim
+title: Prof John Lim
 permalink: /john-lim/
 variant: markdown
 description: ""

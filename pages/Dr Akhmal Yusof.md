@@ -1,5 +1,5 @@
 ---
-title: Akhmal Yusof
+title: Dr Akhmal Yusof
 permalink: /akhmal-yusof/
 variant: markdown
 description: ""

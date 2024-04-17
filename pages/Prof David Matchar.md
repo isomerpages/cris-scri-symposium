@@ -1,5 +1,5 @@
 ---
-title: David Matchar
+title: Prof David Matchar
 permalink: /david-matchar/
 variant: markdown
 description: ""

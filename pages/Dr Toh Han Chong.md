@@ -1,5 +1,5 @@
 ---
-title: Toh Han Chong
+title: Dr Toh Han Chong
 permalink: /toh-han-chong/
 variant: markdown
 description: ""
