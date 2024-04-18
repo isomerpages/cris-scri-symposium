@@ -176,7 +176,7 @@ Dr Ho Wen Qi</h4>
 			<div class="col is-4">
         <a class="speaker">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_NgChoonPeng.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Ng Choon Peng</h4>
           <div class="speaker-position text-ellipsis">CEO and Co-Founder</div>
