@@ -174,7 +174,7 @@ Dr Ho Wen Qi</h4>
 					</div>
 		    <div class="row">
 			<div class="col is-4">
-        <a class="speaker">
+        <a class="speaker" href="/ng-choon-peng">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_NgChoonPeng.png" alt="">
           </div>
