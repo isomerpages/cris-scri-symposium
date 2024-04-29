@@ -10,7 +10,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Adj Asst Prof Oh Hong Choon</b></h4>
-<b>Deputy Director, Health Services Research, CGH<br>
+<b>Deputy Director, Health Services Research, Changi General Hospital<br>
 Deputy Director, Centre for Population Health Research &amp; Implementation, SingHealth<br>
 Adjunct Assistant Professor, Duke-NUS Graduate Medical School<br>
 Adjunct Senior Fellow, SUTD Academy</b>
