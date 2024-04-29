@@ -6,15 +6,15 @@ description: ""
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_KwekKonYew2.png">
+<img src="/images/Speakers_OhHongChoon.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Dr Kwek Kon Yew</b></h4>
-<b>Senior Vice President, Clinical Development<br>
-Hummingbird Bioscience</b>
+	<h4><b>Adj Asst Prof Oh Hong Choon</b></h4>
+<b>Deputy Director, Health Services Research, CGH<br>
+Deputy Director, Centre for Population Health Research &amp; Implementation, SingHealth<br>
+Adjunct Assistant Professor, Duke-NUS Graduate Medical School<br>
+Adjunct Senior Fellow, SUTD Academy</b>
 	
-<p>Dr Kwek Kon Yew is Senior Vice President of Clinical Development at Hummingbird Bioscience. Prior to joining the company, Kon Yew was Vice President of Clinical Development at Akeso Biopharma (HKEX: 9926), where he was responsible for Phase I to III immune-oncology clinical trials outside China; and represented clinical development to regulatory authorities, investigators, investors and key opinion leaders. His broad industry experience also includes serving as an investigator at Eli Lilly’s clinical research unit and the Head of Phase I and Drug Development Safety at IQVIA, advising on both oncology and non-oncology early clinical development studies.</p>
-	
-<p>Dr Kwek completed his undergraduate medical training at Oxford Medical School; and read for a doctorate in Molecular Biology on an EP Abraham Research Studentship at Oxford University. He also holds graduate diplomas in Family Medicine and Palliative Medicine from the National University of Singapore; and a Certificate in Human Pharmacology from the Faculty of Pharmaceutical Medicine, Royal Colleges of Physicians.</p>
+<p>After earning his doctoral degree in engineering in 2009, Adj Asst Prof Oh Hong Choon has been involved extensively in health services research in various public healthcare institutions in Singapore. He currently heads the Health Services Research team in CGH which primarily leads and supports CGH researchers in the domains of analytics, health technology assessment and program evaluation. Adj Asst Prof Oh also serves as Deputy Director at SingHealth Centre for Population Health Research and Implementation where he leads the evaluation effort of key population health programmes within the SingHealth cluster. On educational front, he teaches analytics in academic programs organized by NUS and SingHealth-SUTD. His current research interest is in the areas of prescriptive/predictive analytics, and cost effectiveness evaluation.</p>
 </div>
 </div>
