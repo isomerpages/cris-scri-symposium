@@ -253,7 +253,7 @@ Dr Ho Wen Qi</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_IndriRooslamiatiSupriadi.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Ms Indri Rooslamiati Supriadi</h4>
-<div class="speaker-position text-ellipsis">Acting Director, National Institute of Biomedical Genome and Science Initiative</div>
+<div class="speaker-position text-ellipsis">Acting Director, National Biomedical Genome and Science Institute</div>
           <div class="speaker-company text-ellipsis">Ministry of Health, Indonesia</div>
 </a></div>
       <div class="col is-4">
