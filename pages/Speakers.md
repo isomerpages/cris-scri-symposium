@@ -227,7 +227,7 @@ Dr Ho Wen Qi</h4>
         </a>
       </div>
 			<div class="col is-4">
-        <a class="speaker">
+        <a class="speaker" href="/indri-rooslamiati-supriadi">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_IndriRooslamiatiSupriadi.png" alt="">
           </div>
