@@ -163,13 +163,13 @@ Dr Ho Wen Qi</h4>
 					<div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
 							</a></div>
 						      <div class="col is-4">
-        <a class="speaker">
+        <a class="speaker" href="/julie-marsh">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_JulieMarsh.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Prof Julie Marsh</h4>
-          <div class="speaker-position text-ellipsis">Biostatistician &amp; Adjunct Senior Research Fellow</div>
-          <div class="speaker-company text-ellipsis">UWA Medical School, UWA Centre for Child Health Research (affiliated with the Telethon Kids Institute)</div>
+          <h4 class="speaker-name text-ellipsis">A/Prof Julie Marsh</h4>
+          <div class="speaker-position text-ellipsis">Biostatistician</div>
+          <div class="speaker-company text-ellipsis">Telethon Kids Institute and University of Western Australia Medical School</div>
 							</a></div>
 					</div>
 		    <div class="row">
