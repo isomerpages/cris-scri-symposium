@@ -10,7 +10,7 @@ description: "The SCRI Clinical Trials Symposium 2024 is themed “The Promise o
   economic outcomes in Singapore and beyond."
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Register By 31 May 2024 to Enjoy Early Bird Rates!
 sections:
   - hero:
       background: /images/MainBanner2.png
