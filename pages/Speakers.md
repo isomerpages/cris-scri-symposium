@@ -5,6 +5,26 @@ variant: markdown
 description: ""
 ---
 <div>
+  <h3>Guest of Honour</h3>
+</div>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-3"></div><div class="col is-6">
+        <a class="speaker" href="/dpm-heng-swee-keat">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_DPMHeng.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">DPM Heng Swee Keat</h4>
+          <div class="speaker-position text-ellipsis">Deputy Prime Minister</div>
+<div class="speaker-company text-ellipsis">Coordinating Minister for Economic Policies</div>
+<div class="speaker-company text-ellipsis">Chairman, Future Economy Council (FEC) and National Research Foundation (NRF) Board</div>
+        </a>
+      </div>
+		</div></div></section>
+		
+<div>
   <h3>Keynote Speakers</h3>
 </div>
 
