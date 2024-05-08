@@ -360,7 +360,7 @@ Dr Ho Wen Qi</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Yeo Jing Ping</h4>
-          <div class="speaker-position text-ellipsis">Head, Project Operations, Asia-Pacific</div>
+          <div class="speaker-position text-ellipsis">Head, Project Operations, <br>Asia-Pacific</div>
           <div class="speaker-company text-ellipsis">George Clinical</div>
         </a>
       </div>
