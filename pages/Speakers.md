@@ -161,13 +161,13 @@ Dr Ho Wen Qi</h4>
 					    </div>
     <div class="row">
 							<div class="col is-4">
-        <a class="speaker">
+        <a class="speaker" href="/kenneth-lee">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_KennethLee.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Kenneth Lee</h4>
-          <div class="speaker-position text-ellipsis">Vice President, Head of Global Consulting and JAPAC Clinical Proposal Teams</div>
-          <div class="speaker-company text-ellipsis">Parexel</div>
+          <div class="speaker-position text-ellipsis">Vice President, Commercial Operations</div>
+          <div class="speaker-company text-ellipsis">Parexel International</div>
         </a>
       </div>
 				<div class="col is-4">
@@ -228,7 +228,7 @@ Dr Ho Wen Qi</h4>
 						<div class="col is-4">
         <a class="speaker">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_JoanneNgeow.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">A/Prof Joanne Ngeow</h4>
           <div class="speaker-position text-ellipsis">Head (Cancer Genetics Service) &amp; Senior Consultant (Division of Medical Oncology), National Cancer Centre Singapore</div>
@@ -364,9 +364,9 @@ Dr Ho Wen Qi</h4>
         </a>
       </div>
 		<div class="col is-4">
-        <a class="speaker">
+         <a class="speaker" href="/jing-ping-yeo">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_JingPingYeo.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Yeo Jing Ping</h4>
           <div class="speaker-position text-ellipsis">Head, Project Operations, <br>Asia-Pacific</div>
