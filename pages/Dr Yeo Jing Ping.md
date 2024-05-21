@@ -6,19 +6,16 @@ description: ""
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_KennethLee.png">
+<img src="/images/Speakers_JingPingYeo.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Mr Kenneth Lee</b></h4>
-<b>Vice-President, Commercial Operations<br>
-	Parexel International</b>
+	<h4><b>Dr Yeo Jing Ping</b></h4>
+<b>Regional Head, Project Operations APAC<br>
+	George Clinical</b>
 	
-<p>Kenneth heads the Clinical proposal team in Asia managing the pricing of clinical studies in the region. He also manages the Consulting and Clinical Trial Supplies &amp; Logistics proposal teams globally to ensure alignment across the different geographical regions.</p>
+<p>Dr Yeo has more than 26 years of clinical research experience in the institution, pharmaceutical and CRO industries. She is currently the APAC Regional Head of Project Operations and Head of Transformation in George Clinical.  Until recently, she was the Vice President in Cytel and General Manager for Asia Pacific, responsible for the growth in Asia. Prior to joining Cytel, she was the Director for Research Integrity, Compliance and Ethics in SingHealth. She was previously the Corporate Vice President for PAREXEL International CRO and has also worked in Quintiles and Novo Nordisk.</p>
 
-<p>Prior to taking on global responsibilities, Kenneth managed both the proposal and contracts teams in Asia.  Before joining Parexel, Kenneth was the Director for Partner Accounts at Medidata and had oversight of collaborations with partners in the region. Prior to joining Medidata, Kenneth was with the Corporate Development function of Quintiles Asia responsible for integrating Consulting, Clinical and Commercial services in Asia.</p>
-
-<p>In the early stage of his career, Kenneth also served as a Senior Officer with the Economic Development Board of Singapore. Kenneth graduated from the National University of Singapore with a BSc (Honors in Cell and Molecular Biology) and from the Manchester Business School with a MBA (Merit in Finance)..
-
+<p>Dr Yeo brings with her wealth of experience in all aspects of clinical development, including strategic planning, commercial, budget management, clinical operations, project management, biometrics, medical writing, medical affairs, quality management, audits, biobanking (tissue banking), compliance, research integrity and IRB.  She is currently the Chair of Steering Committee Member for the Singapore Chapter of Drug Information Association (DIA), Program Committee for DIA-Asia and Chair of Singapore Clinical Research Professionals Association.  In addition, she is an active speaker in the academic institutions, in Pharmaceutical and CRO forums.
 </p>
 </div>
 </div>
