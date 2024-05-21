@@ -17,7 +17,7 @@ description: ""
 
 <p>Prior to taking on global responsibilities, Kenneth managed both the proposal and contracts teams in Asia.  Before joining Parexel, Kenneth was the Director for Partner Accounts at Medidata and had oversight of collaborations with partners in the region. Prior to joining Medidata, Kenneth was with the Corporate Development function of Quintiles Asia responsible for integrating Consulting, Clinical and Commercial services in Asia.</p>
 
-<p>In the early stage of his career, Kenneth also served as a Senior Officer with the Economic Development Board of Singapore. Kenneth graduated from the National University of Singapore with a BSc (Honors in Cell and Molecular Biology) and from the Manchester Business School with a MBA (Merit in Finance)..
+<p>In the early stage of his career, Kenneth also served as a Senior Officer with the Economic Development Board of Singapore. Kenneth graduated from the National University of Singapore with a BSc (Honors in Cell and Molecular Biology) and from the Manchester Business School with a MBA (Merit in Finance).
 
 </p>
 </div>
