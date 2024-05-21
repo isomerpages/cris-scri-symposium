@@ -1,5 +1,5 @@
 ---
-title: DPM Heng Swee Keat
+title: Mr Heng Swee Keat
 permalink: /dpm-heng-swee-keat/
 variant: markdown
 description: ""
@@ -9,10 +9,10 @@ description: ""
 <img src="/images/Speakers_DPMHeng.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>DPM Heng Swee Keat</b></h4>
+	<h4><b>Mr Heng Swee Keat</b></h4>
 <b>Deputy Prime Minister<br>
 Coordinating Minister for Economic Policies<br>
-Chairman, Future Economy Council (FEC) and National Research Foundation (NRF) Board
+Chairman of the National Research Foundation
 </b>
 	
 <p>Mr Heng Swee Keat is Deputy Prime Minister and Coordinating Minister for Economic Policies. He is also Member of Parliament for East Coast GRC.</p>
