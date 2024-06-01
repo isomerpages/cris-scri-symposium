@@ -3,6 +3,7 @@ title: Ms Geraldine Lim
 permalink: /geraldine-lim/
 variant: markdown
 description: ""
+image: /images/Speakers_GeraldineLim.png
 ---
 <div class="row">
 <div class="col is-3">

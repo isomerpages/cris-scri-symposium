@@ -3,6 +3,7 @@ title: Prof David Matchar
 permalink: /david-matchar/
 variant: markdown
 description: ""
+image: /images/Speakers_DavidMatchar.png
 ---
 <div class="row">
 <div class="col is-3">

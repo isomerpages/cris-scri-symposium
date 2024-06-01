@@ -3,6 +3,7 @@ title: Ms Poh Hwee Tee
 permalink: /poh-hwee-tee/
 variant: markdown
 description: ""
+image: /images/Speakers_PohHweeTee.png
 ---
 <div class="row">
 <div class="col is-3">

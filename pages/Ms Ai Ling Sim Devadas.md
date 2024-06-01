@@ -3,6 +3,7 @@ title: Ms Ai Ling Sim Devadas
 permalink: /ailing-simdevadas/
 variant: markdown
 description: ""
+image: /images/Speakers_AiLingSimDevadas.png
 ---
 <div class="row">
 <div class="col is-3">

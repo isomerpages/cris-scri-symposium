@@ -3,6 +3,7 @@ title: Prof Kenneth Mak
 permalink: /kenneth-mak/
 variant: markdown
 description: ""
+image: /images/Speakers_KennethMak.png
 ---
 <div class="row">
 <div class="col is-3">

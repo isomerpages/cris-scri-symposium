@@ -3,6 +3,7 @@ title: Ms Evelyn Pang
 permalink: /evelyn-pang/
 variant: markdown
 description: ""
+image: /images/Speakers_EvelynPang.png
 ---
 <div class="row">
 <div class="col is-3">

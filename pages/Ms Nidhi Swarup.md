@@ -3,6 +3,7 @@ title: Ms Nidhi Swarup
 permalink: /nidhi-swarup/
 variant: markdown
 description: ""
+image: /images/Speaker_NidhiSwarup.png
 ---
 <div class="row">
 <div class="col is-3">

@@ -3,6 +3,7 @@ title: Adj AProf Danny Soon
 permalink: /danny-soon/
 variant: markdown
 description: ""
+image: /images/Speakers_Danny_Soon.png
 ---
 <div class="row">
 <div class="col is-3">

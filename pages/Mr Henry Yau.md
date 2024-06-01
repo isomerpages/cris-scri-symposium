@@ -3,6 +3,7 @@ title: Mr Henry Yau
 permalink: /henry-yau/
 variant: markdown
 description: ""
+image: /images/Speakers_HenryYau.png
 ---
 <div class="row">
 <div class="col is-3">

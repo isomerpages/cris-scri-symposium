@@ -3,6 +3,7 @@ title: AProf David Tan
 permalink: /david-tan/
 variant: markdown
 description: ""
+image: /images/Speakers_DavidTan.png
 ---
 <div class="row">
 <div class="col is-3">

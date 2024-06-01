@@ -3,6 +3,7 @@ title: Dr Nikki Kitikiti
 permalink: /nikki-kitikiti/
 variant: markdown
 description: ""
+image: /images/Speakers_NikkiKitikiti.png
 ---
 <div class="row">
 <div class="col is-3">

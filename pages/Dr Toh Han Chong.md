@@ -3,6 +3,7 @@ title: Dr Toh Han Chong
 permalink: /toh-han-chong/
 variant: markdown
 description: ""
+image: /images/Speakers_TohHanChong.png
 ---
 <div class="row">
 <div class="col is-3">

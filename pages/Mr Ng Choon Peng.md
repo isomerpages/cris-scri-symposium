@@ -3,6 +3,7 @@ title: Mr Ng Choon Peng
 permalink: /ng-choon-peng/
 variant: markdown
 description: ""
+image: /images/Speakers_NgChoonPeng.png
 ---
 <div class="row">
 <div class="col is-3">

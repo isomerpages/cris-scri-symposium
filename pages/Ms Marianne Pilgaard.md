@@ -3,6 +3,7 @@ title: Ms Marianne Pilgaard
 permalink: /marianne-pilgaard/
 variant: markdown
 description: ""
+image: /images/Speakers_MariannePilgaard.png
 ---
 <div class="row">
 <div class="col is-3">

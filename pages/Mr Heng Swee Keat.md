@@ -3,6 +3,7 @@ title: Mr Heng Swee Keat
 permalink: /dpm-heng-swee-keat/
 variant: markdown
 description: ""
+image: /images/Speakers_DPMHeng.png
 ---
 <div class="row">
 <div class="col is-3">

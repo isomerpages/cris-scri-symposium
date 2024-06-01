@@ -3,6 +3,7 @@ title: Prof Yeo Khung Keong
 permalink: /yeo-khung-keong/
 variant: markdown
 description: ""
+image: /images/Speakers_YeoKhungKeong.png
 ---
 <div class="row">
 <div class="col is-3">

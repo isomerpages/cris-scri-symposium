@@ -3,6 +3,7 @@ title: Dr Akhmal Yusof
 permalink: /akhmal-yusof/
 variant: markdown
 description: ""
+image: /images/Speakers_AkhmalYusof.png
 ---
 <div class="row">
 <div class="col is-3">

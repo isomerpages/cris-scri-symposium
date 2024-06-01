@@ -3,6 +3,7 @@ title: Sir Jeremy Farrar
 permalink: /jeremy-farrar/
 variant: markdown
 description: ""
+image: /images/Speakers_JeremyFarrar.png
 ---
 <div class="row">
 <div class="col is-3">

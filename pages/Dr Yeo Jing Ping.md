@@ -3,6 +3,7 @@ title: Dr Yeo Jing Ping
 permalink: /jing-ping-yeo/
 variant: markdown
 description: ""
+image: /images/Speakers_JingPingYeo.png
 ---
 <div class="row">
 <div class="col is-3">

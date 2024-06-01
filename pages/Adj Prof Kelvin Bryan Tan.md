@@ -3,6 +3,7 @@ title: Adj Prof Kelvin Bryan Tan
 permalink: /kelvin-bryan-tan/
 variant: markdown
 description: ""
+image: /images/Speakers_KelvinBryanTan.png
 ---
 <div class="row">
 <div class="col is-3">

@@ -3,6 +3,7 @@ title: Dr Venkateshan Srirangam
 permalink: /venkateshan-srirangam/
 variant: markdown
 description: ""
+image: /images/Speakers_VenkySrirangam.png
 ---
 <div class="row">
 <div class="col is-3">

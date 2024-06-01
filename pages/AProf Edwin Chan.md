@@ -3,6 +3,7 @@ title: AProf Edwin Chan
 permalink: /edwin-chan/
 variant: markdown
 description: ""
+image: /images/Speakers_EdwinChan.png
 ---
 <div class="row">
 <div class="col is-3">

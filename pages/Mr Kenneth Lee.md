@@ -3,6 +3,7 @@ title: Mr Kenneth Lee
 permalink: /kenneth-lee/
 variant: markdown
 description: ""
+image: /images/Speakers_KennethLee.png
 ---
 <div class="row">
 <div class="col is-3">

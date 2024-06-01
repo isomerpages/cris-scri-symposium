@@ -3,6 +3,7 @@ title: Dr Mihir Gandhi
 permalink: /mihir-gandhi/
 variant: markdown
 description: ""
+image: /images/Speaker_MihirGandhi.png
 ---
 <div class="row">
 <div class="col is-3">

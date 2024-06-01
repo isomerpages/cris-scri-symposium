@@ -3,6 +3,7 @@ title: AProf Julie Marsh
 permalink: /julie-marsh/
 variant: markdown
 description: ""
+image: /images/Speakers_JulieMarsh.png
 ---
 <div class="row">
 <div class="col is-3">

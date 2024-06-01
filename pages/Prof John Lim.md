@@ -3,6 +3,7 @@ title: Prof John Lim
 permalink: /john-lim/
 variant: markdown
 description: ""
+image: /images/Speakers_JohnLim1.png
 ---
 <div class="row">
 <div class="col is-3">

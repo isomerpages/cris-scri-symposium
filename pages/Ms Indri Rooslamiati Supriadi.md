@@ -3,6 +3,7 @@ title: Ms Indri Rooslamiati Supriadi
 permalink: /indri-rooslamiati-supriadi/
 variant: markdown
 description: ""
+image: /images/Speakers_IndriRooslamiatiSupriadi.png
 ---
 <div class="row">
 <div class="col is-3">

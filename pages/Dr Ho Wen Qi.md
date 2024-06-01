@@ -3,6 +3,7 @@ title: Dr Ho Wen Qi
 permalink: /ho-wen-qi/
 variant: markdown
 description: ""
+image: /images/Speakers_WenQiHo.png
 ---
 <div class="row">
 <div class="col is-3">

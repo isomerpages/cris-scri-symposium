@@ -3,6 +3,7 @@ title: Ms Koh Mingshi
 permalink: /koh-mingshi/
 variant: markdown
 description: ""
+image: /images/Speakers_KohMingshi.png
 ---
 <div class="row">
 <div class="col is-3">

@@ -3,6 +3,7 @@ title: Adj Asst Prof Oh Hong Choon
 permalink: /oh-hong-choon/
 variant: markdown
 description: ""
+image: /images/Speakers_OhHongChoon.png
 ---
 <div class="row">
 <div class="col is-3">

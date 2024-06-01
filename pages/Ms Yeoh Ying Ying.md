@@ -3,6 +3,7 @@ title: Ms Yeoh Ying Ying
 permalink: /yeoh-ying-ying/
 variant: markdown
 description: ""
+image: /images/Speakers_YeohYingYing.png
 ---
 <div class="row">
 <div class="col is-3">

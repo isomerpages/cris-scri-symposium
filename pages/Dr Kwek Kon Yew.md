@@ -3,6 +3,7 @@ title: Dr Kwek Kon Yew
 permalink: /kwek-kon-yew/
 variant: markdown
 description: ""
+image: /images/Speakers_KwekKonYew2.png
 ---
 <div class="row">
 <div class="col is-3">

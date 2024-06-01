@@ -3,6 +3,7 @@ title: Prof David Lye
 permalink: /david-lye/
 variant: markdown
 description: ""
+image: /images/Speakers_DavidLye.png
 ---
 <div class="row">
 <div class="col is-3">
