@@ -95,6 +95,26 @@ description: ""
       </div>
 					    </div>
 		<div class="row">
+			      <div class="col is-4">
+        <a class="speaker">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Ms Veronika Brandmair</h4>
+          <div class="speaker-position text-ellipsis">E-Clinical Solutions Specialist</div>
+										<div class="speaker-company text-ellipsis">Quadratek Data Solutions</div>
+        </a>
+      </div>
+			      <div class="col is-4">
+        <a class="speaker">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Karla Childers</h4>
+          <div class="speaker-position text-ellipsis">Head of Bioethics-based Science &amp; Technology Policy</div>
+										<div class="speaker-company text-ellipsis">Johnson &amp; Johnson</div>
+        </a>
+      </div>
       <div class="col is-4">
         <a class="speaker" href="/daphne-gardner">
           <div class="speaker-image-wrapper">
@@ -105,6 +125,8 @@ description: ""
 										<div class="speaker-company text-ellipsis">Singapore General Hospital (SGH)</div>
         </a>
       </div>
+			</div>
+		<div class="row">		
 			<div class="col is-4">
         <a class="speaker" href="/mihir-gandhi">
           <div class="speaker-image-wrapper">
@@ -113,6 +135,17 @@ description: ""
           <h4 class="speaker-name text-ellipsis">Dr Mihir Gandhi</h4>
           <div class="speaker-position text-ellipsis">Head, Biostatistics</div>
           <div class="speaker-company text-ellipsis">SCRI</div>
+        </a>
+      </div>
+						<div class="col is-4">
+        <a class="speaker" href="/derek-hausenloy">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_DerekHausenloy.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Derek Hausenloy</h4>
+          <div class="speaker-position text-ellipsis">Executive Director, Cardiovascular Disease National Collaborative Enterprise (CADENCE) </div>
+          <div class="speaker-company text-ellipsis">Research Director and Senior Consultant Cardiologist, National Heart Research Institute, National Heart Centre Singapore</div>
+					          <div class="speaker-company text-ellipsis">Professor (Signature Research Program in Cardiovascular &amp; Metabolic Disorders), Duke-NUS Medical School</div>
         </a>
       </div>
       <div class="col is-4">
