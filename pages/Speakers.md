@@ -378,10 +378,9 @@ Dr Ho Wen Qi</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">A/Prof Tan Cher Heng</h4>
-          <div class="speaker-position text-ellipsis">Senior Consultant (Department of Diagnostic Radiology) and  
-Assistant Chairman Medical Board (Clinical Research and Innovation), Tan Tock Seng Hospital (TTSH)
-</div>
-          <div class="speaker-company text-ellipsis">Assistant Dean (Clinical Research), Lee Kong Chian School of Medicine, Nanyang Technological University (NTU)</div>
+          <div class="text-ellipsis speaker-position">Group Chief Research and Innovation Officer, National Healthcare Group (NHG)</div>
+										<div class="text-ellipsis speaker-company">Senior Consultant (Department of Diagnostic Radiology) and Assistant Chairman Medical Board (Clinical Research and Innovation), Tan Tock Seng Hospital (TTSH) </div> 
+                    <div class="text-ellipsis speaker-company">Assistant Dean (Clinical Research), Lee Kong Chian School of Medicine, Nanyang Technological University (NTU)</div>
         </a>
       </div>
 						  </div>
