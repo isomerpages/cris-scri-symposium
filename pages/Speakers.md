@@ -381,7 +381,7 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-position text-ellipsis">Senior Consultant (Department of Diagnostic Radiology) and  
 Assistant Chairman Medical Board (Clinical Research and Innovation), Tan Tock Seng Hospital (TTSH)
 </div>
-          <div class="speaker-company text-ellipsis">Assistant Dean (Clinical Research), Lee Kong Chian School of Medicine, Nanyang Technological University</div>
+          <div class="speaker-company text-ellipsis">Assistant Dean (Clinical Research), Lee Kong Chian School of Medicine, NTU</div>
         </a>
       </div>
 						  </div>
