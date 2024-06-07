@@ -95,6 +95,26 @@ description: ""
       </div>
 					    </div>
 		<div class="row">
+			      <div class="col is-4">
+        <a class="speaker">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Ms Veronika Brandmair</h4>
+          <div class="speaker-position text-ellipsis">E-Clinical Solutions Specialist</div>
+										<div class="speaker-company text-ellipsis">Quadratek Data Solutions</div>
+        </a>
+      </div>
+			      <div class="col is-4">
+        <a class="speaker">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Karla Childers</h4>
+          <div class="speaker-position text-ellipsis">Head of Bioethics-based Science &amp; Technology Policy</div>
+										<div class="speaker-company text-ellipsis">Johnson &amp; Johnson</div>
+        </a>
+      </div>
       <div class="col is-4">
         <a class="speaker" href="/daphne-gardner">
           <div class="speaker-image-wrapper">
@@ -105,6 +125,8 @@ description: ""
 										<div class="speaker-company text-ellipsis">Singapore General Hospital (SGH)</div>
         </a>
       </div>
+			</div>
+		<div class="row">		
 			<div class="col is-4">
         <a class="speaker" href="/mihir-gandhi">
           <div class="speaker-image-wrapper">
@@ -113,6 +135,17 @@ description: ""
           <h4 class="speaker-name text-ellipsis">Dr Mihir Gandhi</h4>
           <div class="speaker-position text-ellipsis">Head, Biostatistics</div>
           <div class="speaker-company text-ellipsis">SCRI</div>
+        </a>
+      </div>
+						<div class="col is-4">
+        <a class="speaker" href="/derek-hausenloy">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_DerekHausenloy.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Derek Hausenloy</h4>
+          <div class="speaker-position text-ellipsis">Executive Director, Cardiovascular Disease National Collaborative Enterprise (CADENCE) </div>
+          <div class="speaker-company text-ellipsis">Research Director and Senior Consultant Cardiologist, National Heart Research Institute, National Heart Centre Singapore</div>
+					          <div class="speaker-company text-ellipsis">Professor (Signature Research Program in Cardiovascular &amp; Metabolic Disorders), Duke-NUS Medical School</div>
         </a>
       </div>
       <div class="col is-4">
@@ -126,8 +159,18 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">ClavystBio</div>
         </a>
       </div>
-    </div>
+			    </div>
 		    <div class="row">
+										      <div class="col is-4">
+				<a class="speaker" href="/pramod-kashid">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_PramodKashid.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Pramod Kashid</h4>
+          <div class="speaker-position text-ellipsis">CEO</div>
+          <div class="speaker-company text-ellipsis">Expecto Health Science</div>
+        </a>
+      </div>
 					      <div class="col is-4">
 				<a class="speaker" href="/nikki-kitikiti">
           <div class="speaker-image-wrapper">
@@ -148,6 +191,8 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">MOH Office for Healthcare Transformation (MOHT)</div>
         </a>
       </div>
+								    </div>
+		    <div class="row">
       <div class="col is-4">
         <a class="speaker" href="/kwek-kon-yew">
           <div class="speaker-image-wrapper">
@@ -158,8 +203,6 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>
-					    </div>
-    <div class="row">
 							<div class="col is-4">
         <a class="speaker" href="/kenneth-lee">
           <div class="speaker-image-wrapper">
@@ -180,6 +223,8 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Changi General Hospital</div>
         </a>
       </div>
+										    </div>
+    <div class="row">
 			      <div class="col is-4">
         <a class="speaker" href="/david-lye">
           <div class="speaker-image-wrapper">
@@ -191,8 +236,6 @@ Dr Ho Wen Qi</h4>
 					<div class="speaker-position text-ellipsis">Professor, Lee Kong Chian School of Medicine, NTU &amp; Yong Loo Lin School of Medicine</div>
         </a>
       </div>
-					</div>
-		    <div class="row">
 			      <div class="col is-4">
         <a class="speaker" href="/david-matchar">
           <div class="speaker-image-wrapper">
@@ -213,6 +256,8 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-position text-ellipsis">Biostatistician</div>
           <div class="speaker-company text-ellipsis">Telethon Kids Institute and University of Western Australia Medical School</div>
 							</a></div>
+								</div>
+		    <div class="row">
 			<div class="col is-4">
         <a class="speaker" href="/ng-choon-peng">
           <div class="speaker-image-wrapper">
@@ -223,16 +268,14 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">ImmunoScape</div>
         </a>
       </div>
-		</div>
-		<div class="row">
 						<div class="col is-4">
-        <a class="speaker">
+        <a class="speaker" href="/joanne-ngeow">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_JoanneNgeow.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">A/Prof Joanne Ngeow</h4>
           <div class="speaker-position text-ellipsis">Head (Cancer Genetics Service) &amp; Senior Consultant (Division of Medical Oncology), National Cancer Centre Singapore</div>
-          <div class="speaker-company text-ellipsis">Associate Professor (Genomic Medicine), Lee Kong Chian School of Medicine, Nanyang Technological University</div>
+          <div class="speaker-company text-ellipsis">Associate Professor (Genomic Medicine), Lee Kong Chian School of Medicine, Nanyang Technological University (NTU)</div>
         </a>
       </div>
 			<div class="col is-4">
@@ -246,6 +289,18 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-position text-ellipsis">Adjunct Assistant Professor, Duke-NUS Graduate Medical School</div>
           <div class="speaker-position text-ellipsis">Adjunct Senior Fellow, SUTD Academy</div>
 </a></div>
+		</div>
+		<div class="row">
+											<div class="col is-4">
+        <a class="speaker" href="/serene-ong">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_SereneOng.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Ms Serene Ong</h4>
+          <div class="speaker-position text-ellipsis">Founder</div>
+          <div class="speaker-company text-ellipsis">Phoenixus</div>
+        </a>
+      </div>
 								<div class="col is-4">
         <a class="speaker" href="/evelyn-pang">
           <div class="speaker-image-wrapper">
@@ -256,8 +311,6 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Moderna Biotech Singapore</div>
         </a>
       </div>							
-      </div>
-		<div class="row">
 			      <div class="col is-4">
         <a class="speaker" href="/marianne-pilgaard">
           <div class="speaker-image-wrapper">
@@ -268,6 +321,8 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Trial Nation, Denmark </div>
         </a>
       </div>
+			      </div>
+		<div class="row">
 			<div class="col is-4">
         <a class="speaker" href="/poh-hwee-tee">
           <div class="speaker-image-wrapper">
@@ -288,8 +343,6 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Lee Kong Chian School of Medicine, Nanyang Technological University (NTU)</div>
         </a>
       </div>
-			</div>
-		<div class="row">
 								<div class="col is-4">
         <a class="speaker" href="/venkateshan-srirangam">
           <div class="speaker-image-wrapper">
@@ -297,7 +350,9 @@ Dr Ho Wen Qi</h4>
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Venkateshan Srirangam</h4>
           <div class="speaker-position text-ellipsis">Medical Director</div>
-          </a><div class="speaker-company text-ellipsis"><a class="speaker" href="/venkateshan-srirangam">Experimental Drug Development Centre (EDDC)        </a></div></div>
+          </a><div class="speaker-company text-ellipsis">Experimental Drug Development Centre (EDDC)   </div></div>
+						</div>
+		<div class="row">
 			<div class="col is-4">
         <a class="speaker" href="/indri-rooslamiati-supriadi">
           <div class="speaker-image-wrapper">
@@ -317,7 +372,18 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-company text-ellipsis">Alliance of Patients’ Organizations Singapore Ltd</div>
         </a>
       </div>
-			  </div>
+			      <div class="col is-4">
+        <a class="speaker">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">A/Prof Tan Cher Heng</h4>
+          <div class="text-ellipsis speaker-position">Group Chief Research and Innovation Officer, National Healthcare Group (NHG)</div>
+										<div class="text-ellipsis speaker-company">Senior Consultant (Department of Diagnostic Radiology) and Assistant Chairman Medical Board (Clinical Research and Innovation), Tan Tock Seng Hospital (TTSH) </div> 
+                    <div class="text-ellipsis speaker-company">Assistant Dean (Clinical Research), Lee Kong Chian School of Medicine, Nanyang Technological University (NTU)</div>
+        </a>
+      </div>
+						  </div>
 <div class="row">
 				      <div class="col is-4">
         <a class="speaker" href="/david-tan">
@@ -403,6 +469,16 @@ Dr Ho Wen Qi</h4>
           <h4 class="speaker-name text-ellipsis">Dr Akhmal Yusof</h4>
           <div class="speaker-position text-ellipsis">CEO</div>
           <div class="speaker-company text-ellipsis">Clinical Research Malaysia</div>
+        </a>
+      </div>
+				      <div class="col is-4">
+        <a class="speaker" href="/alex-zhavoronkov">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_AlexZhavoronkov.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Alex Zhavoronkov</h4>
+          <div class="speaker-position text-ellipsis">Founder and CEO </div>
+          <div class="speaker-company text-ellipsis">Insilico Medicine</div>
         </a>
       </div>
 </div></div></section>
