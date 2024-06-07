@@ -275,7 +275,7 @@ Dr Ho Wen Qi</h4>
           </div>
           <h4 class="speaker-name text-ellipsis">A/Prof Joanne Ngeow</h4>
           <div class="speaker-position text-ellipsis">Head (Cancer Genetics Service) &amp; Senior Consultant (Division of Medical Oncology), National Cancer Centre Singapore</div>
-          <div class="speaker-company text-ellipsis">Associate Professor (Genomic Medicine), Lee Kong Chian School of Medicine, Nanyang Technological University</div>
+          <div class="speaker-company text-ellipsis">Associate Professor (Genomic Medicine), Lee Kong Chian School of Medicine, Nanyang Technological University (NTU)</div>
         </a>
       </div>
 			<div class="col is-4">
@@ -381,7 +381,7 @@ Dr Ho Wen Qi</h4>
           <div class="speaker-position text-ellipsis">Senior Consultant (Department of Diagnostic Radiology) and  
 Assistant Chairman Medical Board (Clinical Research and Innovation), Tan Tock Seng Hospital (TTSH)
 </div>
-          <div class="speaker-company text-ellipsis">Assistant Dean (Clinical Research), Lee Kong Chian School of Medicine, NTU</div>
+          <div class="speaker-company text-ellipsis">Assistant Dean (Clinical Research), Lee Kong Chian School of Medicine, Nanyang Technological University (NTU)</div>
         </a>
       </div>
 						  </div>
