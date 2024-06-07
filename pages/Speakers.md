@@ -269,7 +269,7 @@ Dr Ho Wen Qi</h4>
         </a>
       </div>
 						<div class="col is-4">
-        <a class="speaker">
+        <a class="speaker" href="/joanne-ngeow">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_JoanneNgeow.png" alt="">
           </div>
