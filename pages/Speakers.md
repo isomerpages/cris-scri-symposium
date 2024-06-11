@@ -106,12 +106,13 @@ description: ""
         </a>
       </div>
 			      <div class="col is-4">
-        <a class="speaker">
+        <a class="speaker" href="/karla-childers">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_KarlaChilders.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Karla Childers</h4>
-          <div class="speaker-position text-ellipsis">Head of Bioethics-based Science &amp; Technology Policy</div>
+          <h4 class="speaker-name text-ellipsis">Ms Karla Childers</h4>
+          <div class="speaker-position text-ellipsis">Head, Bioethics-based Science &amp; Technology Policy</div>
+										<div class="speaker-company text-ellipsis">Office of the Chief Medical Officer</div>
 										<div class="speaker-company text-ellipsis">Johnson &amp; Johnson</div>
         </a>
       </div>
