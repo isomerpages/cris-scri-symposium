@@ -96,13 +96,13 @@ description: ""
 					    </div>
 		<div class="row">
 			      <div class="col is-4">
-        <a class="speaker">
+        <a class="speaker" href="/veronika-brandmair">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speaker_VeronikaBrandmair.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Ms Veronika Brandmair</h4>
           <div class="speaker-position text-ellipsis">E-Clinical Solutions Specialist</div>
-										<div class="speaker-company text-ellipsis">Quadratek Data Solutions</div>
+										<div class="speaker-company text-ellipsis">Quadratek Data Solutions Ltd.</div>
         </a>
       </div>
 			      <div class="col is-4">
