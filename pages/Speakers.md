@@ -374,9 +374,9 @@ Dr Ho Wen Qi</h4>
         </a>
       </div>
 			      <div class="col is-4">
-        <a class="speaker">
+        <a class="speaker" href="/tan-cher-heng">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Blank.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_TanCherHeng.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">A/Prof Tan Cher Heng</h4>
           <div class="text-ellipsis speaker-position">Group Chief Research and Innovation Officer, National Healthcare Group (NHG)</div>
