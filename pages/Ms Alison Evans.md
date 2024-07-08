@@ -11,10 +11,13 @@ image: /images/speakers_alisonevans.png
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Ms Alison Evans</b></h4>
-<b>Director, Duke-NUS AI + Medical Sciences Initiative (DAISI)<br>
-Associate Professor, Centre for Quantitative Medicine,<br>
-Duke-NUS Medical School
+<b>CEO<br>Australia New Zealand Gynaecological Oncology Group (ANZGOG)
 </b>
 	
-<p>A/Prof Liu Nan leads the Duke-NUS AI + Medical Sciences Initiative (DAISI) and directs the Digital Medicine Lab at Duke-NUS Medical School. His research focuses on AI and machine learning with applications to medical informatics, health services research, emergency and critical care, cardiology, and health innovation. A/Prof Liu has been awarded research grants from the Singapore National Medical Research Council and National Research Foundation. He was recognized as one of the World’s Top 2% Scientists by Stanford University and Elsevier. A/Prof Liu has served as an Editor for many prestigious journals, such as npj Digital Medicine and PLOS Medicine.</p>
+<p>Ms Evans has a marketing and communications background with a strong focus on building communities, membership and businesses. She has been ANZGOG CEO for 12 years.</p>
+ 
+<p>ANZGOG is the peak national academic gynaecological oncology research network for Australia and New Zealand. It operates clinical trials across 80 ANZ hospitals and has 1450 members and 250+ volunteers.</p>
+ 
+<p>ANZGOG has implemented a new Community Engagement Program with three pillars of activity – Education, Advocacy and Research. The purpose is to improve outcomes for everyone with a lived experience of gynaecological cancer and ensures a role for First Nation’s peoples; culturally and linguistically diverse, LGBTQIA+ and people from remote areas or unmet needs. 
+</p>
 </div></div>
