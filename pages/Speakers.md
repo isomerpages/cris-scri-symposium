@@ -178,7 +178,7 @@ Dr Ho Wen Qi</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_NikkiKitikiti.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Nikki Kitikiti</h4>
-          <div class="speaker-position text-ellipsis">Vaccines Policy Lead, Growth &amp; Emerging Markets, Takeda Pharmaceuticals International</div>
+          <div class="speaker-position text-ellipsis">Vaccines External Engagement Lead, Takeda Pharmaceuticals International</div>
           <div class="speaker-company text-ellipsis">Associate Visiting Expert, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School</div>
         </a>
       </div>
