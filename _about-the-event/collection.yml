@@ -2,7 +2,7 @@ collections:
   about-the-event:
     output: true
     order:
-      - Partners.md
       - About The Event.md
       - Organiser.md
+      - Partners.md
       - Event Venue.md
