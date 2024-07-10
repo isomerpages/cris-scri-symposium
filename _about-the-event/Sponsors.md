@@ -6,7 +6,8 @@ description: ""
 ---
 <h4><strong>Our Sponsors</strong></h4>
 
-<p>This event would not be possible without the supoort of our esteemed sponsors:</p>
+<p>
+We extend our heartfelt gratitude to our esteemed sponsors for their unwavering support of SCRI Clinical Trials Symposium 2024. Their generous contributions have been instrumental in bringing together leading experts, researchers, and healthcare professionals to share their knowledge and advancements in clinical research. Thank you for making this event possible and for your continued dedication to advancing healthcare.</p>
 <div class="row padding--top--xl">
 	<div class="col is-7">
 <h5><strong>Gold Sponsor</strong></h5>
