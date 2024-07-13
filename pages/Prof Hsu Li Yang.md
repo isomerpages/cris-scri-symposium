@@ -11,9 +11,13 @@ image: /images/Speakers_HsuLiYang.png
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Prof Hsu Li Yang</b></h4>
-<b>Head, NCID Research Office
-Consultant, NCID and Tan Tock Seng Hospital<br>
-Assistant Professor, Lee Kong Chian School of Medicine<br>
+<b>Vice Dean (Global Health), Programme Leader (Infectious Diseases) and Professor, NUS Saw
+Swee Hock School of Public Health (Primary)<br>
+Professor, NUS Yong Loo Lin School of Medicine (Joint)<br>
+Associate Director, NUS Singapore Centre for Environmental Life Sciences Engineering<br>
+Visiting Consultant, St Luke’s Hospital<br>
+Visiting Consultant, Ang Mo Kio Community Hospital<br>
+Adjunct Clinician-Scientist, NanoBio Lab, A*STAR
 </b>
 	
 <p>Prof Hsu Li Yang is an infectious diseases physician who has spent the past decade researching and
