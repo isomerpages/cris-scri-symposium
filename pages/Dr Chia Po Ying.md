@@ -11,7 +11,7 @@ image: /images/Speakers_ChiaPoYing.png
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Dr Chia Po Ying</b></h4>
-<b>Head, NCID Research Office
+<b>Head, NCID Research Office<br>
 Consultant, NCID and Tan Tock Seng Hospital<br>
 Assistant Professor, Lee Kong Chian School of Medicine<br>
 </b>
