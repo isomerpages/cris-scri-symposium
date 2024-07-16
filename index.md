@@ -53,4 +53,14 @@ sections:
       url: /register/
       image: /images/SCRI_Web_Theme_pic_01.jpg
       alt: Image alt text
+  - infocols:
+      title: Updates
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Venue
+          description: The symposium will be held at the Stamford Ballroom (Level 4), RCCC.
+        - title: Admin Reminders
+          description: A reminder email will be sent 1 week prior to the event to all
+            registered delegates with administrative instructions.
 ---

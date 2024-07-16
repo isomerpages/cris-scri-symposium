@@ -217,7 +217,7 @@ Prof Hsu Li Yang</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_PramodKashid.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Pramod Kashid</h4>
-          <div class="speaker-position text-ellipsis">Chief Executive Officer</div>
+          <div class="speaker-position text-ellipsis">CEO</div>
           <div class="speaker-company text-ellipsis">Expecto Health Science</div>
         </a>
       </div>				

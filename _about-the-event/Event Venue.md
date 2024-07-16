@@ -4,11 +4,11 @@ permalink: /event-venue/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Raffles City Convention Centre</strong></h4>
-<p>The SCRI Clinical Trials Symposium 2024 will be held at the Raffles City
-Convention Centre, Singapore. As one of largest, most comprehensive and
-accessible exhibition and convention centres in Singapore, Raffles City
-Convention Centre is an important venue for domestic and international
+<h4><strong>Raffles City Convention Centre (Stamford Ballroom)</strong></h4>
+<p>The SCRI Clinical Trials Symposium 2024 will be held at the Stamford Ballroom
+(Level 4) of the Raffles City Convention Centre. As one of largest, most
+comprehensive and accessible exhibition and convention centres in Singapore,
+Raffles City Convention Centre is an important venue for domestic and international
 large-scale conventions and exhibitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/raffles.png">
