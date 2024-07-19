@@ -22,7 +22,7 @@ We extend our heartfelt gratitude to our esteemed sponsors and partners for thei
 		<a href="https://www.csimedicalresearch.com/"><img src="/images/CSIMedicalResearch.jpg"></a>
 	</div></div>
 <div class="row">
-<div class="col is-8">
+<div class="col is-9">
 								<h5><strong>Healthcare Cluster Partners</strong></h5>
 		<img src="/images/HealthcarePartners.jpg">
 	</div>
