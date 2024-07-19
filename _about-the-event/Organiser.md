@@ -25,7 +25,8 @@ description: ""
 3.  	Academic Research Partnerships<br>
 4.  	SCRI Academy</p>
 
-<p>SCRI is a programme of CRIS and is supported by the National Medical Research Council.</p>
+<p>
+SCRI is a programme of the Consortium for Clinical Research and Innovation, Singapore (CRIS). SCRI is supported by the Singapore Ministry of Health through the NMRC Office, MOH Holdings Pte Ltd under the NMRC Enablers and Infrastructure Support for Clinical Trials-related Activities funding initiative (MOH-001144).</p>
 		<p>For more information, please visit the SCRI website <a href="https://www.scri.edu.sg">here</a>.</p>
 	</div>
 </div>
