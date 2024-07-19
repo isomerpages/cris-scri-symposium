@@ -20,7 +20,10 @@ We extend our heartfelt gratitude to our esteemed sponsors and partners for thei
 		<a href="https://www.zuelligpharma.com/"><img src="/images/ZuelligPharma.jpg"></a>
 						<h5><strong>Bronze Sponsor</strong></h5>
 		<a href="https://www.csimedicalresearch.com/"><img src="/images/CSIMedicalResearch.jpg"></a>
+	</div></div>
+<div class="row">
+<div class="col is-8">
 								<h5><strong>Healthcare Cluster Partners</strong></h5>
-		<a href="https://www.csimedicalresearch.com/"><img src="/images/CSIMedicalResearch.jpg"></a>
+		<img src="/images/HealthcarePartners.jpg">
 	</div>
 </div>
