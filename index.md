@@ -10,7 +10,7 @@ description: "The SCRI Clinical Trials Symposium 2024 is themed “The Promise o
   economic outcomes in Singapore and beyond."
 image: /images/At_A_Glance_05.png
 permalink: /
-notification: Online registration will be closed on 25 July 12pm. Onsite
+notification: Online registration will be closed from 25 July 12pm. Onsite
   registration is available on 30-31 Jul.
 sections:
   - hero:
