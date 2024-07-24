@@ -62,6 +62,6 @@ sections:
         - title: Venue
           description: The symposium will be held at the Stamford Ballroom (Level 4), RCCC.
         - title: Admin Reminders
-          description: A reminder email will be sent 1 week prior to the event to all
-            registered delegates with administrative instructions.
+          description: A reminder email will be sent on 25 Jul to all registered
+            delegates. Please check your spam / junk mail.
 ---
