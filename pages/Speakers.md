@@ -18,7 +18,6 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Heng Swee Keat</h4>
           <div class="speaker-position text-ellipsis">Deputy Prime Minister</div>
-<div class="speaker-company text-ellipsis">Coordinating Minister for Economic Policies</div>
 <div class="speaker-company text-ellipsis">Chairman of the National Research Foundation</div>
         </a>
       </div>
