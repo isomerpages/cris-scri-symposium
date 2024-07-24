@@ -12,11 +12,10 @@ image: /images/Speakers_DPMHeng.png
 <div class="col is-9 speaker-details">
 	<h4><b>Mr Heng Swee Keat</b></h4>
 <b>Deputy Prime Minister<br>
-Coordinating Minister for Economic Policies<br>
 Chairman of the National Research Foundation
 </b>
 	
-<p>Mr Heng Swee Keat is Deputy Prime Minister and Coordinating Minister for Economic Policies. He is also Member of Parliament for East Coast GRC.</p>
+<p>Mr Heng Swee Keat is Deputy Prime Minister and Member of Parliament for East Coast GRC.</p>
 
 <p>Mr Heng chairs the tripartite Future Economy Council which oversees the on-going restructuring of our economy, through upgrading the skills of our workers and transformation of industry, to create better career prospects for our people. He is also the Chairman of the National Research Foundation, which sets the direction for Singapore's research, innovation and enterprise (RIE) strategies.</p>
 
