@@ -539,7 +539,7 @@ Prof Hsu Li Yang</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_JingPingYeo.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Yeo Jing Ping</h4>
-          <div class="speaker-position text-ellipsis">Head, Project Operations, <br>APAC</div>
+          <div class="speaker-position text-ellipsis">Global Head, Project Operations<br>Head, Transformation</div>
           <div class="speaker-company text-ellipsis">George Clinical</div>
         </a>
       </div>
