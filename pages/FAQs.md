@@ -40,15 +40,15 @@ update the records.
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>What time do I need to turn up for registration?</strong>
-<br>Registration begins at 8.00am. Do come early for coffee and network with
-your fellow delegates.
+<br>Registration begins at 8.00am on 30-31 July 2024. Do come early for coffee
+and network with your fellow delegates on both days.
 <br>
 <br>
 </p>
 </li>
 <li>
 <p><strong>Is there a dress code?</strong>
-<br>Business formal.
+<br>Business attire.
 <br>
 <br>
 </p>
