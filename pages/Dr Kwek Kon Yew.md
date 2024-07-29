@@ -11,7 +11,7 @@ image: /images/Speakers_KwekKonYew2.png
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Dr Kwek Kon Yew</b></h4>
-<b>Senior Vice President - Clinical Development<br>
+<b>Chief Medical Officer<br>
 Hummingbird Bioscience</b>
 	
 <p>Dr Kwek Kon Yew is Chief Medical Officer at Hummingbird Bioscience. Prior to joining the company, Kon Yew was Vice President of Clinical Development at Akeso Biopharma (HKEX: 9926), where he was responsible for Phase I to III immune-oncology clinical trials outside China; and represented clinical development to regulatory authorities, investigators, investors and key opinion leaders. His broad industry experience also includes serving as an investigator at Eli Lilly’s clinical research unit and the Head of Phase I and Drug Development Safety at IQVIA, advising on both oncology and non-oncology early clinical development studies.</p>
