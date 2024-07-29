@@ -248,7 +248,7 @@ Prof Hsu Li Yang</h4>
             <img class="speaker-image img-fluid mb-3" src="/images/Speakers_KwekKonYew2.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Kwek Kon Yew</h4>
-          <div class="speaker-position text-ellipsis">Senior Vice President, Clinical Development</div>
+          <div class="speaker-position text-ellipsis">Senior Vice President- Clinical Development</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>					
