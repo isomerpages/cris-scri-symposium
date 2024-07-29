@@ -8,5 +8,7 @@ links:
     collection: programme
   - title: Speakers
     url: /speakers
+  - title: FAQs
+    url: /faqs
   - title: Contact Us
     url: /contact-us
