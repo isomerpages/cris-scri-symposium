@@ -10,8 +10,8 @@ description: "The SCRI Clinical Trials Symposium 2024 is themed “The Promise o
   economic outcomes in Singapore and beyond."
 image: /images/At_A_Glance_05.png
 permalink: /
-notification: Registration is now closed. Event reminder emails will be sent out
-  on 25 Jul to all delegates.
+notification: Registration is now closed. View FAQs for any questions about the
+  event. See you on 30-31 July at RCCC.
 sections:
   - hero:
       background: /images/MainBanner2.png
