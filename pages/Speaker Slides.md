@@ -18,7 +18,11 @@ Clinical Research Institute (SCRI).</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.scri-symposium.sg/david-matchar/" class="speaker-name text-ellipsis" rel="noopener" target="_blank">Prof David Matchar</a></strong>
+<p><strong><a href="/files/Track_1_Oh_Hong_Choon___CEA_ClinicalTrialsSCRI_Symposium_2024.pdf" class="speaker-name text-ellipsis" rel="noopener" target="_blank"><u>Adj Asst Prof Oh Hong Choon</u></a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/files/Track_1_Kelvin_Bryan_Tan___CEA_ClinicalTrialsSCRI_Symposium_2024.pdf" class="speaker-name text-ellipsis" rel="noopener" target="_blank">Adj Prof Kelvin Bryan Tan</a></strong>
 </p>
 </li>
 </ol>
