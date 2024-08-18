@@ -14,6 +14,15 @@ and distribute any content without prior written permission of the Singapore
 Clinical Research Institute (SCRI).</p>
 <p>For permission to use the contents, please contact the symposium secretariat
 <a href="mailto:events@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">events@scri.cris.sg</a>.</p>
+<p></p>
+<p><strong>The Value Proposition of Clinical Trials and The Official Launch of Centralised Clinical Trials Portal</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Danny_Soon_Value_Proposition_of_Clinical_Trials.pdf" rel="noopener noreferrer nofollow" target="_blank">Adj A/Prof Danny Soon</a>
+</p>
+</li>
+</ol>
 <p><strong>Track 1 - Health Economics and Outcomes Research (HEOR)</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -82,14 +91,51 @@ Clinical Research Institute (SCRI).</p>
 </p>
 </li>
 </ol>
-<p>Track 7: Biotech Sharing Session</p>
+<p><strong>Track 7: Biotech Sharing Session</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Track_7_Kwek_Kon_Yew__SCRI_HummingbirdBio.pdf" rel="noopener noreferrer nofollow" target="_blank">Dr Kwek Kon Yew</a>
 </p>
 </li>
 <li>
-<p>D<a href="/files/Track_7_Toh_Han_Chong___CRIS_Clinical_Trials_25th_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">r Toh Han Chong</a>
+<p><a href="/files/Track_7_Toh_Han_Chong___CRIS_Clinical_Trials_25th_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Dr Toh Han Chong</a>
+</p>
+</li>
+</ol>
+<p><strong>Track 8: Talent Development in Clinical Trials</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Track_8_Geraldine_Lim_SA.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Geraldine Lim</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Track_8_Yeo_JingPing_30072024.pdf" rel="noopener noreferrer nofollow" target="_blank">Dr Yeo Jing Ping</a>
+</p>
+</li>
+</ol>
+<p><strong>Track 9: Designing Trials for AI-Based Interventions / Diagnostics</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Track_9_Karla_Childers_Presentation.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Karla Childers</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Track_9___Zhavoronkov_15_min_Clinical_Trials_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Dr Alex Zhavoronkov</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Track_9_Tan_Cher_Heng___Clinical_trials_in_Diagnostic_AI.pdf" rel="noopener noreferrer nofollow" target="_blank">A/Prof Tan Cher Heng</a>
+</p>
+</li>
+</ol>
+<p><strong>Track 10: Data Powered Research</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Track_10_SCRI_Symposium_TRUST_Koh_Mingshi.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Mingshi</a>
 </p>
 </li>
 </ol>
