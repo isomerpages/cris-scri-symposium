@@ -8,7 +8,7 @@ description: ""
 download the speaker slides by clicking on the links below. Please also
 note the disclaimer notice at the end of this page.</p>
 <p></p>
-<p><strong>The Value Proposition of Clinical Trials and The Official Launch of Centralised Clinical Trials Portal</strong>
+<p><strong>Opening Session - The Value Proposition of Clinical Trials</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -16,7 +16,7 @@ note the disclaimer notice at the end of this page.</p>
 </p>
 </li>
 </ol>
-<p><strong>Track 1 - Health Economics and Outcomes Research (HEOR)</strong>
+<p><strong>Track 1 - Health Economics and Outcomes Research (HEOR)- "Value based clinical trials and its impact on healthcare"</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -28,7 +28,7 @@ note the disclaimer notice at the end of this page.</p>
 </p>
 </li>
 </ol>
-<p><strong>Track 3: Patient Advocacy and Community Engagement</strong>
+<p><strong>Track 3: Patient Advocacy and Community Engagement - "Patient Advocacy Groups, Community Involvement and Collaboration in Advancing Clinical Research"</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -48,7 +48,7 @@ note the disclaimer notice at the end of this page.</p>
 </p>
 </li>
 </ol>
-<p><strong>Track 4: Decentralised Clinical Trials</strong>
+<p><strong>Track 4: Decentralised Clinical Trials - "Benefits and Challenges of DCTs"</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -64,7 +64,7 @@ note the disclaimer notice at the end of this page.</p>
 </p>
 </li>
 </ol>
-<p><strong>Track 5: Adaptive Trial Design (Complex Clinical Trial Design)</strong>
+<p><strong>Track 5: Adaptive Trial Design (Complex Clinical Trial Design) - "Lessons Learned and Best Practices – Adaptive Trial Design"</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -72,7 +72,7 @@ note the disclaimer notice at the end of this page.</p>
 </p>
 </li>
 </ol>
-<p><strong>Track 6: Trends in Clinical Trials</strong>
+<p><strong>Track 6: Trends in Clinical Trials - "Unveiling Diverse Clinical Trial Landscapes Across Countries"</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -84,7 +84,7 @@ note the disclaimer notice at the end of this page.</p>
 </p>
 </li>
 </ol>
-<p><strong>Track 7: Biotech Sharing Session</strong>
+<p><strong>Track 7: Biotech Sharing Session - "Challenges and Opportunities For Biotechs to Conduct Clinical Trials in Singapore"</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -96,7 +96,7 @@ note the disclaimer notice at the end of this page.</p>
 </p>
 </li>
 </ol>
-<p><strong>Track 8: Talent Development in Clinical Trials</strong>
+<p><strong>Track 8: Talent Development in Clinical Trials - ""Nurturing Excellence: Advancing Talent in Clinical Research"</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -108,7 +108,7 @@ note the disclaimer notice at the end of this page.</p>
 </p>
 </li>
 </ol>
-<p><strong>Track 9: Designing Trials for AI-Based Interventions / Diagnostics</strong>
+<p><strong>Track 9: Designing Trials for AI-Based Interventions / Diagnostics - “Methodologies and Considerations for Trials Involving AI-Driven Technologies”</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -124,7 +124,7 @@ note the disclaimer notice at the end of this page.</p>
 </p>
 </li>
 </ol>
-<p><strong>Track 10: Data Powered Research</strong>
+<p><strong>Track 10: Data Powered Research - "Innovations in Data-Driven Research: Shaping Tomorrow's Discoveries"</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
