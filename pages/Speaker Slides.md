@@ -5,15 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>Thank you for attending the SCRI Clinical Trials Symposium 2024. You may
-download the speaker slides by clicking on the links below.</p>
-<p><strong>Disclaimer</strong>
-</p>
-<p>The presentation decks were provided with the permission of speakers of
-the SCRI Clinical Trial Symposium 2024. You may not alter, remove, copy
-and distribute any content without prior written permission of the Singapore
-Clinical Research Institute (SCRI).</p>
-<p>For permission to use the contents, please contact the symposium secretariat
-<a href="mailto:events@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">events@scri.cris.sg</a>.</p>
+download the speaker slides by clicking on the links below. Please also
+note the disclaimer notice at the end of this page.</p>
 <p></p>
 <p><strong>The Value Proposition of Clinical Trials and The Official Launch of Centralised Clinical Trials Portal</strong>
 </p>
@@ -139,4 +132,28 @@ Clinical Research Institute (SCRI).</p>
 </p>
 </li>
 </ol>
+<p></p>
+<hr>
+<p></p>
+<p><strong>Disclaimer</strong>
+</p>
+<p>The materials and information presented in these presentation slides are
+for informational purposes only and are intended solely for the attendees
+of the SCRI Clinical Trials Symposium 2024. The contents provided herein
+do not constitute professional advice, endorsement, or recommendation of
+any kind.</p>
+<p>While every effort has been made to ensure the accuracy of the materials
+and information, SCRI and speakers make no warranties, express or implied,
+regarding the completeness, accuracy, reliability, or suitability of the
+information contained in these slides. Users are advised to independently
+verify any information before relying on it for any purpose.</p>
+<p>The slides and their contents are the intellectual property of their respective
+authors / speakers and may not be reproduced, altered, distributed, or
+used without prior written permission from the authors / speakers or SCRI.
+Any unauthorized use of these materials is strictly prohibited.</p>
+<p>The views and opinions expressed in the presentations are those of the
+individual authors / speakers and do not necessarily reflect the official
+policy or position of SCRI or affiliated institutions.</p>
+<p>For permission to use the slides or the contents thereof, please contact
+the symposium secretariat at <a href="mailto:events@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">events@scri.cris.sg</a>.</p>
 <p></p>
