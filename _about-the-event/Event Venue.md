@@ -4,7 +4,7 @@ permalink: /event-venue/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Marina Bay Sands Expo &amp; Convention Centre </strong></h4>
+<h4><strong>Marina Bay Sands Expo &amp; Convention Centre</strong></h4>
 <p>Set against the pulse of Singapore’s business district, the Marina Bay
 Sands Expo &amp; Convention Centre offers the perfect stage for the SCRI
 Clinical Trials Symposium 2026. Besides possessing world-class infrastructure,
