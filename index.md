@@ -44,6 +44,16 @@ sections:
       button: Programme
       url: /programme/day1
   - infopic:
+      title: Connect & Collaborate
+      subtitle: The Future Lab
+      id: infopic
+      description: Meet leading organisations driving clinical innovation. Explore new
+        technologies, form partnerships, and accelerate your growth.
+      button: Learn More
+      url: /sponsors/
+      image: /images/SCRI_Web_Theme_pic_03.png
+      alt: Image alt text
+  - infopic:
       title: CME Points
       id: infopic
       description: Continuing Medical Education (CME) points from Singapore Medical
