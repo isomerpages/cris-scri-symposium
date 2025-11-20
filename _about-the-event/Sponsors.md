@@ -4,7 +4,7 @@ permalink: /sponsors/
 variant: markdown
 description: ""
 ---
-<h4><strong>Our Sponsors and Partners</strong></h4>
+<h4><strong>Our 2024 Sponsors and Partners</strong></h4>
 
 <p>
 We extend our heartfelt gratitude to our esteemed sponsors and partners for their unwavering support of SCRI Clinical Trials Symposium 2024. Their generous contributions have been instrumental in bringing together leading experts, researchers, and healthcare professionals to share their knowledge and advancements in clinical research. Thank you for making this event possible and for your continued dedication to advancing healthcare.</p>
