@@ -4,11 +4,19 @@ permalink: /sponsors/
 variant: markdown
 description: ""
 ---
-<h4><strong>Take Centre Stage in Asia’s Clinical Research Evolution.</strong></h4>
+<h4><strong>The Future Lab</strong></h4>
 
-As an exhibitor or sponsor at the SCRI Clinical Trials Symposium 2026, you gain direct access to a highly influential audience shaping the future of clinical trials - from leading investigators and healthcare institutions to global pharmaceutical and biotech innovators.
+![](/images/SCRIDAY1_059.jpg)
 
 Step into a vibrant marketplace of ideas and advancement, where groundbreaking technologies, next-generation research capabilities, and transformative partnerships come to life. This is where new collaborators are discovered, where solutions scale, and where major decisions begin.
+
+![](/images/SCRIDAY1_060.jpg)
+
+<h4><strong>Take Centre Stage in Asia’s Clinical Research Evolution.</strong></h4>
+
+![](/images/SCRIDAY1_057.jpg)
+
+As an exhibitor or sponsor at the SCRI Clinical Trials Symposium 2026, you gain direct access to a highly influential audience shaping the future of clinical trials - from leading investigators and healthcare institutions to global pharmaceutical and biotech innovators.
 
 With Singapore as the nexus of clinical excellence in Asia, this symposium offers unmatched visibility and credibility for organisations ready to make their mark. Join us and showcase your expertise to the very leaders driving innovation, inclusion, and impact in the clinical trials ecosystem.
 
