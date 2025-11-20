@@ -34,11 +34,10 @@ sections:
       subtitle: Sands Expo & Convention Centre
       title: 30 - 31 July 2026
   - infopic:
-      title: The Future of Clinical Trials
+      title: Advancing Trials, Transforming Care
       id: infopic
-      description: Hear from experts who will discuss topics on patient engagement,
-        health outcomes and impact of trials in pandemics, healthcare policy and
-        biotech support.
+      description: Join global research leaders as bold ideas and clinical
+        breakthroughs shape the future of patient outcomes.
       image: /images/SCRI_Web_Theme_pic_02.jpg
       alt: programme
       button: Programme
