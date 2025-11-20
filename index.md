@@ -38,7 +38,7 @@ sections:
       id: infopic
       description: Join global research leaders as bold ideas and clinical
         breakthroughs shape the future of patient outcomes.
-      image: /images/SCRI_Web_Theme_pic_02.jpg
+      image: /images/HeroBanner2025.jpg
       alt: programme
       button: Programme
       url: /programme/day1
@@ -50,7 +50,7 @@ sections:
         technologies, form partnerships, and accelerate your growth.
       button: Learn More
       url: /sponsors/
-      image: /images/SCRI_Web_Theme_pic_03.png
+      image: /images/SCRIDAY2_376.jpg
       alt: Image alt text
   - infopic:
       title: CME Points
@@ -60,6 +60,6 @@ sections:
         the full 2 days.
       button: Register Now
       url: /register/
-      image: /images/SCRI_Web_Theme_pic_01.jpg
+      image: /images/SCRIDAY1_128.jpg
       alt: Image alt text
 ---
