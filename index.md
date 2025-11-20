@@ -25,14 +25,14 @@ sections:
           description: ""
           url: /programme/day1/
       variant: center
-      title: SCRI Clinical Trials Symposium 2024
-      subtitle: "The Promise of Clinical Trials: Transforming Tomorrow's  Health"
+      title: SCRI Clinical Trials Symposium 2026
+      subtitle: "Clinical Trials Reimagined: Advancing Innovation, Inclusion, and Impact"
   - infobar:
       description: Organised by the Singapore Clinical Research Institute, the two-day
         event aims to showcase the impact of and opportunities for clinical
         trials in Singapore.
-      subtitle: Raffles City Convention Centre
-      title: 30 - 31 July 2024
+      subtitle: Sands Expo & Convention Centre
+      title: 30 - 31 July 2026
   - infopic:
       title: The Future of Clinical Trials
       id: infopic
@@ -53,14 +53,4 @@ sections:
       url: /register/
       image: /images/SCRI_Web_Theme_pic_01.jpg
       alt: Image alt text
-  - infocols:
-      title: Updates
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Venue
-          description: The symposium will be held at the Stamford Ballroom (Level 4), RCCC.
-        - title: Admin Reminders
-          description: A reminder email will be sent on 25 Jul to all registered
-            delegates. Please check your spam / junk mail.
 ---
