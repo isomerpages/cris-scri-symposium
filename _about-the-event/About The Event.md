@@ -10,5 +10,5 @@ description: "The SCRI Clinical Trials Symposium 2024 is themed “The Promise o
   trials improve patients’ lives and contribute towards positive health and
   economic outcomes in Singapore and beyond."
 ---
-<h4><strong>SCRI Clinical Trials Symposium 2024</strong></h4>
+<h4><strong>SCRI Clinical Trials Symposium 2026</strong></h4>
 <img src="/images/SCRI_Event.jpg">
