@@ -4,6 +4,8 @@ permalink: /speakers/
 variant: markdown
 description: ""
 ---
+
+![](/images/Banner_OurSpeakers.png)
 <div>
   <h3>Guest of Honour</h3>
 </div>
