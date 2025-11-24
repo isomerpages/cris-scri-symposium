@@ -4,6 +4,10 @@ permalink: /event-venue/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Getting_Here.png">
+</div>
 <h4><strong>Marina Bay Sands Expo &amp; Convention Centre</strong></h4>
 <p>Set against the pulse of Singapore’s business district, the Marina Bay
 Sands Expo &amp; Convention Centre offers the perfect stage for the SCRI
@@ -19,7 +23,6 @@ leadership.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MBS_Skyline.png">
 </div>
-<h4><strong>Getting Here</strong></h4>
 <p>Conveniently located above Bayfront MRT station, the convention venue
 is easily accessible by MRT, bus and taxi. For more details on how to get
 to MBS, please click <a href="https://www.marinabaysands.com/company-information/directions-to-marina-bay-sands.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
