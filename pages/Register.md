@@ -18,7 +18,7 @@ below to proceed to the registration portal.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bulk Registration Discounts are available for 10 pax or more. Please reach
-out to <a href="mailto:secretariat@csri-symposium.sg" rel="noopener noreferrer nofollow" target="_blank">secretariat@csri-symposium.sg</a> for
+out to <a href="mailto:secretariat@scri-symposium.sg" rel="noopener noreferrer nofollow" target="_blank">secretariat@scri-symposium.sg</a> for
 more details.</p>
 </li>
 </ul>
