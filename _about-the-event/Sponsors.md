@@ -4,9 +4,8 @@ permalink: /sponsors/
 variant: markdown
 description: ""
 ---
-<h4><strong>The Future Lab</strong></h4>
 
-![](/images/SCRIDAY1_059.jpg)
+![](/images/Banner_FutureLab.png)
 
 Step into a vibrant marketplace of ideas and advancement, where groundbreaking technologies, next-generation research capabilities, and transformative partnerships come to life. This is where new collaborators are discovered, where solutions scale, and where major decisions begin.
 
@@ -25,6 +24,8 @@ Stand with SCRI - and help shape the next decade of clinical research breakthrou
 [Connect with our Partnerships team today!](mailto:secretariat@scri-symposium.sg)
 
 <h4><strong>Our 2024 Sponsors and Partners</strong></h4>
+
+![](/images/SCRIDAY1_059.jpg)
 
 <p>
 We extend our heartfelt gratitude to our esteemed sponsors and partners for their unwavering support of SCRI Clinical Trials Symposium 2024. Their generous contributions have been instrumental in bringing together leading experts, researchers, and healthcare professionals to share their knowledge and advancements in clinical research. Thank you for making this event possible and for your continued dedication to advancing healthcare.</p>
