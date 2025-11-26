@@ -33,4 +33,4 @@ Join us as we drive the breakthroughs that will transform healthcare for generat
 
 <h4><strong>Highlights from SCRI Clinical Trials Symposium 2024</strong></h4>
 
-<a href="#video2024"></a><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yQKWGquZNy4?si=y4My5OmV7VQrrx11" height="315" width="560"></iframe>
+<a href="#video2024"></a><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yQKWGquZNy4?si=y4My5OmV7VQrrx11" height="315" width="560"></iframe>
