@@ -21,5 +21,11 @@ below to proceed to the registration portal.</p>
 out to <a href="mailto:secretariat@scri-symposium.sg" rel="noopener noreferrer nofollow" target="_blank">secretariat@scri-symposium.sg</a> for
 more details.</p>
 </li>
+<li>
+<p>If you are residing in a Lower / Middle Income Country / Region, you may
+be eligible for a discounted rate. Please use the Standard Pass above and
+the discounted rate will be automatically reflected when you select your
+country / region of residence.</p>
+</li>
 </ul>
 <p></p>
