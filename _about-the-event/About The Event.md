@@ -53,8 +53,7 @@ generations to come.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yQKWGquZNy4?si=y4My5OmV7VQrrx11"></iframe>
 </div>
-<p><a href="#video2024" rel="noopener noreferrer nofollow" target="_blank"> </a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
