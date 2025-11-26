@@ -49,9 +49,12 @@ generations to come.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRIDAY1_453.jpg">
 </div>
 <h4><strong>Highlights from SCRI Clinical Trials Symposium 2024</strong></h4>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yQKWGquZNy4?si=y4My5OmV7VQrrx11"></iframe>
 </div>
+<p><a href="#video2024" rel="noopener noreferrer nofollow" target="_blank"> </a>
+</p>
 <p></p>
 <p></p>
 <p></p>
