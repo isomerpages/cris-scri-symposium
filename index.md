@@ -62,4 +62,14 @@ sections:
       url: /register/
       image: /images/SCRIDAY1_128.jpg
       alt: Image alt text
+  - infopic:
+      title: 2024 in Review
+      subtitle: Highlight Reel
+      id: infopic
+      description: Dive into the key moments that sparked collaboration, advanced
+        thinking, and brought the clinical trials community together in 2024.
+      button: VIDEO
+      url: /about-event/video2024
+      image: /images/PlayVideo2.png
+      alt: Video
 ---
