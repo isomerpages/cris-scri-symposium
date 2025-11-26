@@ -53,16 +53,6 @@ sections:
       image: /images/SCRIDAY2_376.jpg
       alt: Image alt text
   - infopic:
-      title: CME Points
-      id: infopic
-      description: Continuing Medical Education (CME) points from Singapore Medical
-        Council approved. Participants can receive up to 8 points for attending
-        the full 2 days.
-      button: Register Now
-      url: /register/
-      image: /images/SCRIDAY1_128.jpg
-      alt: Image alt text
-  - infopic:
       title: 2024 in Review
       subtitle: Highlight Reel
       id: infopic
@@ -72,4 +62,14 @@ sections:
       url: /about-event/video2024
       image: /images/PlayVideo2.png
       alt: Video
+  - infopic:
+      title: CME Points
+      id: infopic
+      description: Continuing Medical Education (CME) points from Singapore Medical
+        Council approved. Participants can receive up to 8 points for attending
+        the full 2 days.
+      button: Register Now
+      url: /register/
+      image: /images/SCRIDAY1_128.jpg
+      alt: Image alt text
 ---
