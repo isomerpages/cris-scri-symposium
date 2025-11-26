@@ -59,7 +59,7 @@ sections:
       description: Dive into the key moments that sparked collaboration, advanced
         thinking, and brought the clinical trials community together in 2024.
       button: VIDEO
-      url: /about-event/video2024
+      url: /about-event#video2024
       image: /images/PlayVideo2.png
       alt: Video
   - infopic:
