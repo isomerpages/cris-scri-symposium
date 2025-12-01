@@ -16,18 +16,18 @@ description: ""
       <div class="col is-4">
         <a class="speaker" href="/kenneth-mak">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_KennethMak.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/KennethMak.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Kenneth Mak</h4>
+					<div class="speaker-company text-ellipsis">Chairman, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
           <div class="speaker-position text-ellipsis">Director-General of Health</div>
           <div class="speaker-company text-ellipsis">Ministry of Health (MOH), Singapore</div>
-					<div class="speaker-company text-ellipsis">Chairman, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
         </a>
       </div>
       <div class="col is-4">
         <a class="speaker" href="/danny-soon">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/Speakers_Danny_Soon.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/DannySoon.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Adj A/Prof Danny Soon</h4>
           <div class="speaker-position text-ellipsis">CEO, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
