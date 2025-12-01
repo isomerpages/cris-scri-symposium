@@ -7,7 +7,7 @@ image: /images/Speakers_KennethMak.png
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_KennethMak.png">
+<img src="/images/KennethMak.png">
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Prof Kenneth Mak</b></h4>
