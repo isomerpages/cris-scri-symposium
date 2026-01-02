@@ -25,8 +25,5 @@ more details.</p>
 <li>
 <p>Click on the banner below to proceed to the registration portal.</p>
 </li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RegistrationSchedule01.png">
-</div>
+</ul><a class="isomer-image-wrapper" href="https://www.gevme.com/scri-clinical-trials-symposium-2026-33436602"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/RegistrationSchedule01.png"></a>
 <p></p>
