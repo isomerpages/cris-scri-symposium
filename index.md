@@ -63,11 +63,10 @@ sections:
       image: /images/PlayVideo2.png
       alt: Video
   - infopic:
-      title: CME Points
+      title: CME / CPE Points
       id: infopic
-      description: Continuing Medical Education (CME) points from Singapore Medical
-        Council approved. Participants can receive up to 8 points for attending
-        the full 2 days.
+      description: CME and CPE points approved. Participants can receive up to 8 CME
+        points for attending the full 2 days.
       button: Register Now
       url: /register/
       image: /images/SCRIDAY1_128.jpg
