@@ -66,7 +66,8 @@ sections:
       title: CME / CPE Points
       id: infopic
       description: CME and CPE points approved. Participants can receive up to 8 CME
-        points for attending the full 2 days.
+        points for attending the full 2 days. CPE points details will be
+        announced soon.
       button: Register Now
       url: /register/
       image: /images/SCRIDAY1_128.jpg
