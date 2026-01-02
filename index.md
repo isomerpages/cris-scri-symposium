@@ -13,7 +13,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SCRI_Banner_2000x800.jpg
+      background: /images/SCRI_Banner_2000x800B.jpg
       key_highlights:
         - title: REGISTER NOW
           description: ""
