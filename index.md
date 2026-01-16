@@ -23,7 +23,7 @@ sections:
           url: /about-event/
         - title: Programme
           description: ""
-          url: /programme/day1/
+          url: /programme-at-a-glance/
       variant: center
       title: SCRI Clinical Trials Symposium 2026
       subtitle: "Clinical Trials Reimagined: Advancing Innovation, Inclusion, and Impact"
