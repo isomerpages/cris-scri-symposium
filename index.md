@@ -41,7 +41,7 @@ sections:
       image: /images/HeroBanner2025.jpg
       alt: programme
       button: Programme
-      url: /programme/day1
+      url: /programme-at-a-glance/
   - infopic:
       title: Connect & Collaborate
       subtitle: The Future Lab
