@@ -9,6 +9,19 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Pre_SymposiumWorkshop.png">
 </div>
 <h4><strong>Pre-symposium Workshop on Advanced and Innovative Clinical Trial Designs</strong></h4>
+<p>Please note:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Access to the Pre-Symposium Workshop is limited only to delegates with
+the All Access Pass.</p>
+</li>
+<li>
+<p>Availability for the Pre-Symposium Workshop is limited, and registration
+will close once capacity is reached.</p>
+<hr>
+<p></p>
+</li>
+</ul>
 <p>This workshop, titled A<strong>dvanced and Innovative Clinical Trial Designs</strong>,
 provides a comprehensive and practice-oriented introduction to the evolving
 landscape of clinical research methodology. With a specific focus on moving
@@ -48,3 +61,218 @@ designs.</p>
 <p>The workshop is best suited for individuals with basic knowledge of clinical
 trial principles, fundamental biostatistics, and an interest in the practical
 implementation of novel research methodologies.</p>
+<p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Pre-Symposium Workshop Day 1 (28 July 2026)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Programme</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:00 - 10:15</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>The Research Lifecycle: From Logic to Evidence Generation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:15 - 10:30</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Morning Break</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:30 - 12:00</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Early-Phase Innovations: Modern Dose-Finding &amp; Phase I Strategies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12:00 - 13:00</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Lunch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13:00 - 14:30</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Adaptive Designs: Enhancing Flexibility and Efficiency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14:30 - 14:45</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Afternoon Break 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14:45 - 16:00</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Precision Medicine: Basket, Umbrella, and Platform Trials</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16:00 - 16:15</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Afternoon Break 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16:15 - 17:00</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Strategic Monitoring: Designing Trials with Interim Analyses</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17:00 - 17:30</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Q &amp; A</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Pre-Symposium Workshop Day 2 (29 July 2026)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Programme</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:00 - 10:30</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Power and Precision: Sample Size Estimation and Re-estimation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:30 - 10:45</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Morning Break</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:45 - 12:00</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>The Digital Frontier: Artificial Intelligence (AI) in Clinical Trials</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12:00 - 13:00</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Lunch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13:00 - 14:00</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Maximizing Efficiency: Crossover Trial Designs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14:00 - 14:15</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Afternoon Break 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14:15 - 15:45</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Pragmatic Designs: Cluster Randomized and Stepped-Wedge Trials</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15:45 - 16:00</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Afternoon Break 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16:00 - 17:00</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Special Topics in Randomization: The Zelen Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17:00 - 17:30</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Q &amp; A</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
