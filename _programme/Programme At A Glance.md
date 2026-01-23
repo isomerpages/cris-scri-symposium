@@ -11,7 +11,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ProgrammeAtAGlance.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ProgrammeWebsite.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,7 +23,7 @@ thought leadership and clinical research exchange.
 </p>
 </li>
 <li>
-<p>A <strong>Pre-Symposium Workshop</strong> will be held on 28–29 July 2026
+<p><strong>Pre-Symposium Workshops</strong> will be held on 28–29 July 2026
 at the <strong>Ng Teng Fong Centre for Healthcare Innovation</strong>, offering
 an exclusive, in-depth learning experience ahead of the main Symposium.
 <br>The workshop will have two concurrent tracks focusing on biostatistics,
