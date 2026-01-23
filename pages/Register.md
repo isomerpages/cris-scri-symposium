@@ -24,14 +24,14 @@ out to <a href="mailto:secretariat@scri-symposium.sg" rel="noopener noreferrer n
 more details.</p>
 </li>
 <li>
-<p>The SCRI Clinical Trials Symposium pass does not include access to the
-Pre-Symposium Workshops.</p>
+<p>The three SCRI Clinical Trials Symposium passes do not include access
+to the Pre-Symposium Workshops.</p>
 </li>
 <li>
-<p>If you are purchasing the <strong>All-Access Pass</strong>, do note this
-includes access to either of the Pre-Symposium Workshops (28-29 July 2026)
-and the SCRI Clinical Trials Symposium (30-31 July 2026). You do not need
-to separately purchase another pass to the Symposium.</p>
+<p>However if you are purchasing the <strong>All-Access Pass</strong>, do
+note this includes access to either of the Pre-Symposium Workshops (28-29
+July 2026) and the SCRI Clinical Trials Symposium (30-31 July 2026). You
+do not need to separately purchase another pass to the Symposium.</p>
 </li>
 <li>
 <p>Click on the banner below to proceed to the registration portal.</p>
