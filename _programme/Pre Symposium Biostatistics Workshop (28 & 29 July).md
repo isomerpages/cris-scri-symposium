@@ -74,7 +74,7 @@ implementation of novel research methodologies.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<p>Pre-Symposium Workshop Day 1 (28 July 2026)</p>
+<p>Pre-Symposium Biostatistics Workshop Day 1 (28 July 2026)</p>
 </th>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ implementation of novel research methodologies.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<p>Pre-Symposium Workshop Day 2 (29 July 2026)</p>
+<p>Pre-Symposium Biostatistics Workshop Day 2 (29 July 2026)</p>
 </th>
 </tr>
 <tr>
