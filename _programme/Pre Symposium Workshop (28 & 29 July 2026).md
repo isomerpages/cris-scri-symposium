@@ -6,18 +6,18 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Pre_SymposiumWorkshop.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_WorkshopA.png">
 </div>
-<h4><strong>Pre-symposium Workshop on Advanced and Innovative Clinical Trial Designs</strong></h4>
+<h4><strong>Pre-Symposium Biostatistics Workshop on Advanced and Innovative Clinical Trial Designs</strong></h4>
 <p>Please note:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Access to the Pre-Symposium Workshop is limited only to delegates with
-the All Access Pass.</p>
+<p>On 28-29 July 2026, there are two concurrent Pre-Symposium Workshops -
+Biostatistics as well as Health Technology Assessment.</p>
 </li>
 <li>
-<p>Availability for the Pre-Symposium Workshop is limited, and registration
-will close once capacity is reached.</p>
+<p>Availability for this Pre-Symposium Workshop is limited to 30 pax and
+registration will close once capacity is reached.</p>
 <hr>
 <p></p>
 </li>
