@@ -38,5 +38,5 @@ to separately purchase another pass to the Symposium.</p>
 </li>
 </ul>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/scri-clinical-trials-symposium-2026-33436602"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/RegistrationSchedule03.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/scri-clinical-trials-symposium-2026"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RegistrationSchedule03.png"></a>
 <p></p>
