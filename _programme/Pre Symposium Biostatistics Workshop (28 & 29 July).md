@@ -275,4 +275,5 @@ implementation of novel research methodologies.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>** Programme is subjected to changes without prior notification from the
+organiser</p>
