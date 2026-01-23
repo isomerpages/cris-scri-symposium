@@ -16,20 +16,26 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>SCRI Clinical Trials Symposium 2026</strong> will take place on
-30–31 July 2026 at the Marina Bay Sands Expo &amp; Convention Centre, bringing
-together global leaders and experts for two days of high-impact thought
-leadership and clinical research exchange.</p>
+30–31 July 2026 at the <strong>Marina Bay Sands Expo &amp; Convention Centre</strong>,
+bringing together global leaders and experts for two days of high-impact
+thought leadership and clinical research exchange.
+<br>
+</p>
 </li>
 <li>
 <p>A <strong>Pre-Symposium Workshop</strong> will be held on 28–29 July 2026
-at the SCRI Premises, offering an exclusive, in-depth learning experience
-ahead of the main Symposium.</p>
+at the <strong>Ng Teng Fong Centre for Healthcare Innovation</strong>, offering
+an exclusive, in-depth learning experience ahead of the main Symposium.
+<br>The workshop will have two concurrent tracks focusing on biostatistics,
+health technology assessment and health economics evaluation.
+<br>
+</p>
 </li>
 <li>
-<p>All sessions are ticketed. Delegates may purchase an <strong>All-Access Pass </strong>for
-entry to both the Symposium and the Pre-Symposium Workshop. Please note
-that availability for the Pre-Symposium Workshop is limited, and registration
-will close once capacity is reached.</p>
+<p>All sessions are ticketed. Delegates who sign up for either pre-symposium
+workshop will also enjoy complimentary access to the Main Symposium. Please
+note that availability for both Pre-Symposium Workshops are limited to
+30 pax each track, and registration will close once capacity is reached.</p>
 <p></p>
 </li>
 </ul>
