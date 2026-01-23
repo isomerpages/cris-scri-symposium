@@ -26,8 +26,8 @@ thought leadership and clinical research exchange.
 <p><strong>Pre-Symposium Workshops</strong> will be held on 28–29 July 2026
 at the <strong>Ng Teng Fong Centre for Healthcare Innovation</strong>, offering
 an exclusive, in-depth learning experience ahead of the main Symposium.
-<br>The workshop will have two concurrent tracks focusing on biostatistics,
-health technology assessment and health economics evaluation.
+<br>The workshop will have two concurrent tracks focusing on <a href="/pre-symposium-workshop-28-29-july-2026/" rel="noopener nofollow" target="_blank">biostatistics</a>,
+<a href="/pre-symposium-hta-workshop-28-29-july/" rel="noopener nofollow" target="_blank">health technology assessment and health economics evaluation.</a>
 <br>
 </p>
 </li>
