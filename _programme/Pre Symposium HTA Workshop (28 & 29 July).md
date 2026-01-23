@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_WorkshopB.png">
 </div>
-<h4><strong>Pre-Symposium Biostatistics Workshop on Advanced and Innovative Clinical Trial Designs</strong></h4>
+<h4><strong>Pre-Symposium Health Technology Assessment (HTA) Workshop - Evidence for Decisions: HTA Requirements and Applied HEE Methodology</strong></h4>
 <p>Please note:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -16,51 +16,47 @@ description: ""
 Biostatistics as well as Health Technology Assessment.</p>
 </li>
 <li>
-<p>Availability for this Pre-Symposium Workshop is limited to 30 pax and
-registration will close once capacity is reached.</p>
+<p>Availability for this Pre-Symposium HTA Workshop is limited to 30 pax
+and registration will close once capacity is reached.</p>
 <hr>
 <p></p>
 </li>
 </ul>
-<p>This workshop, titled A<strong>dvanced and Innovative Clinical Trial Designs</strong>,
-provides a comprehensive and practice-oriented introduction to the evolving
-landscape of clinical research methodology. With a specific focus on moving
-beyond traditional randomized controlled trials, this course explores advanced
-and adaptive strategies designed to improve trial efficiency, ethical standards,
-and statistical power.</p>
-<p>Designed as a pre-symposium short course for the <strong>Clinical Trial Symposium Singapore 2026</strong>,
-the workshop aims to strengthen participants’ understanding of the entire
-research lifecycle from the logic of early-phase dose-finding to the intricacies
-of late-stage cluster and stepped-wedge designs. Participants will gain
-up-to-date insights into precision medicine trials and the integration
-of Artificial Intelligence (AI) in research. The curriculum is structured
-to bridge the gap between theoretical statistical concepts and practical
-application in real-world clinical settings.</p>
+<p>This workshop titled <strong>Evidence for Decisions: HTA Requirements and Applied HEE Methodology</strong>,
+provides comprehensive and practice-oriented introduction to Health Technology
+Assessment (HTA) and Health Economic Evaluation (HEE), with a specific
+focus on standards required by leading international agencies and Singapore
+Agency for Care Effectiveness (ACE), a Singapore's national HTA and clinical
+guidance agency.</p>
+<p>Designed as a pre-symposium short course for the Clinical Trial Symposium
+Singapore 2026, the workshop aims to strengthen participants’ understanding
+of HTA requirements, introduce up-to-date applied HEE and modelling methodologies,
+and enhance hands-on skills in TreeAge and R programming language. It also
+offers deep insights into the economic evaluation of diagnostic tests and
+emerging genetic testing within precision medicine.</p>
 <p>The course is tailored for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Clinical Researchers and Investigators seeking to expand their portfolio
-with more efficient, adaptive, or patient-centric trial designs.</p>
+<p>Healthcare clinical researchers seeking to expand their research portfolio
+into HEE/HTA studies.</p>
 </li>
 <li>
-<p>Biostatisticians and Data Scientists wishing to update their methodological
-toolkit with a variety of techniques in sample size estimation, interim
-analysis, and AI applications.</p>
+<p>Health economists wishing to update their methodological skills or develop
+expertise in modelling diagnostic tests.</p>
 </li>
 <li>
-<p>Pharmaceutical and Biotech Professionals engaged in drug development who
-need to optimize early-phase strategies (First-in-human, Phase I) and precision
-trial designs.</p>
+<p>Policy makers who want to appreciate how HTA informs health policy, program
+design, and resource allocation.</p>
 </li>
 <li>
-<p>Regulatory and Review Board Members who want to appreciate the scientific
-validity and ethical considerations of innovative, non-traditional trial
-designs.</p>
+<p>Market access professionals in the pharmaceutical and biotech sectors
+engaged in government funding, reimbursement, or subsidization processes.</p>
+<p></p>
 </li>
 </ul>
-<p>The workshop is best suited for individuals with basic knowledge of clinical
-trial principles, fundamental biostatistics, and an interest in the practical
-implementation of novel research methodologies.</p>
+<p>The workshop is best suited for individuals with basic knowledge of health
+economics, health outcomes research, real-world evidence, and foundational
+experience in economic modelling.</p>
 <p></p>
 <p></p>
 <p></p>
@@ -74,7 +70,7 @@ implementation of novel research methodologies.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<p>Pre-Symposium Workshop Day 1 (28 July 2026)</p>
+<p>Pre-Symposium HTA Workshop Day 1 (28 July 2026)</p>
 </th>
 </tr>
 <tr>
@@ -89,15 +85,25 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 - 10:15</p>
+<p>09:00 - 10:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>The Research Lifecycle: From Logic to Evidence Generation</p>
+<p>Health Technology Assessment (HTA) for Policy and Coverage: Navigating
+Global &amp; Local Regulatory Requirements by HTA Agencies</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:15 - 10:30</p>
+<p>10:00 - 10:45</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Understanding Health Economic Evaluation (HEE) and Modelling: Principles,
+Methods, and Applications</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:45 - 11:00</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Morning Break</p>
@@ -105,15 +111,25 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:30 - 12:00</p>
+<p>11:00 - 11:45</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Early-Phase Innovations: Modern Dose-Finding &amp; Phase I Strategies</p>
+<p>Approaches to Integrating Real World Data/Real World Evidence (RWE) into
+HEE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12:00 - 13:00</p>
+<p>11:45 - 12:30</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Conducting Meta-Analysis and Network Meta-Analysis to Generate Input Parameters
+for Model-Based HEE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12:30 - 13:30</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Lunch</p>
@@ -121,42 +137,34 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13:00 - 14:30</p>
+<p>13:30 - 15:30</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Adaptive Designs: Enhancing Flexibility and Efficiency</p>
+<p>TreeAge Techniques for Advanced HEE Modelling</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:30 - 14:45</p>
+<p>15:30 - 15:45</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Afternoon Break 1</p>
+<p>Afternoon Break</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:45 - 16:00</p>
+<p>15:45 - 16:30</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Precision Medicine: Basket, Umbrella, and Platform Trials</p>
+<p>International Reference Case for Evaluating Diagnostic Tests</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16:00 - 16:15</p>
+<p>16:30 - 17:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Afternoon Break 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16:15 - 17:00</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>Strategic Monitoring: Designing Trials with Interim Analyses</p>
+<p>Case Study: HEE of Diagnostic Test</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +188,7 @@ implementation of novel research methodologies.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<p>Pre-Symposium Workshop Day 2 (29 July 2026)</p>
+<p>Pre-Symposium HTA Workshop Day 2 (29 July 2026)</p>
 </th>
 </tr>
 <tr>
@@ -198,7 +206,7 @@ implementation of novel research methodologies.</p>
 <p>09:00 - 10:30</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Power and Precision: Sample Size Estimation and Re-estimation</p>
+<p>Incorporating Health Outcomes into Diagnostic HEE Model</p>
 </td>
 </tr>
 <tr>
@@ -211,15 +219,24 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:45 - 12:00</p>
+<p>10:45 - 11:45</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>The Digital Frontier: Artificial Intelligence (AI) in Clinical Trials</p>
+<p>Ensuring Robustness in Diagnostic HEE: Theory &amp; Practice for Uncertainty
+Analysis</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12:00 - 13:00</p>
+<p>11:45 - 12:30</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Interpreting Results of Diagnostic HEE Model</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12:30 - 13:30</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Lunch</p>
@@ -227,42 +244,42 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13:00 - 14:00</p>
+<p>13:30 - 14:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Maximizing Efficiency: Crossover Trial Designs</p>
+<p>Standards of Reporting HTA Findings</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:00 - 14:15</p>
+<p>14:00 - 15:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Afternoon Break 1</p>
+<p>R programing for HEE modelling</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:15 - 15:45</p>
+<p>15:00 - 15:15</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Pragmatic Designs: Cluster Randomized and Stepped-Wedge Trials</p>
+<p>Afternoon Break</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15:45 - 16:00</p>
+<p>15:15 - 16:15</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Afternoon Break 2</p>
+<p>AI application in HEE or RWE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16:00 - 17:00</p>
+<p>16:15 - 17:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Special Topics in Randomization: The Zelen Design</p>
+<p>HEOR framework in Singapore</p>
 </td>
 </tr>
 <tr>
