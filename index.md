@@ -1,13 +1,11 @@
 ---
 layout: homepage
 title: SCRI Clinical Trials Symposium
-description: "The SCRI Clinical Trials Symposium 2024 is themed “The Promise of
-  Clinical Trials: Transforming Tomorrow’s Health” and brings together
-  clinicians, researchers, academics, and industry experts in clinical research
-  from around the world. The Symposium will offer an excellent opportunity for
-  knowledge exchange and networking, share practical insights of how clinical
-  trials improve patients’ lives and contribute towards positive health and
-  economic outcomes in Singapore and beyond."
+description: The SCRI Clinical Trials Symposium 2026 is back - bolder, bigger,
+  and more future-focused than ever. Set in the heart of Singapore’s thriving
+  research ecosystem, this flagship event brings together the brightest minds in
+  global clinical research for two power-packed days of visionary thinking and
+  transformative collaboration.
 image: /images/At_A_Glance_05.png
 permalink: /
 notification: ""
