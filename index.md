@@ -42,7 +42,6 @@ sections:
       url: /programme-at-a-glance/
   - infopic:
       title: Connect & Collaborate
-      subtitle: The Future Lab
       id: infopic
       description: Meet leading organisations driving clinical innovation. Explore new
         technologies, form partnerships, and accelerate your growth.
