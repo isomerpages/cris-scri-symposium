@@ -4,22 +4,19 @@ permalink: /sponsors/
 variant: markdown
 description: ""
 ---
+![](/images/Banner_ConnectnCollaborate.png)
 
-![](/images/Banner_FutureLab.png)
+<h4><strong>Take Centre Stage in Asia’s Clinical Research Evolution</strong></h4>
 
-Step into a vibrant marketplace of ideas and advancement, where groundbreaking technologies, next-generation research capabilities, and transformative partnerships come to life. This is where new collaborators are discovered, where solutions scale, and where major decisions begin.
+As an exhibitor or sponsor at the SCRI Clinical Trials Symposium 2026, you connect directly with key stakeholders across Singapore's healthcare ecosystem - from clinical investigators and public healthcare institutions to pharmaceutical companies, regulatory bodies, and allied health professionals.
 
 ![](/images/SCRIDAY1_060.jpg)
 
-<h4><strong>Take Centre Stage in Asia’s Clinical Research Evolution.</strong></h4>
+The symposium provides a focused platform for meaningful engagement with decision-makers who shape clinical research policy, practice, and innovation. This symposium facilitates essential connections between public and private healthcare sectors, fostering collaborations that advance patient care and research excellence.
 
 ![](/images/SCRIDAY1_057.jpg)
 
-As an exhibitor or sponsor at the SCRI Clinical Trials Symposium 2026, you gain direct access to a highly influential audience shaping the future of clinical trials - from leading investigators and healthcare institutions to global pharmaceutical and biotech innovators.
-
-With Singapore as the nexus of clinical excellence in Asia, this symposium offers unmatched visibility and credibility for organisations ready to make their mark. Join us and showcase your expertise to the very leaders driving innovation, inclusion, and impact in the clinical trials ecosystem.
-
-Stand with SCRI - and help shape the next decade of clinical research breakthroughs.
+Engage with healthcare leaders, share your insights to clinical research, and participate in building Singapore's position as a regional hub for clinical trials innovation.
 
 [Connect with our Partnerships team today!](mailto:secretariat@scri-symposium.sg)
 
