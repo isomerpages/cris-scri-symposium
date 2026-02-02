@@ -14,10 +14,12 @@ image: /images/Speakers_AkhmalYusof.png
 <b>Chief Executive Officer<br>
 Clinical Research Malaysia (CRM)</b>
 	
-<p>Dr Akhmal Yusof graduated from the Royal College of Surgeons in Ireland in 1992. He practiced medicine for nearly 10 years before ventured into the medical insurance industry with the AIA Malaysia as Medical Manager. Later in 2002, he led the Medical Department in AstraZeneca Malaysia, Singapore &amp; Brunei for 13 years. His expertise is in clinical research management, regulatory affairs, medical &amp; government affairs. <br>
-	
-Currently he leads Clinical Research Malaysia (CRM) as Chief Executive Officer since 2015. CRM is a Malaysia Ministry of Health owned GLC and now a Global Trusted Research Management in the region. CRM has completed clinical trial ecosystem through Phase 1 Realisation Project. Malaysia has successfully conducted at least 19 Phase 1 FIH Clinical Trials. Dr Akhmal Yusof is a member Board of Trustee, Chairman Nominating &amp; Remuneration Committee and Chair Tender Board for the National Institute of Biotechnology Malaysia.<br>
-	
+<p>Dr Akhmal Yusof graduated from the Royal College of Surgeons in Ireland in 1992. He practiced medicine for nearly 10 years before ventured into the medical insurance industry with the AIA Malaysia as Medical Manager. Later in 2002, he led the Medical Department in AstraZeneca Malaysia, Singapore &amp; Brunei for 13 years. His expertise is in clinical research management, regulatory affairs, medical &amp; government affairs. </p>
+
+<p>	
+Currently he leads Clinical Research Malaysia (CRM) as Chief Executive Officer since 2015. CRM is a Malaysia Ministry of Health owned GLC and now a Global Trusted Research Management in the region. CRM has completed clinical trial ecosystem through Phase 1 Realisation Project. Malaysia has successfully conducted at least 19 Phase 1 FIH Clinical Trials. Dr Akhmal Yusof is a member Board of Trustee, Chairman Nominating &amp; Remuneration Committee and Chair Tender Board for the National Institute of Biotechnology Malaysia.</p>
+
+<p>
 His other appointments are:<br><br>
 1.	Board Member of ATLAS National Cancer Center Japan.<br>
 2.	Board Member National Heart Institute (IJN) Research. <br>
