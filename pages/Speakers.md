@@ -48,11 +48,11 @@ description: ""
 		
 <div class="row">
       <div class="col is-4">
-        <a class="speaker" href="/joonwoon-bahn">
+        <a class="speaker" href="/joonwoo-bahn">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/JoonWoonBahn.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/JoonWooBahn.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Prof JoonWoon Bahn</h4>
+          <h4 class="speaker-name text-ellipsis">Prof JoonWoo Bahn</h4>
 					<div class="speaker-company text-ellipsis">Professor, Department of Convergence Medicine 
 </div>
           <div class="speaker-company text-ellipsis">Director, Clinical Research Center, Asan Medical Center, Korea </div>
