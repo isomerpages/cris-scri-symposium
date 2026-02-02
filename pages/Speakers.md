@@ -82,7 +82,7 @@ description: ""
 
 <div class="row">
       <div class="col is-4">
-        <a class="speaker" href="/ailing-simdevadas">
+        <a class="speaker" href="/ailing-simdevadas/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/AiLingSimDevadas.png" alt="">
           </div>
