@@ -196,7 +196,7 @@ description: ""
     <div class="row">
       <div class="col is-full">
         <div class="row">
-          <div class="col is-6">
+          <div class="col is-8">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4 bg-notice">
                 <div class="programme-time">
@@ -206,7 +206,7 @@ description: ""
               </div>
             </div>
           </div>
-          <div class="col is-6">
+          <div class="col is-4">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time">
