@@ -214,8 +214,8 @@ description: ""
                 </div>
                 <h4 class="programme-title">
                   <font color="#808080">Lunch Sharing Session</font></h4>
-	  </div>
-</div></div></div></div></div></div></section> 						
+	  </div></div></div>
+				</div></div></div></div></section> 						
 <section>
   <div class="row">
     <div class="col is-4">
