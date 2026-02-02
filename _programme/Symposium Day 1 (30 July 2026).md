@@ -224,7 +224,8 @@ description: ""
           <div class="programme-time">
                         <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 1: Regulatory Science &amp; Global Harmonisation</font></h4>
+                <h4 class="programme-title"><font color="#808080">Track 1: Regulatory Science &amp; Global Harmonisation</font><br>“Evolving Regulatory Pathways for Emerging Therapeutics"
+</h4>
 	  </div>
 </div></div>
           <div class="col is-4">
@@ -241,7 +242,7 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
-								<h4 class="programme-title"><font color="#808080">Track A: Catalyzing Innovation and Equity</font></h4>
+								<h4 class="programme-title"><font color="#808080">Track A: Catalyzing Innovation and Equity</font><br>“The Strategic Role of Philanthropy in Advancing Clinical Trials”</h4>
 				</div></div></div>
 				</div></section> 
 <section>
@@ -272,7 +273,7 @@ description: ""
           <div class="programme-time">
             <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 3: Innovations in Trial Design &amp; Methodology</font></h4>
+                <h4 class="programme-title"><font color="#808080">Track 3: Innovations in Trial Design &amp; Methodology</font><br>“Pragmatic &amp; Real-World Evidence Studies” </h4>
 	  </div>
 </div></div>
           <div class="col is-4">
@@ -281,7 +282,7 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 4: Managing Global / Regional Trial Networks </font></h4>
+                <h4 class="programme-title"><font color="#808080">Track 4: Managing Global / Regional Trial Networks </font><br>“Operational Excellence &amp; Ecosystem Partnerships”</h4>
 </div></div></div>
 	          <div class="col is-4">
             <div class="border bg-light h-100 position-relative">
@@ -289,7 +290,7 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track B: Talent Development – Building a Future-Ready Clinical Research Workforce</font></h4>
+                <h4 class="programme-title"><font color="#808080">Track B: Talent Development – Building a Future-Ready Clinical Research Workforce</font><br>“Leadership Development in Clinical Research: Creating the Next Generation of PIs and Trial Managers”</h4>
 </div></div></div>
 </div></section> 
 <section>
