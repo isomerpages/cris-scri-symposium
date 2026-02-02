@@ -34,7 +34,86 @@ description: ""
           <div class="speaker-company text-ellipsis">Executive Director, SCRI</div>
         </a>
       </div>
+			<div class="col is-4">
+        <a class="speaker" href="/pierce-chow">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/PierceChow.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Pierce Chow</h4>
+          <div class="speaker-position text-ellipsis">Program Director, Duke-NUS Medical School, Singapore</div>
+          <div class="speaker-company text-ellipsis">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
+        </a>
+      </div>
 					    </div>
+		
+<div class="row">
+      <div class="col is-4">
+        <a class="speaker" href="/joonwoon-bahn">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/JoonWoonBahn.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof JoonWoon Bahn</h4>
+					<div class="speaker-company text-ellipsis">Professor, Department of Convergence Medicine 
+</div>
+          <div class="speaker-company text-ellipsis">Director, Clinical Research Center, Asan Medical Center, Korea </div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a class="speaker" href="/jon-emery">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/JonEmery.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Jon Emery</h4>
+          <div class="speaker-position text-ellipsis">Professor of Family Medicine, Lee Kong Chian School of Medicine</div>
+          <div class="speaker-company text-ellipsis">Co-Director, Research Institute for Cancer Prevention, Screening and Early Detection (RISE)</div>
+        </a>
+      </div>
+			<div class="col is-4">
+        <a class="speaker" href="/troy-puarw">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/TroyPuar.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Troy Puar</h4>
+          <div class="speaker-position text-ellipsis">Head, Senior Consultant, Endocrinology</div>
+          <div class="speaker-company text-ellipsis">Changi General Hospital, SingHealth, Singapore</div>
+        </a>
+      </div>
+					    </div>		
+
+<div class="row">
+      <div class="col is-4">
+        <a class="speaker" href="/ailing-simdevadas">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/AiLingSimDevadas.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Ms Ai Ling <br>Sim-Devadas</h4>
+					<div class="speaker-company text-ellipsis">Deputy Director, Office of Patient Engagement (OPEN)
+Lee Kong Chian School of Medicine</div>
+          <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Techological University, Singapore</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a class="speaker" href="/sumitra-sachidanandan">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/SumitraSachidanandan.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Ms Sumitra Sachidanandan</h4>
+          <div class="speaker-position text-ellipsis">Regulatory Consultant, Innovation Office &amp; Clinical Trials Branch</div>
+          <div class="speaker-company text-ellipsis">Health Products Regulation Group, Health Sciences Authority</div>
+        </a>
+      </div>
+			<div class="col is-4">
+        <a class="speaker" href="/dipti-thakkar">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/diptithakkar.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Dipti Thakkar</h4>
+          <div class="speaker-position text-ellipsis">Chief Operating Officer</div>
+          <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
+        </a>
+      </div>
+					    </div>				
+		
 </div></section>
 <style type="text/css">
 	.content .speaker {	text-decoration: none; }
