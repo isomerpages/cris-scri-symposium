@@ -65,9 +65,8 @@ sections:
   - infopic:
       title: CME / CPE Points
       id: infopic
-      description: CME and CPE points approved. Participants can receive up to 8 CME
-        points for attending the full 2 days. CPE points details will be
-        announced soon.
+      description: CME and CPE (for nurses only) are pending for approval. More
+        information will be released when closer to date.
       button: Register Now
       url: /register/
       image: /images/SCRIDAY1_128.jpg
