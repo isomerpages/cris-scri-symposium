@@ -28,12 +28,12 @@ Assessment (HTA) and Health Economic Evaluation (HEE), with a specific
 focus on standards required by leading international agencies and Singapore
 Agency for Care Effectiveness (ACE), a Singapore's national HTA and clinical
 guidance agency.</p>
-<p>Designed as a pre-symposium short course for the Clinical Trial Symposium
-Singapore 2026, the workshop aims to strengthen participants’ understanding
-of HTA requirements, introduce up-to-date applied HEE and modelling methodologies,
-and enhance hands-on skills in TreeAge and R programming language. It also
-offers deep insights into the economic evaluation of diagnostic tests and
-emerging genetic testing within precision medicine.</p>
+<p>Designed as a pre-symposium short course for the <strong>SCRI Clinical Trial Symposium Singapore 2026</strong>,
+the workshop aims to strengthen participants’ understanding of HTA requirements,
+introduce up-to-date applied HEE and modelling methodologies, and enhance
+hands-on skills in TreeAge and R programming language. It also offers deep
+insights into the economic evaluation of diagnostic tests and emerging
+genetic testing within precision medicine.</p>
 <p>The course is tailored for:</p>
 <ul data-tight="true" class="tight">
 <li>
