@@ -22,13 +22,13 @@ registration will close once capacity is reached.</p>
 <p></p>
 </li>
 </ul>
-<p>This workshop, titled A<strong>dvanced and Innovative Clinical Trial Designs</strong>,
+<p>This workshop, titled <strong>Advanced and Innovative Clinical Trial Designs</strong>,
 provides a comprehensive and practice-oriented introduction to the evolving
 landscape of clinical research methodology. With a specific focus on moving
 beyond traditional randomized controlled trials, this course explores advanced
 and adaptive strategies designed to improve trial efficiency, ethical standards,
 and statistical power.</p>
-<p>Designed as a pre-symposium short course for the <strong>Clinical Trial Symposium Singapore 2026</strong>,
+<p>Designed as a pre-symposium short course for the <strong>SCRI Clinical Trial Symposium Singapore 2026</strong>,
 the workshop aims to strengthen participants’ understanding of the entire
 research lifecycle from the logic of early-phase dose-finding to the intricacies
 of late-stage cluster and stepped-wedge designs. Participants will gain
