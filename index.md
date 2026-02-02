@@ -53,6 +53,27 @@ sections:
       image: /images/SCRIDAY2_376.jpg
       alt: Image alt text
   - infopic:
+      title: Pre-Symposium Biostatistics Workshop
+      subtitle: 28-29 July 2026
+      id: infopic
+      description: This workshop provides a comprehensive and practice-oriented
+        introduction to the evolving landscape of clinical research methodology.
+      button: Learn More
+      url: /programme/pre-symposium-workshop-28-29-july-2026/
+      image: /images/WorkshopA.png
+      alt: Image alt text
+  - infopic:
+      title: Pre-Symposium HTA Workshop
+      subtitle: 28-29 July 2026
+      id: infopic
+      description: This workshop provides in-depth and practice-oriented introduction
+        to HTA and HEE, with a focus on standards required by leading
+        international agencies.
+      button: Learn More
+      url: /programme/pre-symposium-hta-workshop-28-29-july/
+      image: /images/WorkshopB.png
+      alt: Image alt text
+  - infopic:
       title: 2024 in Review
       subtitle: Highlight Reel
       id: infopic
