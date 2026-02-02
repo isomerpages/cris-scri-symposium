@@ -69,7 +69,7 @@ description: ""
         </a>
       </div>
 			<div class="col is-4">
-        <a class="speaker" href="/troy-puarw">
+        <a class="speaker" href="/troy-puar/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/TroyPuar.png" alt="">
           </div>
