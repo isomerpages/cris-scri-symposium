@@ -35,7 +35,7 @@ description: ""
     <div class="row">
       <div class="col is-full">
         <div class="row">
-          <div class="col is-12">
+          <div class="col is-6">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4 bg-different">
                 <div class="programme-time">
@@ -43,13 +43,8 @@ description: ""
                 </div>
                 <h4 class="programme-title"><font color="#808080">Track 5: Breaking Barriers</font><br>"Women Leading Change in Clinical Trials and Translational Research"</h4>
           <hr class="my-3 border-primary">
-          </div></div></div></div></div></div></div></section> 
-<section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full">
-        <div class="row">
-          <div class="col is-12">
+          </div></div></div>
+          <div class="col is-6">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4 bg-different">
                 <div class="programme-time">
@@ -57,7 +52,8 @@ description: ""
                 </div>
                 <h4 class="programme-title"><font color="#808080">Track 6: Sponsored Track</font></h4>
           <hr class="my-3 border-primary">
-          </div></div></div></div></div></div></div></section> 
+          </div></div></div>
+				</div></div></div></div></section> 
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -83,21 +79,16 @@ description: ""
     <div class="row">
       <div class="col is-full">
         <div class="row">
-          <div class="col is-12">
+          <div class="col is-6">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4 bg-different">
                 <div class="programme-time">
                   <b>31 Jul | 11:00 - 12:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 7: Biotech Frontiers in Clinical Trials</font><br>"Accelerating Translation to Treatment"</h4>
+								<h4 class="programme-title"><font color="#808080">Track 7: From Discovery to Deployment: Cross-Sector Partnerships Accelerating Clinical Translation</font></h4>
           <hr class="my-3 border-primary">
-          </div></div></div></div></div></div></div></section> 
-<section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full">
-        <div class="row">
-          <div class="col is-12">
+          </div></div></div>
+          <div class="col is-6">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4 bg-different">
                 <div class="programme-time">
@@ -186,7 +177,7 @@ description: ""
                 <div class="programme-time">
                   <b>31 Jul | 16:00 - 17:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 10: Asia in the Global Clinical Trials AI &amp; Digital Transformation in Clinical Trials</font></h4>
+                <h4 class="programme-title"><font color="#808080">Track 10: AI &amp; Digital Transformation in Clinical Trials</font></h4>
 <hr class="my-3 border-primary">
           </div></div></div></div></div></div></div></section> 
 <section>
