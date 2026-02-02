@@ -87,7 +87,7 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/AiLingSimDevadas.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Ms Ai Ling <br>Sim-Devadas</h4>
-					<div class="speaker-company text-ellipsis">Deputy Director, Office of Patient Engagement (OPEN)
+					<div class="speaker-company text-ellipsis">Deputy Director, Office of Patient Engagement (OPEN),
 Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Techological University, Singapore</div>
         </a>
@@ -113,6 +113,33 @@ Lee Kong Chian School of Medicine</div>
         </a>
       </div>
 					    </div>				
+
+<div class="row">
+      <div class="col is-4">
+        <a class="speaker" href="/tien-yin-wong">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/WongTienYin.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Tien Yin Wong</h4>
+					<div class="speaker-company text-ellipsis">Professor &amp; Senior Vice-Chancellor, Tsinghua Medicine</div> 
+					<div class="speaker-company text-ellipsis">Vice-Provost, Tsinghua University, Beijing, China
+</div>
+          <div class="speaker-company text-ellipsis">Senior Advisor, SingHealth, Singapore National Eye Centre, Singapore</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a class="speaker" href="/akhmal-yusof">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/AkhmalYusof.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Akhmal Yusof</h4>
+          <div class="speaker-position text-ellipsis">Chief Executive Officer
+</div>
+          <div class="speaker-company text-ellipsis">Clinical Research Malaysia (CRM)</div>
+        </a>
+      </div>
+					    </div>		
+		
 		
 </div></section>
 <style type="text/css">
