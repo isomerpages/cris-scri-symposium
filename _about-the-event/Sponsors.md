@@ -42,6 +42,6 @@ We extend our heartfelt gratitude to our esteemed sponsors and partners for thei
 <div class="row">
 <div class="col is-9">
 								<h5><strong>Healthcare Cluster Partners</strong></h5>
-		<img src="/images/HealthcarePartners.jpg">
+		<img src="/images/SponsorLogos2024.png">
 	</div>
 </div>
