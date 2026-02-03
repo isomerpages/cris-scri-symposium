@@ -36,8 +36,8 @@ description: ""
       <div class="col is-full">
         <div class="row">
           <div class="col is-6">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4 bg-different">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
                 <div class="programme-time">
                   <b>31 Jul | 09:00 - 10:30</b>&nbsp;
                 </div>
@@ -45,8 +45,8 @@ description: ""
           <hr class="my-3 border-primary">
           </div></div></div>
           <div class="col is-6">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4 bg-different">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
                 <div class="programme-time">
                   <b>31 Jul | 09:00 - 10:30</b>&nbsp;
                 </div>
@@ -80,8 +80,8 @@ description: ""
       <div class="col is-full">
         <div class="row">
           <div class="col is-6">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4 bg-different">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
                 <div class="programme-time">
                   <b>31 Jul | 11:00 - 12:30</b>&nbsp;
                 </div>
@@ -89,8 +89,8 @@ description: ""
           <hr class="my-3 border-primary">
           </div></div></div>
           <div class="col is-6">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4 bg-different">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
                 <div class="programme-time">
                   <b>31 Jul | 11:00 - 12:30</b>&nbsp;
                 </div>
