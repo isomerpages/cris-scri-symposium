@@ -197,8 +197,8 @@ description: ""
       <div class="col is-full">
         <div class="row">
           <div class="col is-8">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4 bg-notice">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4 bg-notice">
                 <div class="programme-time">
                   <b>30 Jul | 11:30 - 13:00</b>&nbsp;
                 </div>
@@ -207,8 +207,8 @@ description: ""
             </div>
           </div>
           <div class="col is-4">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4">
                 <div class="programme-time">
                   <b>30 Jul | 12:00 - 13:00</b>&nbsp;
                 </div>
@@ -220,7 +220,7 @@ description: ""
   <div class="row">
     <div class="col is-4">
       <div class="border bg-light h-100 position-relative">
-        <div class="p-4 bg-different">
+        <div style="height: 100%" class="p-4 bg-different h-100">
           <div class="programme-time">
                         <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
@@ -229,16 +229,16 @@ description: ""
 	  </div>
 </div></div>
           <div class="col is-4">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4 bg-different">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4 bg-different h-100">
                 <div class="programme-time">
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
 								<h4 class="programme-title"><font color="#808080">Track 2: Sponsored Track</font></h4>
 				</div></div></div>
 				<div class="col is-4">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4 bg-different">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4 bg-different h-100">
                 <div class="programme-time">
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
@@ -268,8 +268,8 @@ description: ""
 <section>
   <div class="row">
     <div class="col is-4">
-      <div class="border bg-light h-100 position-relative">
-        <div class="p-4 bg-different">
+      <div style="height: 100%" class="border bg-light h-100 position-relative">
+        <div style="height: 100%" class="p-4 bg-different">
           <div class="programme-time">
             <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
@@ -277,16 +277,16 @@ description: ""
 	  </div>
 </div></div>
           <div class="col is-4">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4 bg-different">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
                 <div class="programme-time">
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
                 <h4 class="programme-title"><font color="#808080">Track 4: Managing Global / Regional Trial Networks </font><br>“Operational Excellence &amp; Ecosystem Partnerships”</h4>
 </div></div></div>
 	          <div class="col is-4">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4 bg-different">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
                 <div class="programme-time">
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
