@@ -1,19 +1,20 @@
 ---
 layout: homepage
 title: SCRI Clinical Trials Symposium
-description: "The SCRI Clinical Trials Symposium 2024 is themed “The Promise of
-  Clinical Trials: Transforming Tomorrow’s Health” and brings together
-  clinicians, researchers, academics, and industry experts in clinical research
-  from around the world. The Symposium will offer an excellent opportunity for
-  knowledge exchange and networking, share practical insights of how clinical
-  trials improve patients’ lives and contribute towards positive health and
-  economic outcomes in Singapore and beyond."
+description: The SCRI Clinical Trials Symposium 2026 is back - bolder, bigger,
+  and more future-focused than ever. Set in the heart of Singapore’s thriving
+  research ecosystem, this flagship event brings together the brightest minds in
+  global clinical research for two power-packed days of visionary thinking and
+  transformative collaboration.
 image: /images/At_A_Glance_05.png
 permalink: /
-notification: ""
+notification: Singapore Clinical Research Institute (SCRI) will NEVER ask you to
+  transfer money or disclose bank details over a call. If in doubt, call the
+  24/7 ScamShield helpline at 1799, or visit the ScamShield website at
+  www.scamshield.gov.sg
 sections:
   - hero:
-      background: /images/MainBanner2.png
+      background: /images/SCRI_Banner_2000x800B.jpg
       key_highlights:
         - title: REGISTER NOW
           description: ""
@@ -23,44 +24,72 @@ sections:
           url: /about-event/
         - title: Programme
           description: ""
-          url: /programme/day1/
+          url: /programme-at-a-glance/
       variant: center
-      title: SCRI Clinical Trials Symposium 2024
-      subtitle: "The Promise of Clinical Trials: Transforming Tomorrow's  Health"
+      title: SCRI Clinical Trials Symposium 2026
+      subtitle: "Clinical Trials Reimagined: Advancing Innovation, Inclusion, and Impact"
   - infobar:
       description: Organised by the Singapore Clinical Research Institute, the two-day
         event aims to showcase the impact of and opportunities for clinical
         trials in Singapore.
-      subtitle: Raffles City Convention Centre
-      title: 30 - 31 July 2024
+      subtitle: Sands Expo & Convention Centre
+      title: 30 - 31 July 2026
   - infopic:
-      title: The Future of Clinical Trials
+      title: Advancing Trials, Transforming Care
       id: infopic
-      description: Hear from experts who will discuss topics on patient engagement,
-        health outcomes and impact of trials in pandemics, healthcare policy and
-        biotech support.
-      image: /images/SCRI_Web_Theme_pic_02.jpg
+      description: Join global research leaders as bold ideas and clinical
+        breakthroughs shape the future of patient outcomes.
+      image: /images/HeroBanner2025.jpg
       alt: programme
       button: Programme
-      url: /programme/day1
+      url: /programme-at-a-glance/
   - infopic:
-      title: CME Points
+      title: Pre-Symposium Biostatistics Workshop
+      subtitle: 28-29 July 2026
       id: infopic
-      description: Continuing Medical Education (CME) points from Singapore Medical
-        Council approved. Participants can receive up to 8 points for attending
-        the full 2 days.
+      description: This workshop provides a comprehensive and practice-oriented
+        introduction to the evolving landscape of clinical research methodology.
+      button: Learn More
+      url: /programme/pre-symposium-workshop-28-29-july-2026/
+      image: /images/BiostatisticsVisual.png
+      alt: Image alt text
+  - infopic:
+      title: Pre-Symposium HTA Workshop
+      subtitle: 28-29 July 2026
+      id: infopic
+      description: This workshop provides in-depth and practice-oriented introduction
+        to HTA and HEE, with a focus on standards required by leading
+        international agencies.
+      button: Learn More
+      url: /programme/pre-symposium-hta-workshop-28-29-july/
+      image: /images/HTAVisual.png
+      alt: Image alt text
+  - infopic:
+      title: Connect & Collaborate
+      id: infopic
+      description: Meet leading organisations driving clinical innovation. Explore new
+        technologies, form partnerships, and accelerate your growth.
+      button: Learn More
+      url: /sponsors/
+      image: /images/SCRIDAY2_376.jpg
+      alt: Image alt text
+  - infopic:
+      title: 2024 in Review
+      subtitle: Highlight Reel
+      id: infopic
+      description: Dive into the key moments that sparked collaboration, advanced
+        thinking, and brought the clinical trials community together in 2024.
+      button: VIDEO
+      url: /about-event#video2024
+      image: /images/PlayVideo2.png
+      alt: Video
+  - infopic:
+      title: CME / CPE Points
+      id: infopic
+      description: CME and CPE (for nurses only) are pending for approval. More
+        information will be released when closer to date.
       button: Register Now
       url: /register/
-      image: /images/SCRI_Web_Theme_pic_01.jpg
+      image: /images/SCRIDAY1_128.jpg
       alt: Image alt text
-  - infocols:
-      title: Updates
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Venue
-          description: The symposium will be held at the Stamford Ballroom (Level 4), RCCC.
-        - title: Admin Reminders
-          description: A reminder email will be sent on 25 Jul to all registered
-            delegates. Please check your spam / junk mail.
 ---

@@ -1,4 +1,4 @@
-logo: /images/scri_logo.png
+logo: /images/SCRI_30_Years_Logo_Design_v2.jpg
 links:
   - title: Register
     url: /register
@@ -6,7 +6,5 @@ links:
     collection: about-the-event
   - title: Programme
     collection: programme
-  - title: Speakers
-    url: /speakers
   - title: Contact Us
     url: /contact-us

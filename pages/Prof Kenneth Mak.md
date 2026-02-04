@@ -7,11 +7,12 @@ image: /images/Speakers_KennethMak.png
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_KennethMak.png">
+<img src="/images/KennethMak.png">
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Prof Kenneth Mak</b></h4>
-<b>Director-General of Health<br>
+	<b>Chairperson, Consortium for Clinical Research and Innovation, Singapore<br>
+Director-General of Health<br>
 Ministry of Health (MOH), Singapore</b>
 	
 <p>Prof Kenneth Mak is Director-General of Health at the Ministry of Health Singapore.</p>
@@ -29,5 +30,5 @@ Director of Medical Services in 2020 and this appointment was redesignated in Ma
 
 <p>Prof Mak retired from voluntary military service in 2021, as a Colonel with the Singapore Armed Forces. He had held various command and staff appointments at Battalion, Brigade and Division level.
 </p>
-</div>
-</div>
+</div><b>
+</b></div>

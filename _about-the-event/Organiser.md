@@ -7,13 +7,13 @@ description: ""
 <h4><strong>Singapore Clinical Research Institute (SCRI)</strong></h4>
 
 <div class="row padding--top--xl">
-	<div class="col is-6">
-		<img src="/images/scri_logo.png">
+	<div class="col is-12">
+		<img src="/images/SCRI_30_Years_LongLogo.jpg">
 	</div>
 </div>
 <div class="row">
 	<div class="col is-12">
-				<p>SCRI was established in 2008 as the national academic clinical research organisation to enhance the standards of clinical research in Singapore by developing core capabilities, infrastructure and scientific leadership for clinical research.</p>
+				<p>SCRI was established in 2008 as the national academic clinical research organisation to enhance the standards of clinical research in Singapore by developing core capabilities, infrastructure and scientific leadership for clinical research. As the organisation celebrates its 30th anniversary in 2026, this three-decade journey of excellence has positioned SCRI as Singapore's leading clinical research institution.</p>
 
 <p>In 2021, SCRI was appointed as the national coordinating body to implement the national clinical trial strategy and enhance Singapore's clinical trial ecosystem.</p>
 
