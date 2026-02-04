@@ -50,7 +50,7 @@ sections:
       description: This workshop provides a comprehensive and practice-oriented
         introduction to the evolving landscape of clinical research methodology.
       button: Learn More
-      url: /pre-symposium-workshop-28-29-july-2026/8-29-july-2026/
+      url: /pre-symposium-workshop-28-29-july-2026/
       image: /images/BiostatisticsVisual.png
       alt: Image alt text
   - infopic:
