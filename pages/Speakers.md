@@ -19,7 +19,7 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/KennethMak.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Kenneth Mak</h4>
-					<div class="speaker-company text-ellipsis">Chairman, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
+					<div class="speaker-company text-ellipsis">Chairperson, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
           <div class="speaker-position text-ellipsis">Director-General of Health</div>
           <div class="speaker-company text-ellipsis">Ministry of Health (MOH), Singapore</div>
         </a>
