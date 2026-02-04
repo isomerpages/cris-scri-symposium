@@ -44,15 +44,6 @@ sections:
       button: Programme
       url: /programme-at-a-glance/
   - infopic:
-      title: Connect & Collaborate
-      id: infopic
-      description: Meet leading organisations driving clinical innovation. Explore new
-        technologies, form partnerships, and accelerate your growth.
-      button: Learn More
-      url: /sponsors/
-      image: /images/SCRIDAY2_376.jpg
-      alt: Image alt text
-  - infopic:
       title: Pre-Symposium Biostatistics Workshop
       subtitle: 28-29 July 2026
       id: infopic
@@ -72,6 +63,15 @@ sections:
       button: Learn More
       url: /programme/pre-symposium-hta-workshop-28-29-july/
       image: /images/WorkshopB.png
+      alt: Image alt text
+  - infopic:
+      title: Connect & Collaborate
+      id: infopic
+      description: Meet leading organisations driving clinical innovation. Explore new
+        technologies, form partnerships, and accelerate your growth.
+      button: Learn More
+      url: /sponsors/
+      image: /images/SCRIDAY2_376.jpg
       alt: Image alt text
   - infopic:
       title: 2024 in Review
