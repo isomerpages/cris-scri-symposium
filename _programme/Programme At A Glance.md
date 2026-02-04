@@ -9,9 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_AtAGlance.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ProgrammeWebsite.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewProgramme.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
