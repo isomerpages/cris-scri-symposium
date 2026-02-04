@@ -4,9 +4,8 @@ permalink: /pre-symposium-workshop-28-29-july-2026/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_WorkshopA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_WorkshopA1.png">
 </div>
 <h4><strong>Pre-Symposium Biostatistics Workshop on Advanced and Innovative Clinical Trial Designs</strong></h4>
 <p>Please note:</p>
