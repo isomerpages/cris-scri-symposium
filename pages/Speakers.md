@@ -115,6 +115,16 @@ Lee Kong Chian School of Medicine</div>
 					    </div>				
 
 <div class="row">
+	      <div class="col is-4">
+        <a class="speaker" href="/wong-cher-yi">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/WongCherYi.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Ms Wong Cher Yi</h4>
+          <div class="speaker-position text-ellipsis">Director of Clinical Trial Unit and Senior Clinical Research Coordinator</div>
+          <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
+        </a>
+      </div>
       <div class="col is-4">
         <a class="speaker" href="/tien-yin-wong">
           <div class="speaker-image-wrapper">
@@ -137,6 +147,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Clinical Trials Centre, The University of Hong Kong</div>
         </a>
       </div>
+					    </div>		
+
+<div class="row">
       <div class="col is-4">
         <a class="speaker" href="/akhmal-yusof">
           <div class="speaker-image-wrapper">
@@ -149,7 +162,6 @@ Lee Kong Chian School of Medicine</div>
         </a>
       </div>
 					    </div>		
-		
 		
 </div></section>
 <style type="text/css">
