@@ -22,6 +22,10 @@ and registration will close once capacity is reached.</p>
 <li>
 <p>Delegates who sign up for pre-symposium workshop will also enjoy complimentary
 access to the Main Symposium.</p>
+</li>
+<li>
+<p>CME and CPE (for nurses only) will be applicable for participants. More
+information will be released when closer to date.</p>
 <hr>
 <p></p>
 </li>
@@ -32,7 +36,7 @@ Assessment (HTA) and Health Economic Evaluation (HEE), with a specific
 focus on standards required by leading international agencies and Singapore
 Agency for Care Effectiveness (ACE), a Singapore's national HTA and clinical
 guidance agency.</p>
-<p>Designed as a pre-symposium short course for the <strong>SCRI Clinical Trial Symposium Singapore 2026</strong>,
+<p>Designed as a pre-symposium short course for the <strong>SCRI Clinical Trials Symposium 2026</strong>,
 the workshop aims to strengthen participants’ understanding of HTA requirements,
 introduce up-to-date applied HEE and modelling methodologies, and enhance
 hands-on skills in TreeAge and R programming language. It also offers deep
