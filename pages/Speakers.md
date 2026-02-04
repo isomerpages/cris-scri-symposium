@@ -127,6 +127,16 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Senior Advisor, SingHealth, Singapore National Eye Centre, Singapore</div>
         </a>
       </div>
+	<div class="col is-4">
+        <a class="speaker" href="/henry-yau">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/HenryYau.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr Henry Yau</h4>
+					<div class="speaker-company text-ellipsis">Managing Director – Clinical Trials Centre</div> 
+          <div class="speaker-company text-ellipsis">The University of Hong Kong</div>
+        </a>
+      </div>
       <div class="col is-4">
         <a class="speaker" href="/akhmal-yusof">
           <div class="speaker-image-wrapper">
