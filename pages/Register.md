@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_RegisterNow.png">
 </div>
-<h4><strong>Registration begins in January 2026</strong></h4>
+<h4><strong>Registration begins in February 2026</strong></h4>
 <p>Please see details for the different ticket prices.</p>
 <ul data-tight="true" class="tight">
 <li>
