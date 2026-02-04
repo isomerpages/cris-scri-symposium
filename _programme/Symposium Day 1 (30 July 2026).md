@@ -57,7 +57,7 @@ description: ""
                               <b>Prof Kenneth Mak</b></a>
                           </div>
 													<div class="text-ellipsis speaker-position">
-                            Chairman, Consortium for Clinical Research and Innovation, Singapore (CRIS)
+                            Chairperson, Consortium for Clinical Research and Innovation, Singapore (CRIS)
                           </div>
                           <div class="text-ellipsis speaker-position">
                            Director-General of Health
