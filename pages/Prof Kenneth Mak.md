@@ -11,7 +11,7 @@ image: /images/Speakers_KennethMak.png
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Prof Kenneth Mak</b></h4>
-	<b>Chairman, Consortium for Clinical Research and Innovation, Singapore<br>
+	<b>Chairperson, Consortium for Clinical Research and Innovation, Singapore<br>
 Director-General of Health<br>
 Ministry of Health (MOH), Singapore</b>
 	
