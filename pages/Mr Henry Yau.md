@@ -11,7 +11,7 @@ image: /images/Speakers_HenryYau.png
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Mr Henry Yau</b></h4>
-<b>Managing Director – Clinical Trials Centre<br>The University of Hong Kong</b>
+<b>Managing Director<br>Clinical Trials Centre, The University of Hong Kong</b>
 	
 <p>Mr Henry Yau is the Group CEO of HKU Clinical Research Group (HongCRES), Managing Director of HKU Clinical Trials Centre (HKU-CTC), Managing Director of Gleneagles Clinical Trials Centre (Gleneagles CTC), Honorary Assistant Professor of Macau University of Science and Technology (MUST) and Non-executive Director of MUST Clinical Trials Centre (MUST-CTC).</p>
 <p>
