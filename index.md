@@ -50,7 +50,7 @@ sections:
       description: This workshop provides a comprehensive and practice-oriented
         introduction to the evolving landscape of clinical research methodology.
       button: Learn More
-      url: /programme/pre-symposium-workshop-28-29-july-2026/
+      url: /pre-symposium-workshop-28-29-july-2026/
       image: /images/BiostatisticsVisual.png
       alt: Image alt text
   - infopic:
@@ -61,7 +61,7 @@ sections:
         to HTA and HEE, with a focus on standards required by leading
         international agencies.
       button: Learn More
-      url: /programme/pre-symposium-hta-workshop-28-29-july/
+      url: /pre-symposium-hta-workshop-28-29-july/
       image: /images/HTAVisual.png
       alt: Image alt text
   - infopic:
