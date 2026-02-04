@@ -51,7 +51,7 @@ sections:
         introduction to the evolving landscape of clinical research methodology.
       button: Learn More
       url: /programme/pre-symposium-workshop-28-29-july-2026/
-      image: /images/WorkshopA.png
+      image: /images/BiostatisticsVisual.png
       alt: Image alt text
   - infopic:
       title: Pre-Symposium HTA Workshop
@@ -62,7 +62,7 @@ sections:
         international agencies.
       button: Learn More
       url: /programme/pre-symposium-hta-workshop-28-29-july/
-      image: /images/WorkshopB.png
+      image: /images/HTAVisual.png
       alt: Image alt text
   - infopic:
       title: Connect & Collaborate
