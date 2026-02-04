@@ -4,9 +4,8 @@ permalink: /pre-symposium-hta-workshop-28-29-july/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_WorkshopB.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_WorkshopB1.png">
 </div>
 <h4><strong>Pre-Symposium Health Technology Assessment (HTA) Workshop - Evidence for Decisions: HTA Requirements and Applied HEE Methodology</strong></h4>
 <p>Please note:</p>
