@@ -61,7 +61,7 @@ sections:
         to HTA and HEE, with a focus on standards required by leading
         international agencies.
       button: Learn More
-      url: /programme/pre-symposium-hta-workshop-28-29-july/
+      url: /pre-symposium-hta-workshop-28-29-july/
       image: /images/HTAVisual.png
       alt: Image alt text
   - infopic:
