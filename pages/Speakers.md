@@ -133,8 +133,8 @@ Lee Kong Chian School of Medicine</div>
             <img class="speaker-image img-fluid mb-3" src="/images/HenryYau.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Henry Yau</h4>
-					<div class="speaker-company text-ellipsis">Managing Director – Clinical Trials Centre</div> 
-          <div class="speaker-company text-ellipsis">The University of Hong Kong</div>
+					<div class="speaker-company text-ellipsis">Managing Director</div> 
+          <div class="speaker-company text-ellipsis">Clinical Trials Centre, The University of Hong Kong</div>
         </a>
       </div>
       <div class="col is-4">
