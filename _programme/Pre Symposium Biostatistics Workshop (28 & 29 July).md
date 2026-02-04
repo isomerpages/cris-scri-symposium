@@ -22,6 +22,10 @@ registration will close once capacity is reached.</p>
 <li>
 <p>Delegates who sign up for pre-symposium workshop will also enjoy complimentary
 access to the Main Symposium.</p>
+</li>
+<li>
+<p>CME and CPE (for nurses only) will be applicable for participants. More
+information will be released when closer to date.</p>
 <hr>
 <p></p>
 </li>
@@ -32,7 +36,7 @@ landscape of clinical research methodology. With a specific focus on moving
 beyond traditional randomized controlled trials, this course explores advanced
 and adaptive strategies designed to improve trial efficiency, ethical standards,
 and statistical power.</p>
-<p>Designed as a pre-symposium short course for the <strong>SCRI Clinical Trial Symposium Singapore 2026</strong>,
+<p>Designed as a pre-symposium short course for the <strong>SCRI Clinical Trials Symposium 2026</strong>,
 the workshop aims to strengthen participants’ understanding of the entire
 research lifecycle from the logic of early-phase dose-finding to the intricacies
 of late-stage cluster and stepped-wedge designs. Participants will gain
