@@ -69,6 +69,19 @@ description: ""
         </a>
       </div>
 			<div class="col is-4">
+        <a class="speaker" href="/lisa-ooi/">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/LisaOoi.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Lisa Ooi</h4>
+          <div class="speaker-position text-ellipsis">Assistant Chief Executive</div>
+          <div class="speaker-company text-ellipsis">Biomedical Research Council, A*STAR</div>
+        </a>
+      </div>
+					    </div>		
+
+<div class="row">
+				<div class="col is-4">
         <a class="speaker" href="/troy-puar/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/TroyPuar.png" alt="">
@@ -78,9 +91,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Changi General Hospital, SingHealth, Singapore</div>
         </a>
       </div>
-					    </div>		
-
-<div class="row">
       <div class="col is-4">
         <a class="speaker" href="/ailing-simdevadas/">
           <div class="speaker-image-wrapper">
@@ -102,6 +112,20 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Health Products Regulation Group, Health Sciences Authority</div>
         </a>
       </div>
+					    </div>				
+
+<div class="row">
+				<div class="col is-4">
+        <a class="speaker" href="/david-tan">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/DavidTan.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">A/Prof David Tan</h4>
+          <div class="speaker-position text-ellipsis">Senior Consultant Medical Oncologist, National University Cancer Institute, Singapore</div>
+          <div class="speaker-company text-ellipsis">Associate Professor, Yong Loo Lin School of Medicine, National University of Singapore (NUS)</div>
+					          <div class="speaker-company text-ellipsis">Group Director of Partnerships and Innovation, National University Health System (NUHS)</div>
+        </a>
+      </div>
 			<div class="col is-4">
         <a class="speaker" href="/dipti-thakkar">
           <div class="speaker-image-wrapper">
@@ -111,10 +135,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-position text-ellipsis">Chief Operating Officer</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
-      </div>
-					    </div>				
-
-<div class="row">
+      </div>	
 	      <div class="col is-4">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
@@ -125,6 +146,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
+					    </div>		
+
+<div class="row">
       <div class="col is-4">
         <a class="speaker" href="/tien-yin-wong">
           <div class="speaker-image-wrapper">
@@ -146,10 +170,7 @@ Lee Kong Chian School of Medicine</div>
 					<div class="speaker-company text-ellipsis">Managing Director</div> 
           <div class="speaker-company text-ellipsis">Clinical Trials Centre, The University of Hong Kong</div>
         </a>
-      </div>
-					    </div>		
-
-<div class="row">
+      </div>	
       <div class="col is-4">
         <a class="speaker" href="/akhmal-yusof">
           <div class="speaker-image-wrapper">
