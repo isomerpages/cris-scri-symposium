@@ -35,19 +35,6 @@ description: ""
         </a>
       </div>
 			<div class="col is-4">
-        <a class="speaker" href="/pierce-chow">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/PierceChow.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Prof Pierce Chow</h4>
-          <div class="speaker-position text-ellipsis">Program Director, Duke-NUS Medical School, Singapore</div>
-          <div class="speaker-company text-ellipsis">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
-        </a>
-      </div>
-					    </div>
-		
-<div class="row">
-      <div class="col is-4">
         <a class="speaker" href="/joonwoo-bahn">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/joonwoobahn.png" alt="">
@@ -58,6 +45,30 @@ description: ""
           <div class="speaker-company text-ellipsis">Director, Clinical Research Center, Asan Medical Center, Korea </div>
         </a>
       </div>
+					    </div>
+		
+<div class="row">
+	<div class="col is-4">
+        <a class="speaker" href="/edwin-chan">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/EdwinChan.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">A/Prof Edwin Chan</h4>
+          <div class="speaker-position text-ellipsis">Director, Cochrane Singapore</div>
+					<div class="speaker-position text-ellipsis">Associate Professor, Duke-NUS Medical School</div>
+          <div class="speaker-company text-ellipsis">Chief Scientific Officer, Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>     
+<div class="col is-4">
+        <a class="speaker" href="/pierce-chow">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/PierceChow.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Pierce Chow</h4>
+          <div class="speaker-position text-ellipsis">Program Director, Duke-NUS Medical School, Singapore</div>
+          <div class="speaker-company text-ellipsis">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
+        </a>
+      </div>      
       <div class="col is-4">
         <a class="speaker" href="/jon-emery">
           <div class="speaker-image-wrapper">
@@ -66,6 +77,29 @@ description: ""
           <h4 class="speaker-name text-ellipsis">Prof Jon Emery</h4>
           <div class="speaker-position text-ellipsis">Professor of Family Medicine, Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Co-Director, Research Institute for Cancer Prevention, Screening and Early Detection (RISE)</div>
+        </a>
+      </div>
+					    </div>	
+<div class="row">
+				<div class="col is-4">
+        <a class="speaker" href="/kenneth-lee/">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/KennethLee.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr Kenneth Lee</h4>
+          <div class="speaker-position text-ellipsis">Vice-President, Proposals and Contracts</div>
+          <div class="speaker-company text-ellipsis">Parexel International</div>
+        </a>
+      </div>
+				<div class="col is-4">
+        <a class="speaker" href="/liu-nan/">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/LiuNan.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">A/Prof Liu Nan</h4>
+          <div class="speaker-position text-ellipsis">Director, Duke-NUS AI + Medical Sciences Initiative (DAISI)</div>
+<div class="speaker-position text-ellipsis">Associate Professor, Centre for Quantitative Medicine,</div>
+          <div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
         </a>
       </div>
 			<div class="col is-4">
