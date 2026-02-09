@@ -81,6 +81,16 @@ description: ""
       </div>
 					    </div>	
 <div class="row">
+					<div class="col is-4">
+        <a class="speaker" href="/george-goh/">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/GeorgeGoh.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof George Goh</h4>
+          <div class="speaker-position text-ellipsis">Associate Professor</div>
+          <div class="speaker-company text-ellipsis">Singapore General Hospital, Duke-NUS Medical School</div>
+        </a>
+      </div>
 				<div class="col is-4">
         <a class="speaker" href="/kenneth-lee/">
           <div class="speaker-image-wrapper">
@@ -102,7 +112,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
         </a>
       </div>
-			<div class="col is-4">
+					    </div>		
+
+<div class="row">
+				<div class="col is-4">
         <a class="speaker" href="/lisa-ooi/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/LisaOoi.png" alt="">
@@ -112,9 +125,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Biomedical Research Council, A*STAR</div>
         </a>
       </div>
-					    </div>		
-
-<div class="row">
 				<div class="col is-4">
         <a class="speaker" href="/troy-puar/">
           <div class="speaker-image-wrapper">
@@ -136,7 +146,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Techological University, Singapore</div>
         </a>
       </div>
-      <div class="col is-4">
+					    </div>				
+
+<div class="row">
+	      <div class="col is-4">
         <a class="speaker" href="/sumitra-sachidanandan">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/SumitraSachidanandan.png" alt="">
@@ -146,9 +159,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Health Products Regulation Group, Health Sciences Authority</div>
         </a>
       </div>
-					    </div>				
-
-<div class="row">
 				<div class="col is-4">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -170,7 +180,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>	
-	      <div class="col is-4">
+					    </div>		
+
+<div class="row">
+		      <div class="col is-4">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/WongCherYi.png" alt="">
@@ -180,9 +193,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
-					    </div>		
-
-<div class="row">
       <div class="col is-4">
         <a class="speaker" href="/tien-yin-wong">
           <div class="speaker-image-wrapper">
@@ -205,6 +215,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Clinical Trials Centre, The University of Hong Kong</div>
         </a>
       </div>	
+					    </div>		
+
+<div class="row">
       <div class="col is-4">
         <a class="speaker" href="/akhmal-yusof">
           <div class="speaker-image-wrapper">
