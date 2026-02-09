@@ -7,18 +7,24 @@ image: /images/Speakers_KennethLee.png
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_KennethLee.png">
+<img src="/images/KennethLee.png">
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Mr Kenneth Lee</b></h4>
-<b>Vice-President, Commercial Operations<br>
+<b>Vice-President, Proposals and Contracts<br>
 	Parexel International</b>
 	
-<p>Kenneth heads the Clinical proposal team in Asia managing the pricing of clinical studies in the region. He also manages the Consulting and Clinical Trial Supplies &amp; Logistics proposal teams globally to ensure alignment across the different geographical regions.</p>
+<p>Mr Kenneth Lee is a leader in commercial operations and corporate development with nearly two decades of experience across healthcare and life sciences sectors in the Asia-Pacific region.</p><p>
 
-<p>Prior to taking on global responsibilities, Kenneth managed both the proposal and contracts teams in Asia.  Before joining Parexel, Kenneth was the Director for Partner Accounts at Medidata and had oversight of collaborations with partners in the region. Prior to joining Medidata, Kenneth was with the Corporate Development function of Quintiles Asia responsible for integrating Consulting, Clinical and Commercial services in Asia.</p>
+His career spans leadership roles in multinational organisations including Parexel, Medidata, Quintiles, and Singapore’s Economic Development Board.</p><p>
 
-<p>In the early stage of his career, Kenneth also served as a Senior Officer with the Economic Development Board of Singapore. Kenneth graduated from the National University of Singapore with a BSc (Honors in Cell and Molecular Biology) and from the Manchester Business School with a MBA (Merit in Finance).
+Currently a Vice-President at Parexel, he leads global and regional teams spanning clinical and consulting services, with a strong track record in building high-performing teams and driving commercial excellence.</p><p>
+
+Mr Lee is particularly passionate about developing talent through structured capability-building, cross-functional exposure, and leadership coaching.</p><p>
+
+He has led geographically distributed teams and mentored cross functional managers through transformation and growth.</p><p>
+
+He holds an MBA (Merit in Finance) from Manchester Business School and is a strong advocate for growing future-ready leaders in complex, fast-evolving environments.
 
 </p>
 </div>
