@@ -14,17 +14,6 @@ description: ""
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
       <div class="col is-4">
-        <a class="speaker" href="/kenneth-mak">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/KennethMak.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Prof Kenneth Mak</h4>
-					<div class="speaker-company text-ellipsis">Chairperson, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
-          <div class="speaker-position text-ellipsis">Director-General of Health</div>
-          <div class="speaker-company text-ellipsis">Ministry of Health (MOH), Singapore</div>
-        </a>
-      </div>
-      <div class="col is-4">
         <a class="speaker" href="/danny-soon">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/DannySoon.png" alt="">
@@ -45,10 +34,7 @@ description: ""
           <div class="speaker-company text-ellipsis">Director, Clinical Research Center, Asan Medical Center, Korea </div>
         </a>
       </div>
-					    </div>
-		
-<div class="row">
-	<div class="col is-4">
+				<div class="col is-4">
         <a class="speaker" href="/edwin-chan">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/EdwinChan.png" alt="">
@@ -59,6 +45,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Chief Scientific Officer, Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>     
+					    </div>
+		
+<div class="row">
 <div class="col is-4">
         <a class="speaker" href="/pierce-chow">
           <div class="speaker-image-wrapper">
@@ -79,9 +68,7 @@ description: ""
           <div class="speaker-company text-ellipsis">Co-Director, Research Institute for Cancer Prevention, Screening and Early Detection (RISE)</div>
         </a>
       </div>
-					    </div>	
-<div class="row">
-					<div class="col is-4">
+						<div class="col is-4">
         <a class="speaker" href="/george-goh/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/GeorgeGoh.png" alt="">
@@ -91,6 +78,8 @@ description: ""
           <div class="speaker-company text-ellipsis">Singapore General Hospital, Duke-NUS Medical School</div>
         </a>
       </div>
+					    </div>	
+<div class="row">
 				<div class="col is-4">
         <a class="speaker" href="/kenneth-lee/">
           <div class="speaker-image-wrapper">
@@ -112,10 +101,7 @@ description: ""
           <div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
         </a>
       </div>
-					    </div>		
-
-<div class="row">
-				<div class="col is-4">
+					<div class="col is-4">
         <a class="speaker" href="/lisa-ooi/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/LisaOoi.png" alt="">
@@ -125,6 +111,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Biomedical Research Council, A*STAR</div>
         </a>
       </div>
+					    </div>		
+
+<div class="row">
 				<div class="col is-4">
         <a class="speaker" href="/troy-puar/">
           <div class="speaker-image-wrapper">
@@ -146,10 +135,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Techological University, Singapore</div>
         </a>
       </div>
-					    </div>				
-
-<div class="row">
-	      <div class="col is-4">
+		      <div class="col is-4">
         <a class="speaker" href="/sumitra-sachidanandan">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/SumitraSachidanandan.png" alt="">
@@ -159,6 +145,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Health Products Regulation Group, Health Sciences Authority</div>
         </a>
       </div>
+					    </div>				
+
+<div class="row">
 				<div class="col is-4">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -180,10 +169,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>	
-					    </div>		
-
-<div class="row">
-		      <div class="col is-4">
+			      <div class="col is-4">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/WongCherYi.png" alt="">
@@ -193,6 +179,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
+					    </div>		
+
+<div class="row">
       <div class="col is-4">
         <a class="speaker" href="/tien-yin-wong">
           <div class="speaker-image-wrapper">
@@ -215,10 +204,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Clinical Trials Centre, The University of Hong Kong</div>
         </a>
       </div>	
-					    </div>		
-
-<div class="row">
-      <div class="col is-4">
+	      <div class="col is-4">
         <a class="speaker" href="/akhmal-yusof">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/AkhmalYusof.png" alt="">
@@ -230,6 +216,7 @@ Lee Kong Chian School of Medicine</div>
         </a>
       </div>
 					    </div>		
+
 		
 </div></section>
 <style type="text/css">
