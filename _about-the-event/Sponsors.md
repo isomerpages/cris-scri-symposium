@@ -18,7 +18,7 @@ The symposium provides a focused platform for meaningful engagement with decisio
 
 Engage with healthcare leaders, share your insights to clinical research, and participate in building Singapore's position as a regional hub for clinical trials innovation.
 
-[Connect with our Partnerships team today!](mailto:victor@csquare-creative.com)
+[Connect with our Partnerships team today!](mailto:projects@csquare-creative.com)
 
 <h4><strong>Our 2024 Sponsors and Partners</strong></h4>
 
