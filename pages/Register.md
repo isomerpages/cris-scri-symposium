@@ -20,7 +20,7 @@ of residence.</p>
 </li>
 <li>
 <p>Bulk Registration Discounts are available for 10 pax or more. Please reach
-out to <a href="mailto:secretariat@scri-symposium.sg" rel="noopener noreferrer nofollow" target="_blank">secretariat@scri-symposium.sg</a> for
+out to our event secretariat <a href="mailto:projects@csquare-creative.com" rel="noopener noreferrer nofollow" target="_blank">projects@csquare-creative.com</a> for
 more details.</p>
 </li>
 <li>
