@@ -10,7 +10,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Mr John Andrews</b></h4>
-<b>Manager - Research Programs and Pipeline<br>ANZGOG</b>
+<b>Manager - Research Programs and Pipeline<br>Australia New Zealand Gynaecological Oncology Group (ANZGOG)</b>
 	
 <p>Mr John Andrews is the Manager – Research Programs and Pipeline - for the Australia New Zealand Gynaecological Oncology Group (ANZGOG). In this role, Mr Andrews oversees the academic, investigator-initiated clinical trial portfolio of research that seeks to improve the lives of patients diagnosed with a gynaecological cancer across Australia and New Zealand. On behalf of ANZGOG, he has overseen more than 30 clinical trials, across a range of gynaecological cancers.</p><p>
 
