@@ -23,6 +23,66 @@ description: ""
           <div class="speaker-company text-ellipsis">Executive Director, SCRI</div>
         </a>
       </div>
+			      <div class="col is-4">
+        <a class="speaker" href="/raymond-chua">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/RaymondChua.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Adj Prof Raymond Chua</h4>
+          <div class="speaker-position text-ellipsis">Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)</div>
+          <div class="speaker-company text-ellipsis">Chief Executive Officer, Health Sciences Authority (HSA)</div>
+        </a>
+      </div>
+				      <div class="col is-4">
+        <a class="speaker" href="/tien-yin-wong">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/WongTienYin.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Tien Yin Wong</h4>
+					<div class="speaker-company text-ellipsis">Professor &amp; Senior Vice-Chancellor, Tsinghua Medicine</div> 
+					<div class="speaker-company text-ellipsis">Vice-Provost, Tsinghua University, Beijing, China
+</div>
+          <div class="speaker-company text-ellipsis">Senior Advisor, SingHealth, Singapore National Eye Centre, Singapore</div>
+        </a>
+      </div>
+</div>			
+
+<div class="row">		
+		<div class="col is-4">
+        <a class="speaker" href="/henry-yau">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/HenryYau.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr Henry Yau</h4>
+					<div class="speaker-company text-ellipsis">Managing Director</div> 
+          <div class="speaker-company text-ellipsis">Clinical Trials Centre, The University of Hong Kong</div>
+        </a>
+      </div>	
+		      <div class="col is-4">
+        <a class="speaker" href="/akhmal-yusof">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/AkhmalYusof.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Akhmal Yusof</h4>
+          <div class="speaker-position text-ellipsis">Chief Executive Officer
+</div>
+          <div class="speaker-company text-ellipsis">Clinical Research Malaysia (CRM)</div>
+        </a>
+      </div>
+				<div class="col is-4">
+        <a class="speaker" href="/joonwoo-bahn">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/joonwoobahn.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof JoonWoo Bahn</h4>
+					<div class="speaker-company text-ellipsis">Professor, Department of Convergence Medicine 
+</div>
+          <div class="speaker-company text-ellipsis">Director, Clinical Research Center, Asan Medical Center, Korea </div>
+        </a>
+      </div>   
+					    </div>	
+
+<div class="row">			
 						<div class="col is-4">
         <a class="speaker" href="/john-andrews">
           <div class="speaker-image-wrapper">
@@ -33,21 +93,7 @@ description: ""
 </div>
           <div class="speaker-company text-ellipsis">Australia New Zealand Gynaecological Oncology Group (ANZGOG)</div>
         </a>
-      </div>  
-			<div class="col is-4">
-        <a class="speaker" href="/joonwoo-bahn">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/joonwoobahn.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Prof JoonWoo Bahn</h4>
-					<div class="speaker-company text-ellipsis">Professor, Department of Convergence Medicine 
-</div>
-          <div class="speaker-company text-ellipsis">Director, Clinical Research Center, Asan Medical Center, Korea </div>
-        </a>
-      </div>    
-					    </div>
-		
-<div class="row">
+      </div>   
 					<div class="col is-4">
         <a class="speaker" href="/edwin-chan">
           <div class="speaker-image-wrapper">
@@ -69,16 +115,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
         </a>
       </div>      
-      <div class="col is-4">
-        <a class="speaker" href="/raymond-chua">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/RaymondChua.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Adj Prof Raymond Chua</h4>
-          <div class="speaker-position text-ellipsis">Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)</div>
-          <div class="speaker-company text-ellipsis">Chief Executive Officer, Health Sciences Authority (HSA)</div>
-        </a>
-      </div>
 					    </div>	
 <div class="row">
 	      <div class="col is-4">
@@ -214,42 +250,6 @@ Lee Kong Chian School of Medicine</div>
         </a>
       </div>
 					    </div>		
-
-<div class="row">		
-	      <div class="col is-4">
-        <a class="speaker" href="/tien-yin-wong">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/WongTienYin.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Prof Tien Yin Wong</h4>
-					<div class="speaker-company text-ellipsis">Professor &amp; Senior Vice-Chancellor, Tsinghua Medicine</div> 
-					<div class="speaker-company text-ellipsis">Vice-Provost, Tsinghua University, Beijing, China
-</div>
-          <div class="speaker-company text-ellipsis">Senior Advisor, SingHealth, Singapore National Eye Centre, Singapore</div>
-        </a>
-      </div>
-		<div class="col is-4">
-        <a class="speaker" href="/henry-yau">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/HenryYau.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Henry Yau</h4>
-					<div class="speaker-company text-ellipsis">Managing Director</div> 
-          <div class="speaker-company text-ellipsis">Clinical Trials Centre, The University of Hong Kong</div>
-        </a>
-      </div>	
-		      <div class="col is-4">
-        <a class="speaker" href="/akhmal-yusof">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/AkhmalYusof.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Dr Akhmal Yusof</h4>
-          <div class="speaker-position text-ellipsis">Chief Executive Officer
-</div>
-          <div class="speaker-company text-ellipsis">Clinical Research Malaysia (CRM)</div>
-        </a>
-      </div>
-					    </div>				
 		
 </div></section>
 <style type="text/css">
