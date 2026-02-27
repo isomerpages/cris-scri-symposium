@@ -7,7 +7,7 @@ image: /images/Speakers_KelvinBryanTan.png
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_KelvinBryanTan.png">
+<img src="/images/BryanTan.png">
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Adj Prof Kelvin Bryan Tan</b></h4>
