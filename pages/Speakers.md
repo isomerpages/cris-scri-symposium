@@ -218,6 +218,16 @@ Lee Kong Chian School of Medicine</div>
 					    </div>		
 
 <div class="row">
+						<div class="col is-4">
+        <a class="speaker" href="/kelsi-smith">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/KelsiSmith.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Kelsi Smith</h4>
+          <div class="speaker-position text-ellipsis">Senior Project Lead, Real-World Evidence and Analytics</div>
+          <div class="speaker-company text-ellipsis">Quantify Research</div>
+        </a>
+      </div>	
 					<div class="col is-4">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -239,6 +249,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>
+					    </div>		
+
+<div class="row">
 				      <div class="col is-4">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
