@@ -265,6 +265,61 @@ Lee Kong Chian School of Medicine</div>
 					    </div>		
 		
 </div></section>
+
+<div>
+  <h3>HTA Workshop Speakers</h3>
+</div>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-4">
+        <a class="speaker" href="/fereen-liew">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/FereenLiew.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Fereen Liew</h4>
+          <div class="speaker-position text-ellipsis">Executive Director, Agency for Care Effectiveness (ACE)</div>
+          <div class="speaker-company text-ellipsis">Deputy Director-General of Health (Appropriate &amp; Value-based Care), Ministry of Health (Singapore)</div>
+        </a>
+      </div>
+			      <div class="col is-4">
+        <a class="speaker" href="/belinda-orme">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/BelindaOrme.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Belinda Orme</h4>
+          <div class="speaker-position text-ellipsis">Director, International Training</div>
+          <div class="speaker-company text-ellipsis">TreeAge Software</div>
+        </a>
+      </div>
+				      <div class="col is-4">
+        <a class="speaker" href="/kelvin-bryan-tan">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/BryanTan.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Adj Prof Kelvin Bryan Tan</h4>
+					<div class="speaker-company text-ellipsis">Principal Health Economist Chief, Health Economist's Office</div> 
+					<div class="speaker-company text-ellipsis">Ministry of Health (MOH)</div>
+        </a>
+      </div>
+</div>	
+
+<div class="row">
+      <div class="col is-4">
+        <a class="speaker" href="/charles-zheng">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/CharlesZheng.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Charles Zheng</h4>
+          <div class="speaker-position text-ellipsis">Associate Director, Global Epidemiology</div>
+          <div class="speaker-company text-ellipsis">AbbVie</div>
+        </a>
+      </div>
+		</div>
+		
+</div></section>
+
 <style type="text/css">
 	.content .speaker {	text-decoration: none; }
   .speaker-position { color: black;}
