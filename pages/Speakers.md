@@ -150,17 +150,6 @@ description: ""
 					    </div>		
 
 <div class="row">
-					<div class="col is-4">
-        <a class="speaker" href="/liu-nan/">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/LiuNan.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">A/Prof Liu Nan</h4>
-          <div class="speaker-position text-ellipsis">Director, Duke-NUS AI + Medical Sciences Initiative (DAISI)</div>
-<div class="speaker-position text-ellipsis">Associate Professor, Centre for Quantitative Medicine,</div>
-          <div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
-        </a>
-      </div>
 						<div class="col is-4">
         <a class="speaker" href="/wendy-loo/">
           <div class="speaker-image-wrapper">
@@ -181,10 +170,7 @@ description: ""
           <div class="speaker-company text-ellipsis">Biomedical Research Council, A*STAR</div>
         </a>
       </div>
-					    </div>				
-
-<div class="row">
-					<div class="col is-4">
+						<div class="col is-4">
         <a class="speaker" href="/troy-puar/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/TroyPuar.png" alt="">
@@ -194,6 +180,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Changi General Hospital, SingHealth, Singapore</div>
         </a>
       </div>
+					    </div>				
+
+<div class="row">
 	      <div class="col is-4">
         <a class="speaker" href="/ailing-simdevadas/">
           <div class="speaker-image-wrapper">
@@ -215,10 +204,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Health Products Regulation Group, Health Sciences Authority</div>
         </a>
       </div>
-					    </div>		
-
-<div class="row">
-						<div class="col is-4">
+							<div class="col is-4">
         <a class="speaker" href="/kelsi-smith">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/KelsiSmith.png" alt="">
@@ -228,6 +214,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Quantify Research</div>
         </a>
       </div>	
+					    </div>		
+
+<div class="row">
 					<div class="col is-4">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -249,10 +238,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>
-					    </div>		
-
-<div class="row">
-				      <div class="col is-4">
+					      <div class="col is-4">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/WongCherYi.png" alt="">
@@ -262,7 +248,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
-					    </div>		
+					    </div>			
 		
 </div></section>
 
