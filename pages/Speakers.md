@@ -7,6 +7,26 @@ description: ""
 ![](/images/Banner_OurSpeakers.png)
 
 <div>
+  <h3>Keynote Speaker</h3>
+</div>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-4"></div><div class="col is-4">
+        <a class="speaker" href="/robert-califf">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/RobertCaliff.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Robert Califf</h4>
+          <div class="speaker-position text-ellipsis">Instructor in Medicine</div>
+          <div class="speaker-company text-ellipsis">Duke University</div>
+        </a>
+      </div>
+      		</div></div></section>
+
+
+<div>
   <h3>Our Speakers</h3>
 </div>
 
