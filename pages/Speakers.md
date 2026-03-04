@@ -13,7 +13,7 @@ description: ""
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
-      <div class="col is-4"></div><div class="col is-4">
+      <div class="col is-3"></div><div class="col is-6">
         <a class="speaker" href="/robert-califf">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/RobertCaliff.png" alt="">
