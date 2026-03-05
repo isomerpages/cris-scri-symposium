@@ -134,11 +134,22 @@ description: ""
           <div class="speaker-position text-ellipsis">Director, Cardiovascular Medicine</div>
           <div class="speaker-company text-ellipsis">Victorian Heart Hospital, Australia</div>
         </a>
-      </div>      
-					    </div>	
+      </div>     
+						 </div>	
 		
 <div class="row">
 	<div class="col is-4">
+        <a class="speaker" href="/chng-wee-joo">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/ChngWeeJoo.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Chng Wee Joo</h4>
+          <div class="speaker-position text-ellipsis">Executive Director, Singapore Translational Cancer Consortium</div>
+          <div class="speaker-company text-ellipsis">Vice President (Biomedical Sciences Research), National University of Singapore</div>
+					          <div class="speaker-company text-ellipsis">Senior Consultant, National University Cancer Institute, Singapore</div>
+        </a>
+      </div> 
+		<div class="col is-4">
         <a class="speaker" href="/pierce-chow">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/PierceChow.png" alt="">
@@ -148,6 +159,19 @@ description: ""
           <div class="speaker-company text-ellipsis">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
         </a>
       </div>  
+		<div class="col is-4">
+        <a class="speaker" href="/emer-cooke">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/EmerCooke.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Ms Emer Cooke</h4>
+          <div class="speaker-position text-ellipsis">Executive Director</div>
+          <div class="speaker-company text-ellipsis">European Medicines Agency</div>
+        </a>
+      </div> 
+					    </div>	
+		
+<div class="row">
 	      <div class="col is-4">
         <a class="speaker" href="/jon-emery">
           <div class="speaker-image-wrapper">
@@ -168,10 +192,7 @@ description: ""
           <div class="speaker-company text-ellipsis">Singapore General Hospital, Duke-NUS Medical School</div>
         </a>
       </div>
-					    </div>		
-
-<div class="row">
-					<div class="col is-4">
+	<div class="col is-4">
         <a class="speaker" href="/kenneth-lee/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/KennethLee.png" alt="">
@@ -181,6 +202,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Parexel International</div>
         </a>
       </div>
+					    </div>		
+
+<div class="row">
 						<div class="col is-4">
         <a class="speaker" href="/wendy-loo/">
           <div class="speaker-image-wrapper">
@@ -199,6 +223,16 @@ description: ""
           <h4 class="speaker-name text-ellipsis">Dr Lisa Ooi</h4>
           <div class="speaker-position text-ellipsis">Assistant Chief Executive</div>
           <div class="speaker-company text-ellipsis">Biomedical Research Council, A*STAR</div>
+        </a>
+      </div>
+								<div class="col is-4">
+        <a class="speaker" href="/ngiam-kee-yuan/">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/NgiamKeeYuan.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Adj Prof Ngiam Kee Yuan</h4>
+          <div class="speaker-position text-ellipsis">Head, Artificial Intelligence Office, NUHS Corporate Office</div>
+          <div class="speaker-company text-ellipsis">Head, Division of Thyroid and Endocrine Surgery, Department of Surgery, National University Hospital Singapore</div>
         </a>
       </div>
 					    </div>				
