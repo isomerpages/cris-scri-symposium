@@ -33,6 +33,10 @@ Symposium only (30–31 July 2026).
 individuals not eligible for the other discounted categories.</p>
 </li>
 <li>
+<p>Private sector participants and non-profit organisations may register
+for the Discounted Pass.</p>
+</li>
+<li>
 <p>Delegates residing in Lower or Middle Income Countries/Regions may qualify
 for a further discounted rate. Select the Standard Pass, and the adjusted
 rate will be automatically applied once your country/region is selected
@@ -44,7 +48,7 @@ and the Symposium (30–31 July 2026).</p>
 </li>
 <li>
 <p>Bulk discounts are available for groups of 10 or more delegates. Please
-contact <a href="mailto:projects@csquare-creative.com" rel="noopener noreferrer nofollow" target="_blank">projects@csquare-creative.com </a> for
+contact <a href="mailto:projects@csquare-creative.com" rel="noopener noreferrer nofollow" target="_blank">projects@csquare-creative.com </a>for
 details.</p>
 </li>
 <li>
