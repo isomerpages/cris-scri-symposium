@@ -33,8 +33,8 @@ Symposium only (30–31 July 2026).
 individuals not eligible for the other discounted categories.</p>
 </li>
 <li>
-<p>Private sector participants and non-profit organisations may register
-for the Discounted Pass.</p>
+<p>Public sector participants and non-profit organisations may register for
+the Discounted Pass.</p>
 </li>
 <li>
 <p>Delegates residing in Lower or Middle Income Countries/Regions may qualify
