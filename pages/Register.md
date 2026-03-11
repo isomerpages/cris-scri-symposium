@@ -34,7 +34,7 @@ individuals not eligible for the other discounted categories.</p>
 </li>
 <li>
 <p>Public sector participants and non-profit organisations may register for
-the Discounted Pass.</p>
+the Discounted Pass and Pass for Medical and Academic Professionals.</p>
 </li>
 <li>
 <p>Delegates residing in Lower or Middle Income Countries/Regions may qualify
