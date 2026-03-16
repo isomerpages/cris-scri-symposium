@@ -215,6 +215,16 @@ description: ""
           <div class="speaker-company text-ellipsis">ESTHER Ambassador</div>
         </a>
       </div>
+							<div class="col is-4">
+        <a class="speaker" href="/bilal-mateen/">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/BilalMateen.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Bilal Mateen</h4>
+          <div class="speaker-position text-ellipsis">Chief AI Officer</div>
+          <div class="speaker-company text-ellipsis">PATH</div>
+        </a>
+      </div>
 						<div class="col is-4">
         <a class="speaker" href="/lisa-ooi/">
           <div class="speaker-image-wrapper">
@@ -225,7 +235,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Biomedical Research Council, A*STAR</div>
         </a>
       </div>
-								<div class="col is-4">
+					    </div>				
+
+<div class="row">
+									<div class="col is-4">
         <a class="speaker" href="/ngiam-kee-yuan/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/NgiamKeeYuan.png" alt="">
@@ -235,9 +248,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Head, Division of Thyroid and Endocrine Surgery, Department of Surgery, National University Hospital Singapore</div>
         </a>
       </div>
-					    </div>				
-
-<div class="row">
 							<div class="col is-4">
         <a class="speaker" href="/troy-puar/">
           <div class="speaker-image-wrapper">
@@ -259,7 +269,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Techological University, Singapore</div>
         </a>
       </div>
-			      <div class="col is-4">
+					    </div>		
+
+<div class="row">
+				      <div class="col is-4">
         <a class="speaker" href="/sumitra-sachidanandan">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/SumitraSachidanandan.png" alt="">
@@ -269,9 +282,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Health Products Regulation Group, Health Sciences Authority</div>
         </a>
       </div>	
-					    </div>		
-
-<div class="row">
 								<div class="col is-4">
         <a class="speaker" href="/kelsi-smith">
           <div class="speaker-image-wrapper">
@@ -293,7 +303,10 @@ Lee Kong Chian School of Medicine</div>
 					          <div class="speaker-company text-ellipsis">Group Director of Partnerships and Innovation, National University Health System (NUHS)</div>
         </a>
       </div>	
-				<div class="col is-4">
+				</div>				
+
+<div class="row">
+					<div class="col is-4">
         <a class="speaker" href="/dipti-thakkar">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/diptithakkar.png" alt="">
@@ -303,9 +316,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>
-				</div>				
-
-<div class="row">
 					      <div class="col is-4">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
