@@ -33,14 +33,14 @@ description: ""
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
-      <div class="col is-4">
-        <a class="speaker" href="/danny-soon">
+					<div class="col is-4">
+        <a class="speaker" href="/emer-cooke">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/DannySoon.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/EmerCooke.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Adj A/Prof Danny Soon</h4>
-          <div class="speaker-position text-ellipsis">CEO, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
-          <div class="speaker-company text-ellipsis">Executive Director, SCRI</div>
+          <h4 class="speaker-name text-ellipsis">Ms Emer Cooke</h4>
+          <div class="speaker-position text-ellipsis">Executive Director</div>
+          <div class="speaker-company text-ellipsis">European Medicines Agency</div>
         </a>
       </div>
 			      <div class="col is-4">
@@ -68,6 +68,16 @@ description: ""
 </div>			
 
 <div class="row">		
+	<div class="col is-4">
+        <a class="speaker" href="/danny-soon">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/DannySoon.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Adj A/Prof Danny Soon</h4>
+          <div class="speaker-position text-ellipsis">CEO, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
+          <div class="speaker-company text-ellipsis">Executive Director, SCRI</div>
+        </a>
+      </div>
 		<div class="col is-4">
         <a class="speaker" href="/henry-yau">
           <div class="speaker-image-wrapper">
@@ -88,8 +98,11 @@ description: ""
 </div>
           <div class="speaker-company text-ellipsis">Clinical Research Malaysia (CRM)</div>
         </a>
-      </div>
-				<div class="col is-4">
+      </div>   
+					    </div>	
+
+<div class="row">			
+					<div class="col is-4">
         <a class="speaker" href="/joonwoo-bahn">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/joonwoobahn.png" alt="">
@@ -99,10 +112,7 @@ description: ""
 </div>
           <div class="speaker-company text-ellipsis">Director, Clinical Research Center, Asan Medical Center, Korea </div>
         </a>
-      </div>   
-					    </div>	
-
-<div class="row">			
+      </div>
 						<div class="col is-4">
         <a class="speaker" href="/john-andrews">
           <div class="speaker-image-wrapper">
@@ -125,7 +135,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Chief Scientific Officer, Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div> 
-<div class="col is-4">
+						 </div>	
+		
+<div class="row">
+	<div class="col is-4">
         <a class="speaker" href="/derek-chew">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/DerekChew.png" alt="">
@@ -135,9 +148,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Victorian Heart Hospital, Australia</div>
         </a>
       </div>     
-						 </div>	
-		
-<div class="row">
 	<div class="col is-4">
         <a class="speaker" href="/chng-wee-joo">
           <div class="speaker-image-wrapper">
@@ -158,17 +168,7 @@ description: ""
           <div class="speaker-position text-ellipsis">Program Director, Duke-NUS Medical School, Singapore</div>
           <div class="speaker-company text-ellipsis">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
         </a>
-      </div>  
-		<div class="col is-4">
-        <a class="speaker" href="/emer-cooke">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/EmerCooke.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Ms Emer Cooke</h4>
-          <div class="speaker-position text-ellipsis">Executive Director</div>
-          <div class="speaker-company text-ellipsis">European Medicines Agency</div>
-        </a>
-      </div> 
+      </div>   
 					    </div>	
 		
 <div class="row">
