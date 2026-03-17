@@ -68,6 +68,17 @@ description: ""
 </div>			
 
 <div class="row">		
+		<div class="col is-4">
+        <a class="speaker" href="/john-lim">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/JohnLim.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof John Lim</h4>
+          <div class="speaker-position text-ellipsis">Professor &amp; Executive Director, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School</div>
+          <div class="speaker-company text-ellipsis">Policy Core Lead, SingHealth Duke-NUS Global Health Institute</div>
+					          <div class="speaker-company text-ellipsis">Senior Advisor, Ministry of Health, Singapore</div>
+        </a>
+      </div>
 	<div class="col is-4">
         <a class="speaker" href="/danny-soon">
           <div class="speaker-image-wrapper">
@@ -88,7 +99,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Clinical Trials Centre, The University of Hong Kong</div>
         </a>
       </div>	
-		      <div class="col is-4">
+					    </div>	
+
+<div class="row">			
+			      <div class="col is-4">
         <a class="speaker" href="/akhmal-yusof">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/AkhmalYusof.png" alt="">
@@ -99,9 +113,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Clinical Research Malaysia (CRM)</div>
         </a>
       </div>   
-					    </div>	
-
-<div class="row">			
 					<div class="col is-4">
         <a class="speaker" href="/joonwoo-bahn">
           <div class="speaker-image-wrapper">
@@ -124,7 +135,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Australia New Zealand Gynaecological Oncology Group (ANZGOG)</div>
         </a>
       </div>   
-					<div class="col is-4">
+						 </div>	
+		
+<div class="row">
+						<div class="col is-4">
         <a class="speaker" href="/edwin-chan">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/EdwinChan.png" alt="">
@@ -135,9 +149,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Chief Scientific Officer, Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div> 
-						 </div>	
-		
-<div class="row">
 	<div class="col is-4">
         <a class="speaker" href="/derek-chew">
           <div class="speaker-image-wrapper">
@@ -158,8 +169,11 @@ description: ""
           <div class="speaker-company text-ellipsis">Vice President (Biomedical Sciences Research), National University of Singapore</div>
 					          <div class="speaker-company text-ellipsis">Senior Consultant, National University Cancer Institute, Singapore</div>
         </a>
-      </div> 
-		<div class="col is-4">
+      </div>   
+					    </div>	
+		
+<div class="row">
+			<div class="col is-4">
         <a class="speaker" href="/pierce-chow">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/PierceChow.png" alt="">
@@ -168,10 +182,7 @@ description: ""
           <div class="speaker-position text-ellipsis">Program Director, Duke-NUS Medical School, Singapore</div>
           <div class="speaker-company text-ellipsis">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
         </a>
-      </div>   
-					    </div>	
-		
-<div class="row">
+      </div> 
 	      <div class="col is-4">
         <a class="speaker" href="/jon-emery">
           <div class="speaker-image-wrapper">
@@ -192,7 +203,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Singapore General Hospital, Duke-NUS Medical School</div>
         </a>
       </div>
-	<div class="col is-4">
+					    </div>		
+
+<div class="row">
+		<div class="col is-4">
         <a class="speaker" href="/kenneth-lee/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/KennethLee.png" alt="">
@@ -202,9 +216,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Parexel International</div>
         </a>
       </div>
-					    </div>		
-
-<div class="row">
 						<div class="col is-4">
         <a class="speaker" href="/wendy-loo/">
           <div class="speaker-image-wrapper">
@@ -225,7 +236,10 @@ description: ""
           <div class="speaker-company text-ellipsis">PATH</div>
         </a>
       </div>
-						<div class="col is-4">
+					    </div>				
+
+<div class="row">
+							<div class="col is-4">
         <a class="speaker" href="/lisa-ooi/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/LisaOoi.png" alt="">
@@ -235,9 +249,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Biomedical Research Council, A*STAR</div>
         </a>
       </div>
-					    </div>				
-
-<div class="row">
 									<div class="col is-4">
         <a class="speaker" href="/ngiam-kee-yuan/">
           <div class="speaker-image-wrapper">
@@ -258,7 +269,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Changi General Hospital, SingHealth, Singapore</div>
         </a>
       </div>
-	      <div class="col is-4">
+					    </div>		
+
+<div class="row">
+		      <div class="col is-4">
         <a class="speaker" href="/ailing-simdevadas/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/AiLingSimDevadas.png" alt="">
@@ -269,9 +283,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Techological University, Singapore</div>
         </a>
       </div>
-					    </div>		
-
-<div class="row">
 				      <div class="col is-4">
         <a class="speaker" href="/sumitra-sachidanandan">
           <div class="speaker-image-wrapper">
@@ -291,8 +302,11 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-position text-ellipsis">Senior Project Lead, Real-World Evidence and Analytics</div>
           <div class="speaker-company text-ellipsis">Quantify Research</div>
         </a>
-      </div>
-					<div class="col is-4">
+      </div>	
+				</div>				
+
+<div class="row">
+						<div class="col is-4">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/DavidTan.png" alt="">
@@ -302,10 +316,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Associate Professor, Yong Loo Lin School of Medicine, National University of Singapore (NUS)</div>
 					          <div class="speaker-company text-ellipsis">Group Director of Partnerships and Innovation, National University Health System (NUHS)</div>
         </a>
-      </div>	
-				</div>				
-
-<div class="row">
+      </div>
 					<div class="col is-4">
         <a class="speaker" href="/dipti-thakkar">
           <div class="speaker-image-wrapper">
