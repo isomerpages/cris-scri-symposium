@@ -350,6 +350,95 @@ Lee Kong Chian School of Medicine</div>
 		
 </div></div></section>
 
+
+
+<div>
+  <h3>Biostatistics Workshop Speakers</h3>
+</div>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div style="display: flex;flex-wrap:wrap;" class="row">
+			      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/sarah-burkill">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/SarahBurkill.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Sarah Burkill</h4>
+          <div class="speaker-position text-ellipsis">Senior Biostatistician</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
+						      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/bibhas-chakraborty">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/BibhasChakraborty.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Bibhas Chakraborty</h4>
+          <div class="speaker-position text-ellipsis">Deputy Director, Centre for Biomedical Data Science</div>
+          <div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
+        </a>
+      </div>
+						      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/sarah-burkill">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/SarahBurkill.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Sarah Burkill</h4>
+          <div class="speaker-position text-ellipsis">Senior Biostatistician</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
+      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/mihir-gandhi">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/MihirGandhi.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Mihir Gandhi</h4>
+          <div class="speaker-position text-ellipsis">Head, Biostatistics</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
+		</div>
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+				      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/nabilah-rahman">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/NabilahRahman.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Ms Nabilah Rahman</h4>
+          <div class="speaker-position text-ellipsis">Senior Statistician</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
+			      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/shen-liang">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/ShenLiang.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Shen Liang</h4>
+          <div class="speaker-position text-ellipsis">Deputy Director, Biostatistics</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
+			      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/tai-bee-choo">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/TaiBeeChoo.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Tai Bee Choo</h4>
+          <div class="speaker-position text-ellipsis">Biostatistician and Clinical Trials Expert </div>
+          <div class="speaker-company text-ellipsis">NUS Saw Swee Hock School of Public Health</div>
+					          <div class="speaker-company text-ellipsis">NUS Yong Loo Lin School of Medicine</div>
+        </a>
+      </div>
+		</div>		
+		
+		
+
+</div></section>
+
 <div>
   <h3>HTA Workshop Speakers</h3>
 </div>
