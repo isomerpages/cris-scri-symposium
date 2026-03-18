@@ -353,7 +353,7 @@ Lee Kong Chian School of Medicine</div>
 
 
 <div>
-  <h3>Biostatistics Workshop Speakers</h3>
+  <h3>Biostatistics Workshop Speakers<a name="Biostats"></a></h3>
 </div>
 
 <section class="bp-section font">
@@ -440,7 +440,7 @@ Lee Kong Chian School of Medicine</div>
 </div></section>
 
 <div>
-  <h3>HTA Workshop Speakers</h3>
+  <h3>HTA Workshop Speakers<a name="HTA"></a></h3>
 </div>
 
 <section class="bp-section font">
