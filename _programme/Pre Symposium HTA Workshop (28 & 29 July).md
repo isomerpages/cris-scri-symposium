@@ -275,18 +275,18 @@ Analysis</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15:15 - 16:15</p>
+<p>15:15 - 16:30</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>AI application in HEE or RWE</p>
+<p>AI application in HEE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16:15 - 17:00</p>
+<p>16:30 - 17:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>HEOR framework in Singapore</p>
+<p>Budget Impact Analysis</p>
 </td>
 </tr>
 <tr>
