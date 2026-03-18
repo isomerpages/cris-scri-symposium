@@ -50,7 +50,7 @@ description: ""
 
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
-    <div class="row">
+    <div style="display: flex;flex-wrap:wrap;" class="row">
 					<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/emer-cooke">
           <div class="speaker-image-wrapper">
@@ -95,7 +95,7 @@ description: ""
       </div>
 </div>			
 
-<div class="row">		
+<div style="display: flex;flex-wrap:wrap;" class="row">		
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/henry-yau">
           <div class="speaker-image-wrapper">
@@ -141,7 +141,7 @@ description: ""
       </div>  
 					    </div>	
 
-<div class="row">			 
+<div style="display: flex;flex-wrap:wrap;" class="row">		 
 						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/edwin-chan">
           <div class="speaker-image-wrapper">
@@ -185,7 +185,7 @@ description: ""
       </div> 
 					    </div>	
 		
-<div class="row">
+<div style="display: flex;flex-wrap:wrap;" class="row"><div class="row">
 	      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/jon-emery">
           <div class="speaker-image-wrapper">
@@ -228,7 +228,7 @@ description: ""
       </div>
 					    </div>		
 
-<div class="row">
+<div style="display: flex;flex-wrap:wrap;" class="row">
 						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/wendy-loo/">
           <div class="speaker-image-wrapper">
@@ -271,7 +271,7 @@ description: ""
       </div>
 					    </div>				
 
-<div class="row">
+<div style="display: flex;flex-wrap:wrap;" class="row">
 							<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/troy-puar/">
           <div class="speaker-image-wrapper">
@@ -315,7 +315,7 @@ Lee Kong Chian School of Medicine</div>
       </div>	
 					    </div>		
 
-<div class="row">	
+<div style="display: flex;flex-wrap:wrap;" class="row">
 						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -348,7 +348,7 @@ Lee Kong Chian School of Medicine</div>
       </div>
 					    </div>			
 		
-</div></section>
+</div></div></section>
 
 <div>
   <h3>HTA Workshop Speakers</h3>
@@ -356,7 +356,7 @@ Lee Kong Chian School of Medicine</div>
 
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
-    <div class="row">
+    <div style="display: flex;flex-wrap:wrap;" class="row">
       <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/fereen-liew">
           <div class="speaker-image-wrapper">
