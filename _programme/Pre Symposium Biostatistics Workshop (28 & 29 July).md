@@ -284,3 +284,20 @@ implementation of novel research methodologies.</p>
 </table>
 <p>** Programme is subjected to changes without prior notification from the
 organiser</p>
+<hr>
+<h4><strong>About the SCRI Biostatistics Unit</strong></h4>
+<p>SCRI’s Biostatistics team is a multidisciplinary group of statisticians
+and quantitative scientists who support the full lifecycle of clinical
+research from rigorous study design through to analysis, reporting, and
+knowledge translation. The team specialises in clinical trial design across
+all phases, sample‑size optimisation, randomisation generation, statistical
+analysis planning and programming, data standardisation to CDISC standards,
+and advanced data visualisation. They produce statistical analysis plans,
+regulatory‑quality statistical reports and manuscripts, and provide expert
+review for grant agencies, journals, ethics committees and industry partners.
+Through close collaboration with clinical teams across specialties, including
+oncology, diabetes, cardiovascular disease, infectious disease and eye
+care, the Biostatistics team strengthens evidence quality and reproducibility,
+enabling practice‑changing research and evidence‑based patient care. They
+also lead capacity building through consultations and workshops for clinicians
+and students in study design, analysis, and grant writing.</p>
