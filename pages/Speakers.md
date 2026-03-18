@@ -502,11 +502,11 @@ Lee Kong Chian School of Medicine</div>
 					      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/shi-luming">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/BelindaOrme.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/ShiLuming.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Belinda Orme</h4>
-          <div class="speaker-position text-ellipsis">Director, International Training</div>
-          <div class="speaker-company text-ellipsis">TreeAge Software</div>
+          <h4 class="speaker-name text-ellipsis">Dr Shi Luming</h4>
+          <div class="speaker-position text-ellipsis">Scientific Director</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
 					      <div class="col is-3 is-6-mobile">
