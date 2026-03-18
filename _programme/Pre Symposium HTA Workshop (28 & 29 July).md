@@ -275,18 +275,18 @@ Analysis</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15:15 - 16:15</p>
+<p>15:15 - 16:30</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>AI application in HEE or RWE</p>
+<p>AI application in HEE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16:15 - 17:00</p>
+<p>16:30 - 17:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>HEOR framework in Singapore</p>
+<p>Budget Impact Analysis</p>
 </td>
 </tr>
 <tr>
@@ -301,3 +301,19 @@ Analysis</p>
 </table>
 <p>** Programme is subjected to changes without prior notification from the
 organiser</p>
+<hr>
+<h4>HTA Workshop Speakers</h4>
+<p></p><a class="isomer-image-wrapper" href="/speakers#HTA"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTASpeakers.png"></a>
+<hr>
+<h4><strong>About the SCRI Health Economics and Outcomes Research (HEOR) Unit</strong></h4>
+<p>HEOR under SCRI is a multidisciplinary team comprising epidemiologists
+and health economists with strengths in study design, grant writing, data
+analytics, health services research, and the full spectrum of health economic
+evaluations. The team delivers academic publications, HTA submissions,
+and value dossiers by translating complex healthcare data into actionable
+insights. Through strong partnerships, HEOR contributes to national level
+engagement informing government value-based decisions in healthcare ecosystem.
+The team also leads training on evidence synthesis, clinical practice guideline
+development, and HTA methodology at multiple levels —from short talks to
+intensive workshops and accredited university modules—with consistently
+feedback for practical, case based, internationally aligned content.</p>

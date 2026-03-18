@@ -269,7 +269,7 @@ implementation of novel research methodologies.</p>
 <p>16:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Special Topics in Randomization: The Zelen Design</p>
+<p>Leveraging External Controls in the Design of Single-Arm Trials</p>
 </td>
 </tr>
 <tr>
@@ -284,3 +284,22 @@ implementation of novel research methodologies.</p>
 </table>
 <p>** Programme is subjected to changes without prior notification from the
 organiser</p>
+<hr>
+<h4><strong>Biostatistics Workshop Speakers</strong></h4><a class="isomer-image-wrapper" href="/speakers#Biostats"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/BiostatsSpeakers.png"></a>
+<hr>
+<h4><strong>About the SCRI Biostatistics Unit</strong></h4>
+<p>SCRI’s Biostatistics team is a multidisciplinary group of statisticians
+and quantitative scientists who support the full lifecycle of clinical
+research from rigorous study design through to analysis, reporting, and
+knowledge translation. The team specialises in clinical trial design across
+all phases, sample‑size optimisation, randomisation generation, statistical
+analysis planning and programming, data standardisation to CDISC standards,
+and advanced data visualisation. They produce statistical analysis plans,
+regulatory‑quality statistical reports and manuscripts, and provide expert
+review for grant agencies, journals, ethics committees and industry partners.
+Through close collaboration with clinical teams across specialties, including
+oncology, diabetes, cardiovascular disease, infectious disease and eye
+care, the Biostatistics team strengthens evidence quality and reproducibility,
+enabling practice‑changing research and evidence‑based patient care. They
+also lead capacity building through consultations and workshops for clinicians
+and students in study design, analysis, and grant writing.</p>
