@@ -32,14 +32,14 @@ description: ""
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
-      <div class="col is-3"></div><div class="col is-6">
+      <div class="col is-4"></div><div class="col is-4">
 <a class="speaker" href="/danny-soon">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/DannySoon.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Adj A/Prof Danny Soon</h4>
-          <div class="speaker-position text-ellipsis">CEO, Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
-          <div class="speaker-company text-ellipsis">Executive Director, SCRI</div>
+          <div class="speaker-position text-ellipsis">CEO</div>
+          <div class="speaker-company text-ellipsis">Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
         </a>
       </div>
       		</div></div></section>
@@ -91,7 +91,6 @@ description: ""
 					<div class="speaker-company text-ellipsis">Professor &amp; Senior Vice-Chancellor, Tsinghua Medicine</div> 
 					<div class="speaker-company text-ellipsis">Vice-Provost, Tsinghua University, Beijing, China
 </div>
-          <div class="speaker-company text-ellipsis">Senior Advisor, SingHealth, Singapore National Eye Centre, Singapore</div>
         </a>
       </div>
 </div>			
@@ -170,9 +169,8 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/ChngWeeJoo.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Chng Wee Joo</h4>
-          <div class="speaker-position text-ellipsis">Executive Director, Singapore Translational Cancer Consortium</div>
-          <div class="speaker-company text-ellipsis">Vice President (Biomedical Sciences Research), National University of Singapore</div>
-					          <div class="speaker-company text-ellipsis">Senior Consultant, National University Cancer Institute, Singapore</div>
+          <div class="speaker-position text-ellipsis">Executive Director</div>
+          <div class="speaker-company text-ellipsis">Singapore Translational Cancer Consortium</div>
         </a>
       </div>   
 				<div class="col is-3 is-6-mobile">
@@ -194,8 +192,8 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/JonEmery.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Jon Emery</h4>
-          <div class="speaker-position text-ellipsis">Professor of Family Medicine, Lee Kong Chian School of Medicine</div>
-          <div class="speaker-company text-ellipsis">Co-Director, Research Institute for Cancer Prevention, Screening and Early Detection (RISE)</div>
+          <div class="speaker-position text-ellipsis">Professor of Family Medicine</div>
+          <div class="speaker-company text-ellipsis">Lee Kong Chian School of Medicine</div>
         </a>
       </div>
 		      <div class="col is-3 is-6-mobile">
@@ -267,8 +265,8 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/NgiamKeeYuan.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Adj Prof Ngiam Kee Yuan</h4>
-          <div class="speaker-position text-ellipsis">Head, Artificial Intelligence Office, NUHS Corporate Office</div>
-          <div class="speaker-company text-ellipsis">Head, Division of Thyroid and Endocrine Surgery, Department of Surgery, National University Hospital Singapore</div>
+          <div class="speaker-position text-ellipsis">Head, Artificial Intelligence Office</div>
+          <div class="speaker-company text-ellipsis">NUHS Corporate Office</div>
         </a>
       </div>
 					    </div>				
@@ -324,9 +322,8 @@ Lee Kong Chian School of Medicine</div>
             <img class="speaker-image img-fluid mb-3" src="/images/DavidTan.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">A/Prof David Tan</h4>
-          <div class="speaker-position text-ellipsis">Senior Consultant Medical Oncologist, National University Cancer Institute, Singapore</div>
-          <div class="speaker-company text-ellipsis">Associate Professor, Yong Loo Lin School of Medicine, National University of Singapore (NUS)</div>
-					          <div class="speaker-company text-ellipsis">Group Director of Partnerships and Innovation, National University Health System (NUHS)</div>
+          <div class="speaker-position text-ellipsis">Group Director of Partnerships and Innovation</div>
+					          <div class="speaker-company text-ellipsis">National University Health System (NUHS)</div>
         </a>
       </div>
 					<div class="col is-3 is-6-mobile">
@@ -345,7 +342,7 @@ Lee Kong Chian School of Medicine</div>
             <img class="speaker-image img-fluid mb-3" src="/images/WongCherYi.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Ms Wong Cher Yi</h4>
-          <div class="speaker-position text-ellipsis">Director of Clinical Trial Unit and Senior Clinical Research Coordinator</div>
+          <div class="speaker-position text-ellipsis">Director, Clinical Trial Unit</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
