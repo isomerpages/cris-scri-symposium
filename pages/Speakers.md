@@ -446,6 +446,36 @@ Lee Kong Chian School of Medicine</div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div style="display: flex;flex-wrap:wrap;" class="row">
+						      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/chai-jia-hui">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/ChaiJiaHui.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Ms Chai Jia Hui</h4>
+          <div class="speaker-position text-ellipsis">Health Economist</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
+									      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/guo-liang">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/ChaiJiaHui.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Ms Chai Jia Hui</h4>
+          <div class="speaker-position text-ellipsis">Health Economist</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
+			      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/li-minghui">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/LiMingHui.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Li Minghui</h4>
+          <div class="speaker-position text-ellipsis">Associate Professor</div>
+          <div class="speaker-company text-ellipsis">University of Tennessee Health Science Center College of Pharmacy</div>
+        </a>
+      </div>
       <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/fereen-liew">
           <div class="speaker-image-wrapper">
@@ -466,7 +496,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">TreeAge Software</div>
         </a>
       </div>
-				      <div class="col is-3 is-6-mobile">
+		</div>
+
+<div style="display: flex;flex-wrap:wrap;" class="row">		
+					      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/kelvin-bryan-tan">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/BryanTan.png" alt="">
@@ -476,7 +509,17 @@ Lee Kong Chian School of Medicine</div>
 					<div class="speaker-company text-ellipsis">Ministry of Health (MOH)</div>
         </a>
       </div>
-      <div class="col is-3 is-6-mobile">
+	      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/zaw-myo-tun">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/ZawMyoTun.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Zaw Myo Tun</h4>
+          <div class="speaker-position text-ellipsis">Senior Epidemiologist</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
+	      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/charles-zheng">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/CharlesZheng.png" alt="">
@@ -486,7 +529,18 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">AbbVie</div>
         </a>
       </div>
-		</div>
+		      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/brendon-zhou">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/BrendonZhou.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Brendon Zhou</h4>
+          <div class="speaker-position text-ellipsis">Senior Health Economist</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
+</div>		
+		
 		
 </div></section>
 
