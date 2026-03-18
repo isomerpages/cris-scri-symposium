@@ -30,7 +30,7 @@ We extend our heartfelt gratitude to our esteemed sponsors and partners for thei
 <div class="row padding--top--xl">
 <h5><strong>Sponsors</strong></h5></div>
 <div class="row">
-<div class="col is-12">
+<div class="col is-6">
 		<div class="col is-6"><a href="https://www.boehringer-ingelheim.com/"><img src="/images/Boehringer_Ingelheim.jpg"></a><a href="https://www.zuelligpharma.com/"><img src="/images/ZuelligPharma.jpg"></a> </div></div></div>
 		
 <div class="row">
