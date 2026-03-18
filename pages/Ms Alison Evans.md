@@ -11,13 +11,18 @@ image: /images/Speakers_AlisonEvans.png
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Ms Alison Evans</b></h4>
-<b>CEO<br>Australia New Zealand Gynaecological Oncology Group (ANZGOG)
+<b>Operations Chair<br> 
+Asia Pacific Gynecologic Oncology Trials (APGOT)
 </b>
 	
-<p>Ms Evans has a marketing and communications background with a strong focus on building communities, membership and businesses. She has been ANZGOG CEO for 12 years.</p>
- 
-<p>ANZGOG is the peak national academic gynaecological oncology research network for Australia and New Zealand. It operates clinical trials across 80 ANZ hospitals and has 1450 members and 250+ volunteers.</p>
- 
-<p>ANZGOG has implemented a new Community Engagement Program with three pillars of activity – Education, Advocacy and Research. The purpose is to improve outcomes for everyone with a lived experience of gynaecological cancer and ensures a role for First Nation’s peoples; culturally and linguistically diverse, LGBTQIA+ and people from remote areas or unmet needs. 
+<p>Ms Alison Evans is the Operations Chair of the Asia Pacific Gynecologic Oncology Trials group (APGOT) since 2022.  Ms Evans has been the Chief Executive Officer, Australia New Zealand Gynaecological Oncology Group (ANZGOG), for 14 years from 2012.</p><p>
+APGOT is a rapidly growing trials network across Asia and the Pacific which is now representing more than 12 countries and regions for both advisory services to industry and academic investigator-initiated studies.  </p><p>
+
+As APGOT Operations Chair, Ms Evans is a member of the APGOT Executive Committee and leads the operational strategy and contributes to the governance oversight for the organisation.</p><p>
+
+ANZGOG is the peak national gynaecological cancer research organisation for Australia and New Zealand. Our vision is: ‘Advancing research, saving lives’. Its mission is to improve outcomes and quality of life for everyone with a lived experience of gynaecological cancer by conducting and promoting clinical trials and multidisciplinary research.</p><p>
+
+Ms Evans has a background as a senior manager and CEO for much of her career with a focus on building organisations in areas such as medical research, industry membership, environment and community. 
+
 </p>
 </div></div>
