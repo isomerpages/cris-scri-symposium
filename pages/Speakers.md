@@ -299,7 +299,7 @@ description: ""
           <h4 class="speaker-name text-ellipsis">Ms Ai Ling <br>Sim-Devadas</h4>
 					<div class="speaker-company text-ellipsis">Deputy Director, Office of Patient Engagement (OPEN),
 Lee Kong Chian School of Medicine</div>
-          <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Techological University, Singapore</div>
+          <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Technological University, Singapore</div>
         </a>
       </div>
 				      <div class="col is-3 is-6-mobile">
