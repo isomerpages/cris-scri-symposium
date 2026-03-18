@@ -301,3 +301,16 @@ Analysis</p>
 </table>
 <p>** Programme is subjected to changes without prior notification from the
 organiser</p>
+<hr>
+<h4><strong>About the SCRI Health Economics and Outcomes Research (HEOR) Unit</strong></h4>
+<p>HEOR under SCRI is a multidisciplinary team comprising epidemiologists
+and health economists with strengths in study design, grant writing, data
+analytics, health services research, and the full spectrum of health economic
+evaluations. The team delivers academic publications, HTA submissions,
+and value dossiers by translating complex healthcare data into actionable
+insights. Through strong partnerships, HEOR contributes to national level
+engagement informing government value-based decisions in healthcare ecosystem.
+The team also leads training on evidence synthesis, clinical practice guideline
+development, and HTA methodology at multiple levels —from short talks to
+intensive workshops and accredited university modules—with consistently
+feedback for practical, case based, internationally aligned content.</p>
