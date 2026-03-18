@@ -7,7 +7,7 @@ image: /images/Speakers_AlisonEvans.png
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_AlisonEvans.png">
+<img src="/images/AlisonEvans.png">
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Ms Alison Evans</b></h4>
