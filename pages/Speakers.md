@@ -13,7 +13,7 @@ description: ""
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
-      <div class="col is-3"></div><div class="col is-6">
+      <div class="col is-4"></div><div class="col is-4">
         <a class="speaker" href="/robert-califf">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/RobertCaliff.png" alt="">
@@ -45,7 +45,7 @@ description: ""
       		</div></div></section>
 
 <div>
-  <h3>Our Speakers</h3>
+  <h3>Plenary Speakers</h3>
 </div>
 
 <section class="bp-section font">
@@ -93,9 +93,18 @@ description: ""
 </div>
         </a>
       </div>
-</div>			
+</div>
+		
+</div></section>
 
-<div style="display: flex;flex-wrap:wrap;" class="row">		
+
+<div>
+  <h3>Our Speakers</h3>
+</div>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div style="display: flex;flex-wrap:wrap;" class="row">
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/henry-yau">
           <div class="speaker-image-wrapper">
