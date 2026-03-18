@@ -284,6 +284,7 @@ implementation of novel research methodologies.</p>
 </table>
 <p>** Programme is subjected to changes without prior notification from the
 organiser</p>
+<p></p><a class="isomer-image-wrapper" href="https://www.scri-symposium.sg/speakers#Biostats"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/BiostatsSpeakers.png"></a>
 <hr>
 <h4><strong>About the SCRI Biostatistics Unit</strong></h4>
 <p>SCRI’s Biostatistics team is a multidisciplinary group of statisticians
