@@ -459,10 +459,10 @@ Lee Kong Chian School of Medicine</div>
 									      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/guo-liang">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/ChaiJiaHui.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/GuoLiang.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Ms Chai Jia Hui</h4>
-          <div class="speaker-position text-ellipsis">Health Economist</div>
+          <h4 class="speaker-name text-ellipsis">Dr Guo Liang</h4>
+          <div class="speaker-position text-ellipsis">Head, Health Economics and Outcomes Research (HEOR)</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
@@ -486,7 +486,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Deputy Director-General of Health (Appropriate &amp; Value-based Care), Ministry of Health (Singapore)</div>
         </a>
       </div>
-			      <div class="col is-3 is-6-mobile">
+		</div>
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+				      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/belinda-orme">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/BelindaOrme.png" alt="">
@@ -496,9 +499,16 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">TreeAge Software</div>
         </a>
       </div>
-		</div>
-
-<div style="display: flex;flex-wrap:wrap;" class="row">		
+					      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/shi-luming">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/BelindaOrme.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Belinda Orme</h4>
+          <div class="speaker-position text-ellipsis">Director, International Training</div>
+          <div class="speaker-company text-ellipsis">TreeAge Software</div>
+        </a>
+      </div>
 					      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/kelvin-bryan-tan">
           <div class="speaker-image-wrapper">
@@ -519,7 +529,11 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
-	      <div class="col is-3 is-6-mobile">
+</div>		
+
+		
+<div style="display: flex;flex-wrap:wrap;" class="row">		
+		      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/charles-zheng">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/CharlesZheng.png" alt="">
@@ -539,9 +553,8 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
-</div>		
-		
-		
+</div>	
+				
 </div></section>
 
 <style type="text/css">
