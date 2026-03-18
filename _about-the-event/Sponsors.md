@@ -26,11 +26,13 @@ Engage with healthcare leaders, share your insights to clinical research, and pa
 
 <p>
 We extend our heartfelt gratitude to our esteemed sponsors and partners for their unwavering support of SCRI Clinical Trials Symposium 2024. Their generous contributions have been instrumental in bringing together leading experts, researchers, and healthcare professionals to share their knowledge and advancements in clinical research. Thank you for making this event possible and for your continued dedication to advancing healthcare.</p>
+
 <div class="row padding--top--xl">
-	<div class="col is-7">
-<h5><strong>Sponsors</strong></h5>
-		<a href="https://www.zuelligpharma.com/"><img src="/images/ZuelligPharma.jpg"></a>
-	</div></div>
+<h5><strong>Sponsors</strong></h5></div>
+<div class="row">
+<div class="col is-12">
+		<div class="col is-6"><a href="https://www.boehringer-ingelheim.com/"><img src="/images/Boehringer_Ingelheim.jpg"></a><a href="https://www.zuelligpharma.com/"><img src="/images/ZuelligPharma.jpg"></a> </div></div></div>
+		
 <div class="row">
 <div class="col is-9">
 								<h5><strong>Healthcare Cluster Partners</strong></h5>
