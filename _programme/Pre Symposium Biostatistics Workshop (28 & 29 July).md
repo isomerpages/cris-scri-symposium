@@ -269,7 +269,7 @@ implementation of novel research methodologies.</p>
 <p>16:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Special Topics in Randomization: The Zelen Design</p>
+<p>Leveraging External Controls in the Design of Single-Arm Trials</p>
 </td>
 </tr>
 <tr>
