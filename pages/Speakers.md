@@ -380,13 +380,13 @@ Lee Kong Chian School of Medicine</div>
         </a>
       </div>
 						      <div class="col is-3 is-6-mobile">
-        <a class="speaker" href="/sarah-burkill">
+        <a class="speaker" href="/cheung-yin-bun">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/SarahBurkill.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/CheungYinBun.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Sarah Burkill</h4>
-          <div class="speaker-position text-ellipsis">Senior Biostatistician</div>
-          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+          <h4 class="speaker-name text-ellipsis">Prof Cheung Yin Bun</h4>
+          <div class="speaker-position text-ellipsis">Professor, Centre for Biomedical Science</div>
+          <div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
         </a>
       </div>
       <div class="col is-3 is-6-mobile">
