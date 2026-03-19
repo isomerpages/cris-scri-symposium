@@ -228,6 +228,16 @@ description: ""
 					    </div>		
 
 <div style="display: flex;flex-wrap:wrap;" class="row">
+				<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/ho-wen-qi/">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/HoWenQi.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Ho Wen Qi</h4>
+          <div class="speaker-position text-ellipsis">Therapeutics Lead</div>
+          <div class="speaker-company text-ellipsis">ClavystBio</div>
+        </a>
+      </div>
 			<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/kenneth-lee/">
           <div class="speaker-image-wrapper">
@@ -258,7 +268,10 @@ description: ""
           <div class="speaker-company text-ellipsis">PATH</div>
         </a>
       </div>
-								<div class="col is-3 is-6-mobile">
+					    </div>				
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+									<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/lisa-ooi/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/LisaOoi.png" alt="">
@@ -268,9 +281,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Biomedical Research Council, A*STAR</div>
         </a>
       </div>
-					    </div>				
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 										<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ngiam-kee-yuan/">
           <div class="speaker-image-wrapper">
@@ -302,7 +312,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Technological University, Singapore</div>
         </a>
       </div>
-				      <div class="col is-3 is-6-mobile">
+					    </div>		
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+					      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/sumitra-sachidanandan">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/SumitraSachidanandan.png" alt="">
@@ -312,9 +325,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Health Products Regulation Group, Health Sciences Authority</div>
         </a>
       </div>
-					    </div>		
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 									<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/kelsi-smith">
           <div class="speaker-image-wrapper">
@@ -345,7 +355,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>
-					      <div class="col is-3 is-6-mobile">
+	</div>			
+
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/WongCherYi.png" alt="">
@@ -355,11 +368,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
-					    </div>			
-		
+</div>	
+	
 </div></div></section>
-
-
 
 <div>
   <h3>Biostatistics Workshop Speakers<a name="Biostats"></a></h3>
