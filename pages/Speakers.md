@@ -357,7 +357,11 @@ Lee Kong Chian School of Medicine</div>
       </div>
 	</div>			
 
-<div style="display: flex;flex-wrap:wrap;" class="row">
+</div></div></section>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div style="display: flex;flex-wrap:wrap;" class="row">
 <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
@@ -368,11 +372,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
-	</div>
-
-</div></div></section>
-
-
+</div>
+		
+</div></section>
 
 <div>
   <h3>Biostatistics Workshop Speakers<a name="Biostats"></a></h3>
