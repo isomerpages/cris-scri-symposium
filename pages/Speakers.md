@@ -38,7 +38,7 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/DannySoon.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Adj A/Prof Danny Soon</h4>
-          <div class="speaker-position text-ellipsis">CEO</div>
+          <div class="speaker-position text-ellipsis">Chief Executive Officer</div>
           <div class="speaker-company text-ellipsis">Consortium for Clinical Research and Innovation, Singapore (CRIS)</div>
         </a>
       </div>
@@ -82,6 +82,18 @@ description: ""
 					          <div class="speaker-company text-ellipsis">Senior Advisor, Ministry of Health, Singapore</div>
         </a>
       </div>
+</div>
+		
+</div></section>
+
+
+<div>
+  <h3>Speakers</h3>
+</div>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div style="display: flex;flex-wrap:wrap;" class="row">
 				      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/tien-yin-wong">
           <div class="speaker-image-wrapper">
@@ -93,18 +105,6 @@ description: ""
 </div>
         </a>
       </div>
-</div>
-		
-</div></section>
-
-
-<div>
-  <h3>Our Speakers</h3>
-</div>
-
-<section class="bp-section font">
-  <div class="bp-container is-fluid has-text-centered">
-    <div style="display: flex;flex-wrap:wrap;" class="row">
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/henry-yau">
           <div class="speaker-image-wrapper">
@@ -137,6 +137,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Director, Clinical Research Center, Asan Medical Center, Korea </div>
         </a>
       </div>
+					    </div>	
+
+<div style="display: flex;flex-wrap:wrap;" class="row">		 
 							<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/john-andrews">
           <div class="speaker-image-wrapper">
@@ -148,9 +151,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Australia New Zealand Gynaecological Oncology Group (ANZGOG)</div>
         </a>
       </div>  
-					    </div>	
-
-<div style="display: flex;flex-wrap:wrap;" class="row">		 
 						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/edwin-chan">
           <div class="speaker-image-wrapper">
@@ -182,6 +182,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Singapore Translational Cancer Consortium</div>
         </a>
       </div>   
+					    </div>	
+		
+<div style="display: flex;flex-wrap:wrap;" class="row"><div class="row">
 				<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/pierce-chow">
           <div class="speaker-image-wrapper">
@@ -192,9 +195,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
         </a>
       </div> 
-					    </div>	
-		
-<div style="display: flex;flex-wrap:wrap;" class="row"><div class="row">
 	      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/jon-emery">
           <div class="speaker-image-wrapper">
@@ -225,6 +225,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Singapore General Hospital, Duke-NUS Medical School</div>
         </a>
       </div>
+					    </div>		
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
 			<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/kenneth-lee/">
           <div class="speaker-image-wrapper">
@@ -235,9 +238,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Parexel International</div>
         </a>
       </div>
-					    </div>		
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/wendy-loo/">
           <div class="speaker-image-wrapper">
@@ -268,6 +268,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Biomedical Research Council, A*STAR</div>
         </a>
       </div>
+					    </div>				
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
 										<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ngiam-kee-yuan/">
           <div class="speaker-image-wrapper">
@@ -278,9 +281,6 @@ description: ""
           <div class="speaker-company text-ellipsis">NUHS Corporate Office</div>
         </a>
       </div>
-					    </div>				
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 							<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/troy-puar/">
           <div class="speaker-image-wrapper">
@@ -312,6 +312,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Health Products Regulation Group, Health Sciences Authority</div>
         </a>
       </div>
+					    </div>		
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
 									<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/kelsi-smith">
           <div class="speaker-image-wrapper">
@@ -322,9 +325,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Quantify Research</div>
         </a>
       </div>	
-					    </div>		
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
