@@ -41,43 +41,12 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 09:00 - 09:10</b>&nbsp;
                 </div>
-                <h4 class="programme-title">Welcome &amp; Introduction</h4>
+                <h4 class="programme-title">
+                  Welcome &amp; Introduction
+                </h4>
                 <hr class="my-3 border-primary">
-                <div class="speakers px-2">
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-mak/"><img alt="kenneth mak" src="/images/KennethMak.png" class="speaker-image mb-4">
-                          </a>
-                        </div>
-                        <div class="col is-12">
-                          <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-mak/">
-                              <b>Prof Kenneth Mak</b></a>
-                          </div>
-													<div class="text-ellipsis speaker-position">
-                            Chairperson, Consortium for Clinical Research and Innovation, Singapore (CRIS)
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                           Director-General of Health
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Ministry of Health (MOH), Singapore
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
-</section>
+</div></div></div></div></div></div></section>
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
