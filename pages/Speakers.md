@@ -358,6 +358,17 @@ Lee Kong Chian School of Medicine</div>
 	</div>			
 
 <div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+						<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/daniel-ting">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/DanielTing.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Daniel Ting</h4>
+          <div class="speaker-position text-ellipsis">Director (Designate), AI Program, SingHealth</div>
+          <div class="speaker-company text-ellipsis">Head, AI and Digital Innovation, Singapore Eye Research Institute</div>
+					          <div class="speaker-company text-ellipsis">Chief Data &amp; Digital Officer, Singapore National Eye Centre (SNEC)</div>
+        </a>
+      </div>
 <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
@@ -366,6 +377,16 @@ Lee Kong Chian School of Medicine</div>
           <h4 class="speaker-name text-ellipsis">Ms Wong Cher Yi</h4>
           <div class="speaker-position text-ellipsis">Director, Clinical Trial Unit</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
+        </a>
+      </div>
+	<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/yong-wei-peng">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/YongWeiPeng.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Yong Wei Peng</h4>
+          <div class="speaker-position text-ellipsis">Associate Director (Research) and Senior Consultant</div>
+          <div class="speaker-company text-ellipsis">National University Cancer Institute, Singapore (NCIS)</div>
         </a>
       </div>
 </div>	
