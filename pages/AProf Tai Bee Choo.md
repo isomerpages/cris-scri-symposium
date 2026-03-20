@@ -1,5 +1,5 @@
 ---
-title: Assoc Prof Tai Bee Choo
+title: AProf Tai Bee Choo
 permalink: /tai-bee-choo/
 variant: markdown
 description: ""

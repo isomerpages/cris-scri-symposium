@@ -1,5 +1,5 @@
 ---
-title: Assoc Prof Bibhas Chakraborty
+title: AProf Bibhas Chakraborty
 permalink: /bibhas-chakraborty/
 variant: markdown
 description: ""
