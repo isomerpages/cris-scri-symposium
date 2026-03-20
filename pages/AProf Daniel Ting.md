@@ -13,7 +13,7 @@ description: ""
 <b>Associate Professor, Duke-NUS Medical School, Singapore<br>
 Director (Designate), AI Program, SingHealth<br>
 Head, AI and Digital Innovation, Singapore Eye Research Institute<br>
-Chief Data &amp; Digital Officer in SNEC</b>
+Chief Data &amp; Digital Officer, Singapore National Eye Centre (SNEC)</b>
 	
 <p>Associate Professor Daniel Ting is a Senior Consultant Vitreo-Retinal Surgeon at the Singapore National Eye Centre (SNEC) and Associate Professor at Duke-NUS Medical School. He holds dual roles as Director of the SingHealth AI Office and Chief Data and Digital Officer at SNEC, while also heading AI and Digital Innovation at the Singapore Eye Research Institute (SERI). He is an Adjunct Clinical Associate Professor and Innovation Mentor at Stanford University, and a former US-ASEAN Fulbright Scholar at Johns Hopkins University.</p><p>
 
