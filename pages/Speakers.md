@@ -611,6 +611,6 @@ Lee Kong Chian School of Medicine</div>
 	.content .speaker {	text-decoration: none; }
   .speaker-position { color: black;}
   .speaker-company { color: black;}
-	.speaker .speaker-name { margin-top: 0px;	}
+	.speaker .speaker-name { margin-top: 0px; 	font-size: 1.5rem;}
 	.speaker .speaker-image { width: 100%; }
 </style>
