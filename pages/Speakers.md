@@ -263,7 +263,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/LiMingHui.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Li Minghui</h4>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Li Minghui</h4>
           <div class="speaker-position text-ellipsis">Associate Professor</div>
           <div class="speaker-company text-ellipsis">University of Tennessee Health Science Center College of Pharmacy</div>
         </a>
@@ -535,7 +535,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/LiMingHui.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Li Minghui</h4>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Li Minghui</h4>
           <div class="speaker-position text-ellipsis">Associate Professor</div>
           <div class="speaker-company text-ellipsis">University of Tennessee Health Science Center College of Pharmacy</div>
         </a>
