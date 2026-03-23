@@ -7,6 +7,26 @@ description: ""
 ![](/images/Banner_OurSpeakers.png)
 
 <div>
+  <h3>Guest of Honour</h3>
+</div>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col"></div><div class="col is-5">
+        <a class="speaker" href="/koh-poh-koon">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/SMSKohPohKoon.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Koh Poh Koon</h4>
+          <div class="speaker-position text-ellipsis">Senior Minister of State</div>
+          <div class="speaker-company text-ellipsis">Ministry of Health &amp; Ministry of Manpower</div>
+<div class="speaker-company text-ellipsis">Singapore</div>
+        </a>
+      </div><div class="col"></div>
+      		</div></div></section>
+
+<div>
   <h3>Keynote Speaker</h3>
 </div>
 
@@ -614,6 +634,16 @@ Lee Kong Chian School of Medicine</div>
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Brendon Zhou</h4>
           <div class="speaker-position text-ellipsis">Senior Health Economist</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
+			      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/julie-zhu">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/juliezhu.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Julie Zhu</h4>
+          <div class="speaker-position text-ellipsis">Senior Epidemiologist</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
