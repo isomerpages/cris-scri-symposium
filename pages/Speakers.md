@@ -258,7 +258,20 @@ description: ""
           <div class="speaker-company text-ellipsis">Parexel International</div>
         </a>
       </div>
-						<div class="col is-3 is-6-mobile">
+				      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/li-minghui">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/LiMingHui.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Li Minghui</h4>
+          <div class="speaker-position text-ellipsis">Associate Professor</div>
+          <div class="speaker-company text-ellipsis">University of Tennessee Health Science Center College of Pharmacy</div>
+        </a>
+      </div>
+					    </div>				
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+							<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/wendy-loo/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/WendyLoo.png" alt="">
@@ -268,9 +281,6 @@ description: ""
           <div class="speaker-company text-ellipsis">ESTHER Ambassador</div>
         </a>
       </div>
-					    </div>				
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 								<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/bilal-mateen/">
           <div class="speaker-image-wrapper">
@@ -301,7 +311,10 @@ description: ""
           <div class="speaker-company text-ellipsis">NUHS Corporate Office</div>
         </a>
       </div>
-							<div class="col is-3 is-6-mobile">
+					    </div>		
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+								<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/troy-puar/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/TroyPuar.png" alt="">
@@ -311,9 +324,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Changi General Hospital, SingHealth, Singapore</div>
         </a>
       </div>
-					    </div>		
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 				      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ailing-simdevadas/">
           <div class="speaker-image-wrapper">
@@ -345,7 +355,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Quantify Research</div>
         </a>
       </div>	
-						<div class="col is-3 is-6-mobile">
+	</div>			
+
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+							<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/DavidTan.png" alt="">
@@ -355,9 +368,6 @@ Lee Kong Chian School of Medicine</div>
 					          <div class="speaker-company text-ellipsis">National University Health System (NUHS)</div>
         </a>
       </div>
-	</div>			
-
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/dipti-thakkar">
           <div class="speaker-image-wrapper">
@@ -388,7 +398,11 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
-	<div class="col is-3 is-6-mobile">
+		</div>			
+
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/yong-wei-peng">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/YongWeiPeng.png" alt="">
@@ -521,7 +535,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/LiMingHui.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Li Minghui</h4>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Li Minghui</h4>
           <div class="speaker-position text-ellipsis">Associate Professor</div>
           <div class="speaker-company text-ellipsis">University of Tennessee Health Science Center College of Pharmacy</div>
         </a>
