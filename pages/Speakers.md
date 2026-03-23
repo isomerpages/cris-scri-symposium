@@ -637,6 +637,16 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
+			      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/julie-zhu">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/juliezhu.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Julie Zhu</h4>
+          <div class="speaker-position text-ellipsis">Senior Epidemiologist</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
 </div>	
 				
 </div></section>
