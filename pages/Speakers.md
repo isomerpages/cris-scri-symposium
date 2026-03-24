@@ -540,6 +540,17 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
+									<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/edwin-chan">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/EdwinChan.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">A/Prof Edwin Chan</h4>
+          <div class="speaker-position text-ellipsis">Director, Cochrane Singapore</div>
+					<div class="speaker-position text-ellipsis">Associate Professor, Duke-NUS Medical School</div>
+          <div class="speaker-company text-ellipsis">Chief Scientific Officer, Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div> 
 									      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/guo-liang">
           <div class="speaker-image-wrapper">
@@ -560,7 +571,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">University of Tennessee Health Science Center College of Pharmacy</div>
         </a>
       </div>
-      <div class="col is-3 is-6-mobile">
+		</div>
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+	      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/fereen-liew">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/FereenLiew.png" alt="">
@@ -570,9 +584,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Deputy Director-General of Health (Appropriate &amp; Value-based Care), Ministry of Health (Singapore)</div>
         </a>
       </div>
-		</div>
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 				      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/belinda-orme">
           <div class="speaker-image-wrapper">
@@ -603,7 +614,11 @@ Lee Kong Chian School of Medicine</div>
 					<div class="speaker-company text-ellipsis">Ministry of Health (MOH)</div>
         </a>
       </div>
-	      <div class="col is-3 is-6-mobile">
+</div>		
+
+		
+<div style="display: flex;flex-wrap:wrap;" class="row">		
+		      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/zaw-myo-tun">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/ZawMyoTun.png" alt="">
@@ -613,10 +628,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
-</div>		
-
-		
-<div style="display: flex;flex-wrap:wrap;" class="row">		
 		      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/charles-zheng">
           <div class="speaker-image-wrapper">

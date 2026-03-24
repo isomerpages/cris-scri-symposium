@@ -302,7 +302,7 @@ Analysis</p>
 <p>** Programme is subjected to changes without prior notification from the
 organiser</p>
 <hr>
-<h4>HTA Workshop Speakers</h4><a class="isomer-image-wrapper" href="/speakers#HTA"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTASpeakers2.png"></a>
+<h4>HTA Workshop Speakers</h4><a class="isomer-image-wrapper" href="/speakers#HTA"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTASpeakers3.png"></a>
 <hr>
 <h4><strong>About the SCRI Health Economics and Outcomes Research (HEOR) Unit</strong></h4>
 <p>HEOR under SCRI is a multidisciplinary team comprising epidemiologists
