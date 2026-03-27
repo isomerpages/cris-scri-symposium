@@ -209,7 +209,6 @@ description: ""
                 <h4 class="programme-title">
                   <font color="#808080">Plenary Panel</font><br>
 “Defining New Regulatory Paradigms for a Fast Changing World”</h4>
-                <hr class="my-3 border-primary">
           <hr class="my-3 border-primary">
           <div class="speakers px-2">
             <div class="row">
@@ -312,7 +311,7 @@ description: ""
                   <b>30 Jul | 12:00 - 13:00</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
-                  <font color="#808080">Lunch Sharing Session</font></h4>
+                  <font color="#808080">Lunch Track</font><br>Sharing Session by HSA - GCP E6 Updates</h4>
 	  </div></div></div>
 				</div></div></div></div></section> 						
 <section>
