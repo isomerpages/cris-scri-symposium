@@ -394,7 +394,7 @@ description: ""
           <div class="programme-time">
             <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 3: Innovations in Trial Design &amp; Methodology</font><br>“Pragmatic &amp; Real-World Evidence Studies” </h4>
+                <h5 class="programme-title"><font color="#808080">Track 3: Innovations in Trial Design &amp; Methodology</font><br>“Pragmatic &amp; Real-World Evidence Studies” </h5>
 	  </div>
 </div></div>
           <div class="col is-4">
