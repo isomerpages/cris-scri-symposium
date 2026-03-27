@@ -207,10 +207,89 @@ description: ""
                   <b>30 Jul | 10:30 - 11:30</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
-                  <font color="#808080">Panel Discussion</font></h4>
+                  <font color="#808080">Plenary Panel</font><br>
+“Defining New Regulatory Paradigms for a Fast Changing World”</h4>
                 <hr class="my-3 border-primary">
+          <hr class="my-3 border-primary">
+          <div class="speakers px-2">
+            <div class="row">
+              <div class="col is-6 prog-speaker">
+                <div class="row">
+                        <div class="col is-4">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
+                        </div>
+                        <div class="col is-12">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/">
+                              <b>Dr Robert Califf</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Instructor in Medicine</div>
+<div class="text-ellipsis speaker-company">Duke University</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col is-6 prog-speaker">
+                <div class="row">
+                  <div class="col is-4">
+                    <a href="/emer-cooke/"><img alt="Daphne Gardner Tan" src="/images/EmerCooke.png" class="speaker-image mb-4"></a>
+                  </div>
+                  <div class="col is-8">
+                    <div class="speaker-name text-ellipsis">
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/emer-cooke/"><b>Ms Emer Cooke</b></a>
+                    </div>
+                    <div class="text-ellipsis speaker-position">
+                      Executive Director
+                    </div>
+                    <div class="text-ellipsis speaker-company">European Medicines Agency</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+					<div class="speakers px-2">
+            <div class="row">
+              <div class="col is-6 prog-speaker">
+                <div class="row">
+                  <div class="col is-4">
+										<a href="/raymond-chua/"><img alt="Raymond Chua" src="/images/RaymondChua.png" class="speaker-image mb-4"></a>
+                  </div>
+                  <div class="col is-8">
+                    <div class="speaker-name text-ellipsis">
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/raymond-chua/"><b>Adj Prof Raymond Chua</b></a>
+                    </div>
+                    <div class="text-ellipsis speaker-position">
+                      Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)
+                    </div>
+                    <div class="text-ellipsis speaker-company">Chief Executive Officer, Health Sciences Authority (HSA)</div>
+										                                      </div>
+                </div>
+              </div>
+              <div class="col is-6 prog-speaker">
+                <div class="row">
+                  <div class="col is-4">
+                    <a href="/john-lim/"><img alt="John Lim" src="/images/JohnLim.png" class="speaker-image mb-4"></a>
+                  </div>
+                  <div class="col is-8">
+                    <div class="speaker-name text-ellipsis">
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/john-lim/"><b>Prof John Lim</b></a>
+                    </div>
+                    <div class="text-ellipsis speaker-position">
+                      Professor &amp; Executive Director, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School
+                    </div>
+                    <div class="text-ellipsis speaker-company">Policy Core Lead, SingHealth Duke-NUS Global Health Institute</div>
+                    <div class="text-ellipsis speaker-company">Senior Advisor, Ministry of Health, Singapore</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 	  </div>
-</div></div></div></div></div></div></section> 						
+	</div>
+	  </div>
+</div></div></div></section> 
+
+
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
