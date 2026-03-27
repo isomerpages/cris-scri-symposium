@@ -341,13 +341,12 @@ description: ""
 <section>
   <div class="row">
     <div class="col is-4">
-      <div class="border bg-light h-100 position-relative">
+      <div style="height: 100%" class="border bg-light h-100 position-relative">
         <div style="height: 100%" class="p-4 bg-different h-100">
           <div class="programme-time">
                         <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 1: Regulatory Science &amp; Global Harmonisation</font><br>“Evolving Regulatory Pathways for Emerging Therapeutics"
-</h4>
+                <h4 class="programme-title"><font color="#808080">Track 1: Trials That Matter</font><br>“Aligning Clinical Research with Health System and Societal Needs?”</h4>
 	  </div>
 </div></div>
           <div class="col is-4">
@@ -356,7 +355,7 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
-								<h4 class="programme-title"><font color="#808080">Track 2: Sponsored Track</font></h4>
+								<h4 class="programme-title"><font color="#808080">Track 2: From Data to Decision</font><br>“Real-World Data as a Core Pillar of Modern Clinical Trials”</h4>
 				</div></div></div>
 				<div class="col is-4">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
