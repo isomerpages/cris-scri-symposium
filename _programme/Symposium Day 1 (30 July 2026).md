@@ -247,9 +247,9 @@ description: ""
             </div>
           </div>
 					<div class="speakers px-2">
-            <div class="row">
-              <div class="col is-6 prog-speaker">
-                <div class="row">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
                         <div class="col is-4 is-6-mobile">
 										<a href="/raymond-chua/"><img alt="Raymond Chua" src="/images/RaymondChua.png" class="speaker-image mb-4"></a>
                   </div>
