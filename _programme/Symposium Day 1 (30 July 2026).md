@@ -217,7 +217,7 @@ description: ""
                         <div class="col is-4 is-10-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
                         </div>
-                        <div class="col is-12">
+                        <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/">
                               <b>Dr Robert Califf</b></a>
