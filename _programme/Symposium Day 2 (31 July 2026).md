@@ -438,16 +438,16 @@ description: ""
               <div class="col is-6 prog-speaker">
                 <div class="row">
                         <div class="col is-4 is-10-mobile">
-                    <a href="/john-lim/"><img alt="John Lim" src="/images/JohnLim.png" class="speaker-image mb-4"></a>
+                    <a href="/ngiam-kee-yuan/"><img alt="Prof Ngiam Kee Yuan" src="/images/NgiamKeeYuan.png" class="speaker-image mb-4"></a>
                   </div>
                   <div class="col is-8">
                     <div class="speaker-name text-ellipsis">
-                      <a rel="noopener" class="speaker-name text-ellipsis" href="/john-lim/"><b>Prof John Lim</b></a>
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/ngiam-kee-yuan/"><b>Adj Prof Ngiam Kee Yuan</b></a>
                     </div>
                     <div class="text-ellipsis speaker-position">
-                      Professor &amp; Executive Director, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School
+                      Head, Artificial Intelligence Office
                     </div>
-                    <div class="text-ellipsis speaker-company">Policy Core Lead, SingHealth Duke-NUS Global Health Institute</div>
+                    <div class="text-ellipsis speaker-company">NUHS Corporate Office</div>
 										<b>(Moderator)</b>
             </div>
           </div>
