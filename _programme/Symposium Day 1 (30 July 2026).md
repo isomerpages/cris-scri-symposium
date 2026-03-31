@@ -230,7 +230,7 @@ description: ""
               <div class="col is-6 prog-speaker">
                 <div class="row">
                   <div class="col is-4">
-                    <a href="/emer-cooke/"><img alt="Daphne Gardner Tan" src="/images/EmerCooke.png" class="speaker-image mb-4"></a>
+                    <a href="/emer-cooke/"><img alt="Emer Cooke" src="/images/EmerCooke.png" class="speaker-image mb-4"></a>
                   </div>
                   <div class="col is-8">
                     <div class="speaker-name text-ellipsis">
@@ -310,8 +310,8 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 12:00 - 13:00</b>&nbsp;
                 </div>
-                <h4 class="programme-title">
-                  <font color="#808080">Lunch Track</font><br>Sharing Session by HSA - GCP E6 Updates</h4>
+                <h5 style="margin-top: 1rem" class="programme-title">
+                  <font color="#808080">Lunch Track</font><br>Sharing Session by HSA - GCP E6 Updates</h5>
                 <div class="speakers px-2">
                   <div class="row">
                     <div class="col prog-speaker">
@@ -346,7 +346,7 @@ description: ""
           <div class="programme-time">
                         <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 1: Trials That Matter</font><br>“Aligning Clinical Research with Health System and Societal Needs?”</h4>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 1: Trials That Matter</font><br>“Aligning Clinical Research with Health System and Societal Needs?”</h5>
 	  </div>
 </div></div>
           <div class="col is-4">
@@ -355,7 +355,7 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
-								<h4 class="programme-title"><font color="#808080">Track 2: From Data to Decision</font><br>“Real-World Data as a Core Pillar of Modern Clinical Trials”</h4>
+								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 2: From Data to Decision</font><br>“Real-World Data as a Core Pillar of Modern Clinical Trials”</h5>
 				</div></div></div>
 				<div class="col is-4">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
@@ -363,7 +363,7 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
-								<h4 class="programme-title"><font color="#808080">Track A: Catalyzing Innovation and Equity</font><br>“The Strategic Role of Philanthropy in Advancing Clinical Trials”</h4>
+								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track A: Catalyzing Innovation and Equity</font><br>“The Strategic Role of Philanthropy in Advancing Clinical Trials”</h5>
 				</div></div></div>
 				</div></section> 
 <section>
@@ -394,7 +394,7 @@ description: ""
           <div class="programme-time">
             <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
-                <h5 class="programme-title"><font color="#808080">Track 3: Innovations in Trial Design &amp; Methodology</font><br>“Pragmatic &amp; Real-World Evidence Studies” </h5>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 3: Innovations in Trial Design &amp; Methodology</font><br>“Pragmatic &amp; Real-World Evidence Studies” </h5>
 	  </div>
 </div></div>
           <div class="col is-4">
@@ -403,7 +403,7 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 4: Managing Global / Regional Trial Networks </font><br>“Operational Excellence &amp; Ecosystem Partnerships”</h4>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 4: Managing Global / Regional Trial Networks </font><br>“Operational Excellence &amp; Ecosystem Partnerships”</h5>
 </div></div></div>
 	          <div class="col is-4">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
@@ -411,7 +411,7 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track B: Talent Development – Building a Future-Ready Clinical Research Workforce</font><br>“Leadership Development in Clinical Research: Creating the Next Generation of PIs and Trial Managers”</h4>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track B: Talent Development – Building a Future-Ready Clinical Research Workforce</font><br>“Leadership Development in Clinical Research: Creating the Next Generation of PIs and Trial Managers”</h5>
 </div></div></div>
 </div></section> 
 <section>
