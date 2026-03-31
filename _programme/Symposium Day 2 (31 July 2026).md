@@ -189,15 +189,15 @@ description: ""
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-7 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/john-andrews/"><img src="/images/JohnAndrews.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/george-goh/"><img src="/images/GeorgeGoh.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="john-andrews/">
-                              <b>Mr John Andrews</b></a>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="george-goh/">
+                              <b>Assoc Prof George Goh</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">Manager – Research Programs and Pipeline</div>
-<div class="text-ellipsis speaker-company">Australia New Zealand Gynaecological Oncology Group (ANZGOG)</div>
+                          <div class="text-ellipsis speaker-position">Associate Professor</div>
+<div class="text-ellipsis speaker-company">Singapore General Hospital, Duke-NUS Medical School</div>
                       </div>
                     </div>
                   </div>
@@ -205,15 +205,15 @@ description: ""
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-7 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/troy-puar/"><img src="/images/TroyPuar.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/wendy-loo/"><img src="/images/WendyLoo.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/troy-puar/">
-                              <b>Dr Troy Puar</b></a>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/wendy-loo/">
+                              <b>Ms Wendy Loo</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">Head, Senior Consultant, Endocrinology</div>
-<div class="text-ellipsis speaker-company">Changi General Hospital, SingHealth, Singapore
+                          <div class="text-ellipsis speaker-position">Clinical Trials Ambassador</div>
+<div class="text-ellipsis speaker-company">ESTHER Ambassador
 </div>
                       </div>
                     </div>
@@ -222,32 +222,15 @@ description: ""
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-7 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/wong-cher-yi/"><img src="/images/WongCherYi.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/ailing-simdevadas/"><img src="/images/AiLingSimDevadas.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/wong-cher-yi/">
-                              <b>Ms Wong Cher Yi</b></a>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/ailing-simdevadas/">
+                              <b>Ms Ai Ling Sim-Devadas</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">Director, Clinical Trial Unit</div>
-<div class="text-ellipsis speaker-company">National University Heart Centre Singapore
-</div>
-                      </div>
-                    </div>
-                  </div>
-									                  <div style="display: flex;flex-wrap:wrap;" class="row">
-                    <div class="col iprog-speaker">
-                      <div class="row">
-                        <div class="col is-7 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-lee/"><img src="/images/KennethLee.png" class="speaker-image mb-4"></a>
-												</div></div>
-                        <div class="col">
-                          <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-lee/">
-                              <b>Mr Kenneth Lee</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">Vice-President, Proposals and Contracts</div>
-<div class="text-ellipsis speaker-company">Parexel International</div>
+                          <div class="text-ellipsis speaker-position">Deputy Director, Office of Patient Engagement (OPEN), Lee Kong Chian School of Medicine</div>
+<div class="text-ellipsis speaker-company">Novena Campus, Nanyang Technological University, Singapore</div>
                       <b>(Moderator)</b> 
                       </div>
                     </div>
