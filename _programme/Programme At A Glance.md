@@ -35,6 +35,12 @@ an exclusive, in-depth learning experience ahead of the main Symposium.
 workshop will also enjoy complimentary access to the Main Symposium. Please
 note that availability for both Pre-Symposium Workshops are limited to
 30 pax each track, and registration will close once capacity is reached.</p>
+</li>
+<li>
+<p><strong>Accredited CME Event</strong> approved by the Singapore Medical
+Council.
+<br>Total: 8 Cat 1B CME Points (4 for Day 1, 4 for Day 2).
+<br>CPE (For Nurses Only) is pending for approval</p>
 <p></p>
 </li>
 </ul>
