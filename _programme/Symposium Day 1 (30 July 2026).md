@@ -316,7 +316,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
-                        <div class="col is-8 is-6-mobile">
+                        <div class="col is-7 is-6-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/sumitra-sachidanandan/"><img alt="Sumitra Sachidanandan" src="/images/SumitraSachidanandan.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
