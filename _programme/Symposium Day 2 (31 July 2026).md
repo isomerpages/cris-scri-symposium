@@ -185,7 +185,7 @@ description: ""
             <div class="row">
               <div class="col is-6 prog-speaker">
                 <div class="row">
-                        <div class="col is-4 is-6-mobile">
+                        <div class="col is-4 is-5-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/"><img alt="danny soon" src="/images/DannySoon.png" class="speaker-image mb-4">
                           </a>
                         </div>
