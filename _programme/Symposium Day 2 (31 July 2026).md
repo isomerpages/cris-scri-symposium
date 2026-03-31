@@ -107,7 +107,74 @@ description: ""
 								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 7: From Discovery to Deployment: Cross-Sector Partnerships Accelerating Clinical Translation</font><br>
 “An Integrated Ecosystem to Shorten the Path from Scientific Discovery to Validated Diagnostics and Approved Therapies”</h5>
           <hr class="my-3 border-primary">
-          </div></div></div>
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/cheng-he/"><img src="/images/ChengHe.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/cheng-he/">
+                              <b>Dr Cheng He</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Vice President of Research and Development</div>
+<div class="text-ellipsis speaker-company">MiRXES</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/dipti-thakkar/"><img src="/images/diptithakkar.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/dipti-thakkar/">
+                              <b>Dr Dipti Thakkar</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Chief Operating Officer</div>
+<div class="text-ellipsis speaker-company">Hummingbird Bioscience</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/yong-wei-peng/"><img src="/images/YongWeiPeng.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/yong-wei-peng/">
+                              <b>Dr Yong Wei Peng</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Associate Director (Research) and Senior Consultant</div>
+<div class="text-ellipsis speaker-company">National University Cancer Institute, Singapore (NCIS)
+</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/ho-wen-qi/"><img src="/images/HoWenQi.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/ho-wen-qi/">
+                              <b>Dr Ho Wen Qi</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Therapeutics Lead</div>
+<div class="text-ellipsis speaker-company">ClavystBio</div>
+                      <b>(Moderator)</b> 
+                      </div>
+                    </div>
+                  </div>
+                </div></div></div></div>
           <div class="col is-6">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
@@ -117,7 +184,76 @@ description: ""
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 8: Demystifying Clinical Trials</font><br>
 “Building Public Trust and Participation Through Awareness and Education”</h5>
           <hr class="my-3 border-primary">
-          </div></div></div></div></div></div></div></section> 
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/john-andrews/"><img src="/images/JohnAndrews.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="john-andrews/">
+                              <b>Mr John Andrews</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Manager – Research Programs and Pipeline</div>
+<div class="text-ellipsis speaker-company">Australia New Zealand Gynaecological Oncology Group (ANZGOG)</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/troy-puar/"><img src="/images/TroyPuar.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/troy-puar/">
+                              <b>Dr Troy Puar</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Head, Senior Consultant, Endocrinology</div>
+<div class="text-ellipsis speaker-company">Changi General Hospital, SingHealth, Singapore
+</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/wong-cher-yi/"><img src="/images/WongCherYi.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/wong-cher-yi/">
+                              <b>Ms Wong Cher Yi</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Director, Clinical Trial Unit</div>
+<div class="text-ellipsis speaker-company">National University Heart Centre Singapore
+</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-lee/"><img src="/images/KennethLee.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-lee/">
+                              <b>Mr Kenneth Lee</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Vice-President, Proposals and Contracts</div>
+<div class="text-ellipsis speaker-company">Parexel International</div>
+                      <b>(Moderator)</b> 
+                      </div>
+                    </div>
+                  </div>
+                </div></div></div></div>
+</div></div></div></div></section> 
 						
 <section>
   <div class="bp-container is-fluid">
