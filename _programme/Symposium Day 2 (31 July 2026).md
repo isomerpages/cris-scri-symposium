@@ -387,31 +387,31 @@ description: ""
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4 is-10-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/bilal-mateen/"><img alt="Bilal Mateen" src="/images/BilalMateen.png" class="speaker-image mb-4"></a>
                         </div>
-                        <div class="col is-12">
+                        <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/">
-                              <b>Dr Robert Califf</b></a>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/bilal-mateen/">
+                              <b>Prof Bilal Mateen</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">Instructor in Medicine</div>
-<div class="text-ellipsis speaker-company">Duke University</div>
+                          <div class="text-ellipsis speaker-position">Chief AI Officer</div>
+<div class="text-ellipsis speaker-company">PATH</div>
                   </div>
                 </div>
               </div>
               <div class="col is-6 prog-speaker">
                 <div class="row">
                         <div class="col is-4 is-10-mobile">
-                    <a href="/emer-cooke/"><img alt="Emer Cooke" src="/images/EmerCooke.png" class="speaker-image mb-4"></a>
+                    <a href="/daniel-ting/"><img alt="Daniel Ting" src="/images/DanielTing.png" class="speaker-image mb-4"></a>
                   </div>
                   <div class="col is-8">
                     <div class="speaker-name text-ellipsis">
-                      <a rel="noopener" class="speaker-name text-ellipsis" href="/emer-cooke/"><b>Ms Emer Cooke</b></a>
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/daniel-ting/"><b>Assoc Prof Daniel Ting</b></a>
                     </div>
                     <div class="text-ellipsis speaker-position">
-                      Executive Director
+                      Head, AI and Digital Innovation
                     </div>
-                    <div class="text-ellipsis speaker-company">European Medicines Agency</div>
+                    <div class="text-ellipsis speaker-company">Singapore Eye Research Institute</div>
                   </div>
                 </div>
               </div>
@@ -422,16 +422,16 @@ description: ""
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4 is-10-mobile">
-										<a href="/raymond-chua/"><img alt="Raymond Chua" src="/images/RaymondChua.png" class="speaker-image mb-4"></a>
+										<a href="/tien-yin-wong/"><img alt="Prof Tien Yin Wong" src="/images/WongTienYin.png" class="speaker-image mb-4"></a>
                   </div>
                   <div class="col is-8">
                     <div class="speaker-name text-ellipsis">
-                      <a rel="noopener" class="speaker-name text-ellipsis" href="/raymond-chua/"><b>Adj Prof Raymond Chua</b></a>
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/tien-yin-wong/"><b>Prof Tien Yin Wong</b></a>
                     </div>
                     <div class="text-ellipsis speaker-position">
-                      Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)
+                      Professor &amp; Senior Vice-Chancellor, Tsinghua Medicine
                     </div>
-                    <div class="text-ellipsis speaker-company">Chief Executive Officer, Health Sciences Authority (HSA)</div>
+                    <div class="text-ellipsis speaker-company">Vice-Provost, Tsinghua University, Beijing, China</div>
 								</div>
                 </div>
               </div>
