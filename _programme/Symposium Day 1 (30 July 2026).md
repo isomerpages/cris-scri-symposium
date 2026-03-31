@@ -471,7 +471,73 @@ description: ""
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 4: Managing Global / Regional Trial Networks </font><br>“Operational Excellence &amp; Ecosystem Partnerships”</h5>
-</div></div></div>
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-4-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/derek-chew/"><img src="/images/DerekChew.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="derek-chew/">
+                              <b>Prof Derek Chew</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Director, Cardiovascular Medicine</div>
+<div class="text-ellipsis speaker-company">Victorian Heart Hospital, Australia</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-4-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/pierce-chow/"><img src="/images/PierceChow.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/pierce-chow/">
+                              <b>Prof Pierce Chow</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Program Director, Duke-NUS Medical School, Singapore</div>
+<div class="text-ellipsis speaker-company">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-4-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/alison-evans/"><img src="/images/AlisonEvans.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/alison-evans/">
+                              <b>Ms Alison Evans</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Operations Chair</div>
+<div class="text-ellipsis speaker-company">Asia Pacific Gynecologic Oncology Trials (APGOT)</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-4-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/david-tan/"><img src="/images/DavidTan.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/david-tan/">
+                              <b>A/Prof David Tan</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Group Director of Partnerships and Innovation</div>
+<div class="text-ellipsis speaker-company">National University Health System (NUHS)</div>
+                      <b>(Moderator)</b> 
+                      </div>
+                    </div>
+                  </div>
+                </div></div></div></div>
 	          <div class="col is-4">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
