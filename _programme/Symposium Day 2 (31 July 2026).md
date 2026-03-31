@@ -43,14 +43,33 @@ description: ""
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 5: Breaking Barriers</font><br>"Women Leading Change in Clinical Trials and Translational Research"</h5>
           <hr class="my-3 border-primary">
-          </div></div></div>
+                <div class="speakers px-2">
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/lisa-ooi/"><img src="/images/LisaOoi.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/lisa-ooi/">
+                              <b>Dr Lisa Ooi</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Assistant Chief Executive</div>
+<div class="text-ellipsis speaker-company">Biomedical Research Council, A*STAR
+</div>
+                      <b>(Moderator)</b> 
+                      </div>
+                    </div>
+                  </div>
+                </div></div></div></div>
           <div class="col is-6">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
                 <div class="programme-time">
                   <b>31 Jul | 09:00 - 10:30</b>&nbsp;
                 </div>
-                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 6: Sponsored Track</font></h5>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 6: Medical Device Trials</font><br>“From Prototypes to Patients: Accelerating Medical Device Trials”</h5>
           <hr class="my-3 border-primary">
           </div></div></div>
 				</div></div></div></div></section> 
@@ -85,7 +104,8 @@ description: ""
                 <div class="programme-time">
                   <b>31 Jul | 11:00 - 12:30</b>&nbsp;
                 </div>
-								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 7: From Discovery to Deployment: Cross-Sector Partnerships Accelerating Clinical Translation</font></h5>
+								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 7: From Discovery to Deployment: Cross-Sector Partnerships Accelerating Clinical Translation</font><br>
+“An Integrated Ecosystem to Shorten the Path from Scientific Discovery to Validated Diagnostics and Approved Therapies”</h5>
           <hr class="my-3 border-primary">
           </div></div></div>
           <div class="col is-6">
@@ -94,7 +114,8 @@ description: ""
                 <div class="programme-time">
                   <b>31 Jul | 11:00 - 12:30</b>&nbsp;
                 </div>
-                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 8: Demystifying Clinical Trials</font></h5>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 8: Demystifying Clinical Trials</font><br>
+“Building Public Trust and Participation Through Awareness and Education”</h5>
           <hr class="my-3 border-primary">
           </div></div></div></div></div></div></div></section> 
 						
@@ -129,7 +150,8 @@ description: ""
                 <div class="programme-time">
                   <b>31 Jul | 14:00 - 15:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 9: Asia in the Global Clinical Trials Landscape</font></h4>
+                <h4 class="programme-title"><font color="#808080">Track 9: Asia in the Global Clinical Trials Landscape</font><br>
+“Positioning Asia as a Global Trial Hub”</h4>
 <hr class="my-3 border-primary">
           </div></div></div></div></div></div></div></section> 
 <section>
@@ -163,7 +185,8 @@ description: ""
                 <div class="programme-time">
                   <b>31 Jul | 16:00 - 17:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 10: AI &amp; Digital Transformation in Clinical Trials</font></h4>
+                <h4 class="programme-title"><font color="#808080">Track 10: AI &amp; Digital Transformation in Clinical Trials</font><br>
+“How AI and Digital Innovations are Reshaping the Clinical Trial Landscape”</h4>
 <hr class="my-3 border-primary">
           </div></div></div></div></div></div></div></section> 
 <section>
@@ -178,8 +201,8 @@ description: ""
                   <b>31 Jul | 17:30 - 18:00</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
-                  <font color="#808080">Closing Address</font>
-                </h4>
+                  <font color="#808080">Closing Address</font><br>
+“Future of Clinical Trials – From Vision to Collective Action”</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
             <div class="row">
@@ -200,9 +223,6 @@ description: ""
                           </div>
                           <div class="text-ellipsis speaker-position">
                             CEO, Consortium for Clinical Research and Innovation, Singapore (CRIS)
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Executive Director, SCRI
                           </div>
                         </div>
                       </div>
