@@ -106,7 +106,7 @@ description: ""
                 </h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
-                  <div class="row">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
