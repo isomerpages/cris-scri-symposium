@@ -77,7 +77,6 @@ description: ""
                           <div class="text-ellipsis speaker-position">Senior Minister of State</div>
 <div class="text-ellipsis speaker-company">Ministry of Health &amp; Ministry of Manpower, Singapore</div>
                         </div>
-												<div class="col is-3-mobile"></div>
                       </div>
                     </div>
                   </div>
