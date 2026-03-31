@@ -314,10 +314,10 @@ description: ""
                 <h5 style="margin-top: 1rem" class="programme-title">
                   <font color="#808080">Lunch Track</font><br>Sharing Session by HSA - GCP E6 Updates</h5>
                 <div class="speakers px-2">
-                  <div class="row">
-                    <div class="col prog-speaker">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
                       <div class="row">
-                        <div class="col is-8">
+                        <div class="col is-8 is-6-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/sumitra-sachidanandan/"><img alt="Sumitra Sachidanandan" src="/images/SumitraSachidanandan.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
