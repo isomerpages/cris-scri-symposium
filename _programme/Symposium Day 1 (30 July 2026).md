@@ -66,7 +66,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-                        <div class="col is-4">
+                        <div class="col is-4 is-6-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/koh-poh-koon/"><img alt="SMS Koh Poh Koon" src="/images/SMSKohPohKoon.png" class="speaker-image mb-4"></a>
                         </div>
                         <div class="col is-12">
