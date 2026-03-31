@@ -47,7 +47,7 @@ description: ""
 									                  <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
-                        <div class="col is-7 is-5-mobile">
+                        <div class="col is-5 is-5-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/lisa-ooi/"><img src="/images/LisaOoi.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
@@ -111,7 +111,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
-                        <div class="col is-7 is-5-mobile">
+                        <div class="col is-4 is-5-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/cheng-he/"><img src="/images/ChengHe.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
@@ -127,7 +127,7 @@ description: ""
 									                  <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
-                        <div class="col is-7 is-5-mobile">
+                        <div class="col is-5 is-5-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/dipti-thakkar/"><img src="/images/diptithakkar.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
