@@ -545,7 +545,75 @@ description: ""
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track B: Talent Development – Building a Future-Ready Clinical Research Workforce</font><br>“Leadership Development in Clinical Research: Creating the Next Generation of PIs and Trial Managers”</h5>
-</div></div></div>
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-4-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/john-andrews/"><img src="/images/JohnAndrews.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="john-andrews/">
+                              <b>Mr John Andrews</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Manager – Research Programs and Pipeline</div>
+<div class="text-ellipsis speaker-company">Australia New Zealand Gynaecological Oncology Group (ANZGOG)</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-4-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/troy-puar/"><img src="/images/TroyPuar.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/troy-puar/">
+                              <b>Dr Troy Puar</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Head, Senior Consultant, Endocrinology</div>
+<div class="text-ellipsis speaker-company">Changi General Hospital, SingHealth, Singapore
+</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-4-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/wong-cher-yi/"><img src="/images/WongCherYi.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/wong-cher-yi/">
+                              <b>Ms Wong Cher Yi</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Director, Clinical Trial Unit</div>
+<div class="text-ellipsis speaker-company">National University Heart Centre Singapore
+</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-4-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-lee/"><img src="/images/KennethLee.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-lee/">
+                              <b>Mr Kenneth Lee</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Vice-President, Proposals and Contracts</div>
+<div class="text-ellipsis speaker-company">Parexel International</div>
+                      <b>(Moderator)</b> 
+                      </div>
+                    </div>
+                  </div>
+                </div></div></div></div>
 </div></section> 
 <section>
   <div class="bp-container is-fluid">
