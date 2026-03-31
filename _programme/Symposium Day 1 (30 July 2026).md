@@ -361,15 +361,15 @@ description: ""
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-7 is-6-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/sumitra-sachidanandan/"><img alt="Sumitra Sachidanandan" src="/images/SumitraSachidanandan.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/li-ming-hui/"><img src="/images/LiMingHui.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/sumitra-sachidanandan/">
-                              <b>Ms Sumitra Sachidanandan</b></a>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/li-ming-hui/">
+                              <b>Assoc Prof Li Minghui</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">Regulatory Consultant, Innovation Office &amp; Clinical Trials Branch</div>
-<div class="text-ellipsis speaker-company">Health Products Regulation Group, Health Sciences Authority</div>
+                          <div class="text-ellipsis speaker-position">Associate Professor</div>
+<div class="text-ellipsis speaker-company">University of Tennessee Health Science Center College of Pharmacy</div>
                       </div>
                     </div>
                   </div>
@@ -413,8 +413,56 @@ description: ""
             <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 3: Innovations in Trial Design &amp; Methodology</font><br>“Pragmatic &amp; Real-World Evidence Studies” </h5>
-	  </div>
-</div></div>
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-6-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/jon-emery/"><img src="/images/JonEmery.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/jon-emery/">
+                              <b>Prof Jon Emery</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Professor of Family Medicine</div>
+<div class="text-ellipsis speaker-company">Lee Kong Chian School of Medicine</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-6-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/kelsi-smith/"><img src="/images/KelsiSmith.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/kelsi-smith/">
+                              <b>Dr Kelsi Smith</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Senior Project Lead, Real-World Evidence and Analytics</div>
+<div class="text-ellipsis speaker-company">Quantify Research</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-6-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/edwin-chan/"><img src="/images/EdwinChan.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/edwin-chan/">
+                              <b>A/Prof Edwin Chan</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Chief Scientific Officer</div>
+<div class="text-ellipsis speaker-company">Singapore Clinical Research Institute (SCRI)</div>
+                      </div>
+                    </div>
+                  </div>
+                </div></div></div></div>
           <div class="col is-4">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
