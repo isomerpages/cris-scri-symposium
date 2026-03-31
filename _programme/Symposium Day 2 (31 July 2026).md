@@ -333,7 +333,7 @@ description: ""
                   </div>
                   <div class="col is-8">
                     <div class="speaker-name text-ellipsis">
-                      <a rel="noopener" class="speaker-name text-ellipsis" href="/john-lim/"><b>Mr Henry Yau</b></a>
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/henry-yau/"><b>Mr Henry Yau</b></a>
                     </div>
                     <div class="text-ellipsis speaker-position">
                       Managing Director</div>
