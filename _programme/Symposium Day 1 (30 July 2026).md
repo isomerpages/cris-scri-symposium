@@ -214,7 +214,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-                        <div class="col is-4 is-6-mobile">
+                        <div class="col is-4 is-8-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
                         </div>
                         <div class="col is-12">
@@ -229,7 +229,7 @@ description: ""
               </div>
               <div class="col is-6 prog-speaker">
                 <div class="row">
-                        <div class="col is-4 is-6-mobile">
+                        <div class="col is-4 is-8-mobile">
                     <a href="/emer-cooke/"><img alt="Emer Cooke" src="/images/EmerCooke.png" class="speaker-image mb-4"></a>
                   </div>
                   <div class="col is-8">
@@ -356,6 +356,24 @@ description: ""
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
 								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 2: From Data to Decision</font><br>“Real-World Data as a Core Pillar of Modern Clinical Trials”</h5>
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-6-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/sumitra-sachidanandan/"><img alt="Sumitra Sachidanandan" src="/images/SumitraSachidanandan.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/sumitra-sachidanandan/">
+                              <b>Ms Sumitra Sachidanandan</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Regulatory Consultant, Innovation Office &amp; Clinical Trials Branch</div>
+<div class="text-ellipsis speaker-company">Health Products Regulation Group, Health Sciences Authority</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
 				</div></div></div>
 				<div class="col is-4">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
