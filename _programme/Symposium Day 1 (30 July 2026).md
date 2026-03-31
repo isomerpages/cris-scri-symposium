@@ -214,7 +214,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-                        <div class="col is-4 is-8-mobile">
+                        <div class="col is-4 is-10-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
                         </div>
                         <div class="col is-12">
@@ -229,7 +229,7 @@ description: ""
               </div>
               <div class="col is-6 prog-speaker">
                 <div class="row">
-                        <div class="col is-4 is-8-mobile">
+                        <div class="col is-4 is-10-mobile">
                     <a href="/emer-cooke/"><img alt="Emer Cooke" src="/images/EmerCooke.png" class="speaker-image mb-4"></a>
                   </div>
                   <div class="col is-8">
@@ -249,7 +249,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-                        <div class="col is-4 is-6-mobile">
+                        <div class="col is-4 is-10-mobile">
 										<a href="/raymond-chua/"><img alt="Raymond Chua" src="/images/RaymondChua.png" class="speaker-image mb-4"></a>
                   </div>
                   <div class="col is-8">
@@ -265,7 +265,7 @@ description: ""
               </div>
               <div class="col is-6 prog-speaker">
                 <div class="row">
-                        <div class="col is-4 is-6-mobile">
+                        <div class="col is-4 is-10-mobile">
                     <a href="/john-lim/"><img alt="John Lim" src="/images/JohnLim.png" class="speaker-image mb-4"></a>
                   </div>
                   <div class="col is-8">
