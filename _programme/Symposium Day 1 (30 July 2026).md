@@ -66,7 +66,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-                        <div class="col is-4 is-6-mobile">
+                        <div class="col is-4 is-4-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/koh-poh-koon/"><img alt="SMS Koh Poh Koon" src="/images/SMSKohPohKoon.png" class="speaker-image mb-4"></a>
                         </div>
                         <div class="col is-12">
@@ -108,7 +108,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-                        <div class="col is-4 is-6-mobile">
+                        <div class="col is-4 is-4-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/"><img alt="danny soon" src="/images/DannySoon.png" class="speaker-image mb-4">
                           </a>
                         </div>
@@ -155,7 +155,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-                        <div class="col is-4 is-6-mobile">
+                        <div class="col is-4 is-4-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
                         </div>
                         <div class="col is-12">
@@ -316,7 +316,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
-                        <div class="col is-7 is-6-mobile">
+                        <div class="col is-7 is-4-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/sumitra-sachidanandan/"><img alt="Sumitra Sachidanandan" src="/images/SumitraSachidanandan.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
@@ -360,7 +360,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
-                        <div class="col is-7 is-6-mobile">
+                        <div class="col is-7 is-4-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/li-ming-hui/"><img src="/images/LiMingHui.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
@@ -417,7 +417,7 @@ description: ""
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
-                        <div class="col is-7 is-6-mobile">
+                        <div class="col is-7 is-4-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/jon-emery/"><img src="/images/JonEmery.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
@@ -433,7 +433,7 @@ description: ""
 									                  <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
-                        <div class="col is-7 is-6-mobile">
+                        <div class="col is-7 is-4-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/kelsi-smith/"><img src="/images/KelsiSmith.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
@@ -449,7 +449,7 @@ description: ""
 									                  <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
-                        <div class="col is-7 is-6-mobile">
+                        <div class="col is-7 is-4-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/edwin-chan/"><img src="/images/EdwinChan.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
@@ -459,6 +459,7 @@ description: ""
                           </div>
                           <div class="text-ellipsis speaker-position">Chief Scientific Officer</div>
 <div class="text-ellipsis speaker-company">Singapore Clinical Research Institute (SCRI)</div>
+                      <b>(Moderator)</b> 
                       </div>
                     </div>
                   </div>
