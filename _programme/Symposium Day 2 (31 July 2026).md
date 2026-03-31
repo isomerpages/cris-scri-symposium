@@ -335,8 +335,7 @@ description: ""
                     <div class="speaker-name text-ellipsis">
                       <a rel="noopener" class="speaker-name text-ellipsis" href="/henry-yau/"><b>Mr Henry Yau</b></a>
                     </div>
-                    <div class="text-ellipsis speaker-position">
-                      Managing Director</div>
+                    <div class="text-ellipsis speaker-position">Managing Director</div>
                     <div class="text-ellipsis speaker-company">Clinical Trials Centre, The University of Hong Kong</div>
             </div>
           </div>
