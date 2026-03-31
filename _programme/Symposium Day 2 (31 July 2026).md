@@ -337,6 +337,7 @@ description: ""
                     </div>
                     <div class="text-ellipsis speaker-position">Managing Director</div>
                     <div class="text-ellipsis speaker-company">Clinical Trials Centre, The University of Hong Kong</div>
+                      <b>(Moderator)</b> 
             </div>
           </div>
         </div>
@@ -447,7 +448,7 @@ description: ""
                       Professor &amp; Executive Director, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School
                     </div>
                     <div class="text-ellipsis speaker-company">Policy Core Lead, SingHealth Duke-NUS Global Health Institute</div>
-                    <div class="text-ellipsis speaker-company">Senior Advisor, Ministry of Health, Singapore</div>
+										<b>(Moderator)</b>
             </div>
           </div>
         </div>
