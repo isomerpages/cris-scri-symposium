@@ -63,7 +63,7 @@ description: ""
                 </h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
-                  <div class="row">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
@@ -77,6 +77,7 @@ description: ""
                           <div class="text-ellipsis speaker-position">Senior Minister of State</div>
 <div class="text-ellipsis speaker-company">Ministry of Health &amp; Ministry of Manpower, Singapore</div>
                         </div>
+												<div class="col is-3-mobile"></div>
                       </div>
                     </div>
                   </div>
