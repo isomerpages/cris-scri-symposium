@@ -41,7 +41,7 @@ description: ""
                 <div class="programme-time">
                   <b>31 Jul | 09:00 - 10:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 5: Breaking Barriers</font><br>"Women Leading Change in Clinical Trials and Translational Research"</h4>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 5: Breaking Barriers</font><br>"Women Leading Change in Clinical Trials and Translational Research"</h5>
           <hr class="my-3 border-primary">
           </div></div></div>
           <div class="col is-6">
@@ -50,7 +50,7 @@ description: ""
                 <div class="programme-time">
                   <b>31 Jul | 09:00 - 10:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 6: Sponsored Track</font></h4>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 6: Sponsored Track</font></h5>
           <hr class="my-3 border-primary">
           </div></div></div>
 				</div></div></div></div></section> 
@@ -85,7 +85,7 @@ description: ""
                 <div class="programme-time">
                   <b>31 Jul | 11:00 - 12:30</b>&nbsp;
                 </div>
-								<h4 class="programme-title"><font color="#808080">Track 7: From Discovery to Deployment: Cross-Sector Partnerships Accelerating Clinical Translation</font></h4>
+								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 7: From Discovery to Deployment: Cross-Sector Partnerships Accelerating Clinical Translation</font></h5>
           <hr class="my-3 border-primary">
           </div></div></div>
           <div class="col is-6">
@@ -94,7 +94,7 @@ description: ""
                 <div class="programme-time">
                   <b>31 Jul | 11:00 - 12:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 8: Demystifying Clinical Trials</font></h4>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 8: Demystifying Clinical Trials</font></h5>
           <hr class="my-3 border-primary">
           </div></div></div></div></div></div></div></section> 
 						
