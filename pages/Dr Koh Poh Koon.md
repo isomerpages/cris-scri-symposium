@@ -11,8 +11,7 @@ description: ""
 <div class="col is-9 speaker-details">
 	<h4><b>Dr Koh Poh Koon</b></h4>
 <b>Senior Minister of State<br>
-Ministry of Health &amp; Ministry of Manpower <br>
-Singapore
+Ministry of Health &amp; Ministry of Manpower (Singapore)<br>
 </b>
 	
 <p>Dr Koh Poh Koon is Senior Minister of State for Health and Manpower. </p><p>
