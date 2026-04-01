@@ -209,6 +209,7 @@ description: ""
                 <h4 class="programme-title">
                   <font color="#808080">Plenary Panel</font><br>
 “Defining New Regulatory Paradigms for a Fast Changing World”</h4>
+As scientific innovation accelerates—from AI-enabled drug discovery and decentralized trials to cell and gene therapies—the traditional boundaries of regulation are being fundamentally tested. Regulatory agencies worldwide are increasingly called upon not only to safeguard safety and efficacy, but also to enable timely access, foster innovation, and respond to evolving healthcare needs.<br><br>This high-level plenary brings together global regulatory experts including Dr Robert Califf, Ms Emer Cooke, Adj A/Prof Raymond Chua, and Prof John Lim to explore how regulatory frameworks must evolve in a rapidly changing world.<br><br>Drawing on perspectives from the US, Europe, and Asia, this session will offer strategic insights into the future of regulatory science and governance—highlighting how forward-looking regulatory paradigms can unlock innovation, strengthen public trust, and ultimately accelerate patient access to transformative therapies.
           <hr class="my-3 border-primary">
           <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
