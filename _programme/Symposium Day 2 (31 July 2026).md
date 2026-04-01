@@ -474,39 +474,11 @@ description: ""
                   <font color="#808080">Closing Address</font><br>
 “Future of Clinical Trials – From Vision to Collective Action”</h4>
                 <hr class="my-3 border-primary">
-                <div class="speakers px-2">
-            <div class="row">
-              <div class="col is-6 prog-speaker">
-                <div class="row">
-                        <div class="col is-4 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/"><img alt="danny soon" src="/images/DannySoon.png" class="speaker-image mb-4">
-                          </a>
-                        </div>
-                        <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/">
-                        </a>
-                        <div class="col is-12">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/">
-                          </a>
-                          <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/">
-                              <b>Adj A/Prof Danny Soon</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            CEO, Consortium for Clinical Research and Innovation, Singapore (CRIS)
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
   </div>
-</section>
+</div></div></div></section>
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
