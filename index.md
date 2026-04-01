@@ -86,8 +86,8 @@ sections:
   - infopic:
       title: CME / CPE Points
       id: infopic
-      description: CME and CPE (for nurses only) are pending for approval. More
-        information will be released when closer to date.
+      description: Accredited CME Event approved by the Singapore Medical Council. CPE
+        (for nurses only) is pending for approval.
       button: Register Now
       url: /register/
       image: /images/SCRIDAY1_128.jpg

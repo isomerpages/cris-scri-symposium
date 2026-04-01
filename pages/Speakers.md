@@ -20,8 +20,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Koh Poh Koon</h4>
           <div class="speaker-position text-ellipsis">Senior Minister of State</div>
-          <div class="speaker-company text-ellipsis">Ministry of Health &amp; Ministry of Manpower</div>
-<div class="speaker-company text-ellipsis">Singapore</div>
+          <div class="speaker-company text-ellipsis">Ministry of Health &amp; Ministry of Manpower (Singapore)</div>
         </a>
       </div><div class="col"></div>
       		</div></div></section>

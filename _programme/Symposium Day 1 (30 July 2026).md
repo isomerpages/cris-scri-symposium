@@ -62,8 +62,33 @@ description: ""
                   Guest of Honour - Opening Address
                 </h4>
                 <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/koh-poh-koon/"><img alt="SMS Koh Poh Koon" src="/images/SMSKohPohKoon.png" class="speaker-image mb-4"></a>
+                        </div>
+                        <div class="col is-12">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/koh-poh-koon/">
+                              <b>Dr Koh Poh Koon</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Senior Minister of State</div>
+<div class="text-ellipsis speaker-company">Ministry of Health &amp; Ministry of Manpower (Singapore)</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-</div></div></div></div></div></div></section>
+</section>
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -80,10 +105,10 @@ description: ""
                 </h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
-                  <div class="row">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-                        <div class="col is-4">
+                        <div class="col is-4 is-5-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/"><img alt="danny soon" src="/images/DannySoon.png" class="speaker-image mb-4">
                           </a>
                         </div>
@@ -93,10 +118,10 @@ description: ""
                               <b>Adj A/Prof Danny Soon</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                           CEO, Consortium for Clinical Research and Innovation, Singapore (CRIS)
+                           Chief Executive Officer
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Executive Director, Singapore Clinical Research Institute
+                            Consortium for Clinical Research and Innovation, Singapore (CRIS)
                           </div>
                         </div>
                       </div>
@@ -126,8 +151,34 @@ description: ""
                   <font color="#808080">Keynote Speech</font>
                 </h4>
                 <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
+                        </div>
+                        <div class="col is-12">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/">
+                              <b>Dr Robert Califf</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Instructor in Medicine</div>
+<div class="text-ellipsis speaker-company">Duke University</div>
+<div class="text-ellipsis speaker-company"><i>Former U.S. FDA Commissioner <br>shaping global regulatory policy</i></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-</div></div></div></div></div></div></section>
+</section>
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -156,10 +207,89 @@ description: ""
                   <b>30 Jul | 10:30 - 11:30</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
-                  <font color="#808080">Panel Discussion</font></h4>
-                <hr class="my-3 border-primary">
+                  <font color="#808080">Plenary Panel</font><br>
+“Defining New Regulatory Paradigms for a Fast Changing World”</h4>
+As scientific innovation accelerates—from AI-enabled drug discovery and decentralized trials to cell and gene therapies—the traditional boundaries of regulation are being fundamentally tested. Regulatory agencies worldwide are increasingly called upon not only to safeguard safety and efficacy, but also to enable timely access, foster innovation, and respond to evolving healthcare needs.<br><br>This high-level plenary brings together global regulatory experts including Dr Robert Califf, Ms Emer Cooke, Adj A/Prof Raymond Chua, and Prof John Lim to explore how regulatory frameworks must evolve in a rapidly changing world.<br><br>Drawing on perspectives from the US, Europe, and Asia, this session will offer strategic insights into the future of regulatory science and governance—highlighting how forward-looking regulatory paradigms can unlock innovation, strengthen public trust, and ultimately accelerate patient access to transformative therapies.
+          <hr class="my-3 border-primary">
+          <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4 is-10-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
+                        </div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/">
+                              <b>Dr Robert Califf</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Instructor in Medicine</div>
+<div class="text-ellipsis speaker-company">Duke University</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col is-6 prog-speaker">
+                <div class="row">
+                        <div class="col is-4 is-10-mobile">
+                    <a href="/emer-cooke/"><img alt="Emer Cooke" src="/images/EmerCooke.png" class="speaker-image mb-4"></a>
+                  </div>
+                  <div class="col is-8">
+                    <div class="speaker-name text-ellipsis">
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/emer-cooke/"><b>Ms Emer Cooke</b></a>
+                    </div>
+                    <div class="text-ellipsis speaker-position">
+                      Executive Director
+                    </div>
+                    <div class="text-ellipsis speaker-company">European Medicines Agency</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+					<div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4 is-10-mobile">
+										<a href="/raymond-chua/"><img alt="Raymond Chua" src="/images/RaymondChua.png" class="speaker-image mb-4"></a>
+                  </div>
+                  <div class="col is-8">
+                    <div class="speaker-name text-ellipsis">
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/raymond-chua/"><b>Adj Prof Raymond Chua</b></a>
+                    </div>
+                    <div class="text-ellipsis speaker-position">
+                      Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)
+                    </div>
+                    <div class="text-ellipsis speaker-company">Chief Executive Officer, Health Sciences Authority (HSA)</div>
+								</div>
+                </div>
+              </div>
+              <div class="col is-6 prog-speaker">
+                <div class="row">
+                        <div class="col is-4 is-10-mobile">
+                    <a href="/john-lim/"><img alt="John Lim" src="/images/JohnLim.png" class="speaker-image mb-4"></a>
+                  </div>
+                  <div class="col is-8">
+                    <div class="speaker-name text-ellipsis">
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/john-lim/"><b>Prof John Lim</b></a>
+                    </div>
+                    <div class="text-ellipsis speaker-position">
+                      Professor &amp; Executive Director, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School
+                    </div>
+                    <div class="text-ellipsis speaker-company">Policy Core Lead, SingHealth Duke-NUS Global Health Institute</div>
+                    <div class="text-ellipsis speaker-company">Senior Advisor, Ministry of Health, Singapore</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 	  </div>
-</div></div></div></div></div></div></section> 						
+	</div>
+	  </div>
+</div></div></div></section> 
+
+
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -181,20 +311,45 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 12:00 - 13:00</b>&nbsp;
                 </div>
-                <h4 class="programme-title">
-                  <font color="#808080">Lunch Sharing Session</font></h4>
-	  </div></div></div>
-				</div></div></div></div></section> 						
+                <h5 style="margin-top: 1rem" class="programme-title">
+                  <font color="#808080">Lunch Track</font><br>Sharing Session by HSA - GCP E6 Updates</h5>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/sumitra-sachidanandan/"><img alt="Sumitra Sachidanandan" src="/images/SumitraSachidanandan.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/sumitra-sachidanandan/">
+                              <b>Ms Sumitra Sachidanandan</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Regulatory Consultant, Innovation Office &amp; Clinical Trials Branch</div>
+<div class="text-ellipsis speaker-company">Health Products Regulation Group, Health Sciences Authority</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>					
 <section>
   <div class="row">
     <div class="col is-4">
-      <div class="border bg-light h-100 position-relative">
+      <div style="height: 100%" class="border bg-light h-100 position-relative">
         <div style="height: 100%" class="p-4 bg-different h-100">
           <div class="programme-time">
                         <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 1: Regulatory Science &amp; Global Harmonisation</font><br>“Evolving Regulatory Pathways for Emerging Therapeutics"
-</h4>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 1: Trials That Matter</font><br>“Aligning Clinical Research with Health System and Societal Needs?”</h5>
+                <hr class="my-3 border-primary">
 	  </div>
 </div></div>
           <div class="col is-4">
@@ -203,7 +358,26 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
-								<h4 class="programme-title"><font color="#808080">Track 2: Sponsored Track</font></h4>
+								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 2: From Data to Decision</font><br>“Real-World Data as a Core Pillar of Modern Clinical Trials”</h5>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/li-minghui/"><img src="/images/LiMingHui.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/li-minghui/">
+                              <b>Assoc Prof Li Minghui</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Associate Professor</div>
+<div class="text-ellipsis speaker-company">University of Tennessee Health Science Center College of Pharmacy</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
 				</div></div></div>
 				<div class="col is-4">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
@@ -211,7 +385,8 @@ description: ""
                 <div class="programme-time">
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
-								<h4 class="programme-title"><font color="#808080">Track A: Catalyzing Innovation and Equity</font><br>“The Strategic Role of Philanthropy in Advancing Clinical Trials”</h4>
+								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track A: Catalyzing Innovation and Equity</font><br>“The Strategic Role of Philanthropy in Advancing Clinical Trials”</h5>
+                <hr class="my-3 border-primary">
 				</div></div></div>
 				</div></section> 
 <section>
@@ -242,25 +417,211 @@ description: ""
           <div class="programme-time">
             <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 3: Innovations in Trial Design &amp; Methodology</font><br>“Pragmatic &amp; Real-World Evidence Studies” </h4>
-	  </div>
-</div></div>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 3: Innovations in Trial Design &amp; Methodology</font><br>“Pragmatic &amp; Real-World Evidence Studies” </h5>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/jon-emery/"><img src="/images/JonEmery.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/jon-emery/">
+                              <b>Prof Jon Emery</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Professor of Family Medicine</div>
+<div class="text-ellipsis speaker-company">Lee Kong Chian School of Medicine</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/kelsi-smith/"><img src="/images/KelsiSmith.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/kelsi-smith/">
+                              <b>Dr Kelsi Smith</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Senior Project Lead, Real-World Evidence and Analytics</div>
+<div class="text-ellipsis speaker-company">Quantify Research</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/edwin-chan/"><img src="/images/EdwinChan.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/edwin-chan/">
+                              <b>A/Prof Edwin Chan</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Chief Scientific Officer</div>
+<div class="text-ellipsis speaker-company">Singapore Clinical Research Institute (SCRI)</div>
+                      <b>(Moderator)</b> 
+                      </div>
+                    </div>
+                  </div>
+                </div></div></div></div>
           <div class="col is-4">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
                 <div class="programme-time">
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track 4: Managing Global / Regional Trial Networks </font><br>“Operational Excellence &amp; Ecosystem Partnerships”</h4>
-</div></div></div>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 4: Managing Global / Regional Trial Networks </font><br>“Operational Excellence &amp; Ecosystem Partnerships”</h5>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/derek-chew/"><img src="/images/DerekChew.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="derek-chew/">
+                              <b>Prof Derek Chew</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Director, Cardiovascular Medicine</div>
+<div class="text-ellipsis speaker-company">Victorian Heart Hospital, Australia</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/pierce-chow/"><img src="/images/PierceChow.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/pierce-chow/">
+                              <b>Prof Pierce Chow</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Program Director, Duke-NUS Medical School, Singapore</div>
+<div class="text-ellipsis speaker-company">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/alison-evans/"><img src="/images/AlisonEvans.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/alison-evans/">
+                              <b>Ms Alison Evans</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Operations Chair</div>
+<div class="text-ellipsis speaker-company">Asia Pacific Gynecologic Oncology Trials (APGOT)</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/david-tan/"><img src="/images/DavidTan.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/david-tan/">
+                              <b>A/Prof David Tan</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Group Director of Partnerships and Innovation</div>
+<div class="text-ellipsis speaker-company">National University Health System (NUHS)</div>
+                      <b>(Moderator)</b> 
+                      </div>
+                    </div>
+                  </div>
+                </div></div></div></div>
 	          <div class="col is-4">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4 bg-different h-100 position-relative">
                 <div class="programme-time">
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
-                <h4 class="programme-title"><font color="#808080">Track B: Talent Development – Building a Future-Ready Clinical Research Workforce</font><br>“Leadership Development in Clinical Research: Creating the Next Generation of PIs and Trial Managers”</h4>
-</div></div></div>
+                <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track B: Talent Development – Building a Future-Ready Clinical Research Workforce</font><br>“Leadership Development in Clinical Research: Creating the Next Generation of PIs and Trial Managers”</h5>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/john-andrews/"><img src="/images/JohnAndrews.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="john-andrews/">
+                              <b>Mr John Andrews</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Manager – Research Programs and Pipeline</div>
+<div class="text-ellipsis speaker-company">Australia New Zealand Gynaecological Oncology Group (ANZGOG)</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/troy-puar/"><img src="/images/TroyPuar.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/troy-puar/">
+                              <b>Dr Troy Puar</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Head, Senior Consultant, Endocrinology</div>
+<div class="text-ellipsis speaker-company">Changi General Hospital, SingHealth, Singapore
+</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/wong-cher-yi/"><img src="/images/WongCherYi.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/wong-cher-yi/">
+                              <b>Ms Wong Cher Yi</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Director, Clinical Trial Unit</div>
+<div class="text-ellipsis speaker-company">National University Heart Centre Singapore
+</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-lee/"><img src="/images/KennethLee.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-lee/">
+                              <b>Mr Kenneth Lee</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Vice-President, Proposals and Contracts</div>
+<div class="text-ellipsis speaker-company">Parexel International</div>
+                      <b>(Moderator)</b> 
+                      </div>
+                    </div>
+                  </div>
+                </div></div></div></div>
 </div></section> 
 <section>
   <div class="bp-container is-fluid">
