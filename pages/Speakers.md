@@ -623,8 +623,8 @@ Lee Kong Chian School of Medicine</div>
             <img class="speaker-image img-fluid mb-3" src="/images/XiaoJunWang.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Xiao Jun Wang</h4>
-          <div class="speaker-position text-ellipsis">Health Economist and Health Technology Assessment Specialist</div>
-          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+          <div class="speaker-position text-ellipsis">Value Access and Policy Lead (Oncology)</div>
+          <div class="speaker-company text-ellipsis">Amgen</div>
         </a>
       </div>
 		      <div class="col is-3 is-6-mobile">
