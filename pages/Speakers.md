@@ -616,7 +616,17 @@ Lee Kong Chian School of Medicine</div>
 </div>		
 
 		
-<div style="display: flex;flex-wrap:wrap;" class="row">		
+<div style="display: flex;flex-wrap:wrap;" class="row">	
+	  <div class="col is-3 is-6-mobile">
+					<a class="speaker" href="/xiao-jun-wang">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/XiaoJunWang.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Xiao Jun Wang</h4>
+          <div class="speaker-position text-ellipsis">Value Access and Policy Lead (Oncology)</div>
+          <div class="speaker-company text-ellipsis">Amgen</div>
+        </a>
+      </div>
 		      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/zaw-myo-tun">
           <div class="speaker-image-wrapper">
@@ -647,6 +657,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
+</div>	
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
 			      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/julie-zhu">
           <div class="speaker-image-wrapper">
@@ -657,8 +670,8 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
-</div>	
-				
+		</div>
+
 </div></section>
 
 <style type="text/css">
