@@ -278,6 +278,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
                     </div>
                     <div class="text-ellipsis speaker-company">Policy Core Lead, SingHealth Duke-NUS Global Health Institute</div>
                     <div class="text-ellipsis speaker-company">Senior Advisor, Ministry of Health, Singapore</div>
+                      <b>(Moderator)</b> 
             </div>
           </div>
         </div>
