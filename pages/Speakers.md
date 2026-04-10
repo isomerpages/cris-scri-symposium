@@ -404,7 +404,7 @@ Lee Kong Chian School of Medicine</div>
           </div>
           <h4 class="speaker-name text-ellipsis">A/Prof David Tan</h4>
           <div class="speaker-position text-ellipsis">Group Director of Partnerships and Innovation</div>
-					          <div class="speaker-company text-ellipsis">National University Health System (NUHS)</div>
+					<div class="speaker-company text-ellipsis">National University Health System (NUHS)</div>
         </a>
       </div>
 						<div class="col is-3 is-6-mobile">
