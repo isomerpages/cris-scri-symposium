@@ -42,6 +42,7 @@ description: ""
                   <b>31 Jul | 09:00 - 10:30</b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 5: Breaking Barriers</font><br>"Women Leading Change in Clinical Trials and Translational Research"</h5>
+Discover how visionary women leaders are revolutionising the global clinical trials landscape. From innovative practices to navigating industry challenges, learn strategies these trailblazers use to drive change and shape the future of clinical research.
           <hr class="my-3 border-primary">
                 <div class="speakers px-2">
 									                  <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -70,6 +71,7 @@ description: ""
                   <b>31 Jul | 09:00 - 10:30</b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 6: Medical Device Trials</font><br>“From Prototypes to Patients: Accelerating Medical Device Trials”</h5>
+Medical device trials require distinct approaches that address unique regulatory and methodological challenges. Discover approaches for expediting device development while upholding stringent safety and efficacy requirements. Develop insights into optimising trial processes and navigating the complexities of bringing medical innovations to market.
           <hr class="my-3 border-primary">
           </div></div></div>
 				</div></div></div></div></section> 
@@ -106,6 +108,7 @@ description: ""
                 </div>
 								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 7: From Discovery to Deployment: Cross-Sector Partnerships Accelerating Clinical Translation</font><br>
 “An Integrated Ecosystem to Shorten the Path from Scientific Discovery to Validated Diagnostics and Approved Therapies”</h5>
+Explore how ecosystem partnerships are transforming the healthcare innovation pipeline from research breakthroughs to market-ready innovations. In this session, industry leaders and clinicians will share collaborative approaches across sectors, integrated technologies, and streamlined methods that are breaking down silos, accelerating development timelines and expediting healthcare solutions.
           <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -183,6 +186,7 @@ description: ""
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 8: Demystifying Clinical Trials</font><br>
 “Building Public Trust and Participation Through Awareness and Education”</h5>
+Even as medical knowledge expands, complex barriers continue to limit patient involvement in clinical trials across communities worldwide. Delve into potential strategies to overcome these challenges by strengthening public confidence and improving recruitment through effective participant communication and targeted outreach.
           <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -271,6 +275,7 @@ description: ""
                 </div>
                 <h4 class="programme-title"><font color="#808080">Track 9: Asia in the Global Clinical Trials Landscape</font><br>
 “Positioning Asia as a Global Trial Hub”</h4>
+How can Asia emerge as a leading global clinical trial destination? Gain insights into attracting industry investments, fostering cross-organisational collaborations and synchronising trials regionally. Explore approaches to enhance competitive positioning against established markets and transform the region into a hub for breakthrough diagnostics and therapies benefiting patients worldwide.
           <hr class="my-3 border-primary">
           <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -381,6 +386,7 @@ description: ""
                 </div>
                 <h4 class="programme-title"><font color="#808080">Track 10: AI &amp; Digital Transformation in Clinical Trials</font><br>
 “How AI and Digital Innovations are Reshaping the Clinical Trial Landscape”</h4>
+The era of artificial intelligence and digital solutions is revolutionising clinical trial workflows through advanced automation. Explore AI's transformative potential in reshaping trial conduct and operations and learn strategies for optimising implementation and ensuring responsible AI adoption and risk mitigation.
           <hr class="my-3 border-primary">
           <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
