@@ -387,11 +387,11 @@ As clinical research evolves to meet the demands of faster innovation, more incl
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-7 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/loiuse-goh/"><img src="/images/LouiseGoh.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/louise-goh/"><img src="/images/LouiseGoh.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/li-minghui/">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/louise-goh/">
                               <b>Dr Louise Goh</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Lead Specialist</div>
