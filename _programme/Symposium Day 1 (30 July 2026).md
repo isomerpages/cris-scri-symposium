@@ -258,9 +258,9 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
                       <a rel="noopener" class="speaker-name text-ellipsis" href="/raymond-chua/"><b>Adj Prof Raymond Chua</b></a>
                     </div>
                     <div class="text-ellipsis speaker-position">
-                      Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)
+                      Chief Executive Officer, Health Sciences Authority (HSA)
                     </div>
-                    <div class="text-ellipsis speaker-company">Chief Executive Officer, Health Sciences Authority (HSA)</div>
+                    <div class="text-ellipsis speaker-company">Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)</div>
 								</div>
                 </div>
               </div>
