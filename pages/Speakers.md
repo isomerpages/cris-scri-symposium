@@ -86,8 +86,8 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/RaymondChua.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Adj Prof Raymond Chua</h4>
-          <div class="speaker-position text-ellipsis">Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)</div>
-          <div class="speaker-company text-ellipsis">Chief Executive Officer, Health Sciences Authority (HSA)</div>
+          <div class="speaker-position text-ellipsis">Chief Executive Officer, Health Sciences Authority (HSA)</div>
+          <div class="speaker-company text-ellipsis">Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)</div>
         </a>
       </div>
 					<div class="col is-3 is-6-mobile">
@@ -257,6 +257,17 @@ description: ""
           <div class="speaker-company text-ellipsis">Singapore General Hospital, Duke-NUS Medical School</div>
         </a>
       </div>
+					      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/louise-goh">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/LouiseGoh.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Louise Goh</h4>
+          <div class="speaker-position text-ellipsis">Lead Specialist</div>
+          <div class="speaker-company text-ellipsis">Agency for Care Effectiveness (ACE)</div>
+          <div class="speaker-company text-ellipsis">Ministry of Health (Singapore)</div>
+        </a>
+      </div>
 				<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ho-wen-qi/">
           <div class="speaker-image-wrapper">
@@ -277,6 +288,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Parexel International</div>
         </a>
       </div>
+					    </div>				
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
 				      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/li-minghui">
           <div class="speaker-image-wrapper">
@@ -287,9 +301,6 @@ description: ""
           <div class="speaker-company text-ellipsis">University of Tennessee Health Science Center College of Pharmacy</div>
         </a>
       </div>
-					    </div>				
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 							<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/wendy-loo/">
           <div class="speaker-image-wrapper">
@@ -320,6 +331,9 @@ description: ""
           <div class="speaker-company text-ellipsis">Biomedical Research Council, A*STAR</div>
         </a>
       </div>
+					    </div>		
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
 										<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ngiam-kee-yuan/">
           <div class="speaker-image-wrapper">
@@ -330,9 +344,6 @@ description: ""
           <div class="speaker-company text-ellipsis">NUHS Corporate Office</div>
         </a>
       </div>
-					    </div>		
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 								<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/troy-puar/">
           <div class="speaker-image-wrapper">
@@ -364,6 +375,19 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Health Products Regulation Group, Health Sciences Authority</div>
         </a>
       </div>
+	</div>			
+
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+						      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/shi-luming">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/ShiLuming.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Shi Luming</h4>
+          <div class="speaker-position text-ellipsis">Scientific Director</div>
+          <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
+        </a>
+      </div>
 									<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/kelsi-smith">
           <div class="speaker-image-wrapper">
@@ -374,9 +398,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Quantify Research</div>
         </a>
       </div>	
-	</div>			
-
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 							<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -384,10 +405,10 @@ Lee Kong Chian School of Medicine</div>
           </div>
           <h4 class="speaker-name text-ellipsis">A/Prof David Tan</h4>
           <div class="speaker-position text-ellipsis">Group Director of Partnerships and Innovation</div>
-					          <div class="speaker-company text-ellipsis">National University Health System (NUHS)</div>
+					<div class="speaker-company text-ellipsis">National University Health System (NUHS)</div>
         </a>
       </div>
-						<div class="col is-3 is-6-mobile">
+							<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/dipti-thakkar">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/diptithakkar.png" alt="">
@@ -397,6 +418,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>
+		</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/daniel-ting">
           <div class="speaker-image-wrapper">
@@ -417,10 +441,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
-		</div>			
-
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/yong-wei-peng">
           <div class="speaker-image-wrapper">
