@@ -86,8 +86,8 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/RaymondChua.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Adj Prof Raymond Chua</h4>
-          <div class="speaker-position text-ellipsis">Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)</div>
-          <div class="speaker-company text-ellipsis">Chief Executive Officer, Health Sciences Authority (HSA)</div>
+          <div class="speaker-position text-ellipsis">Chief Executive Officer, Health Sciences Authority (HSA)</div>
+          <div class="speaker-company text-ellipsis">Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)</div>
         </a>
       </div>
 					<div class="col is-3 is-6-mobile">
