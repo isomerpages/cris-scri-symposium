@@ -209,7 +209,7 @@ description: ""
                 <h4 class="programme-title">
                   <font color="#808080">Plenary Panel</font><br>
 “Defining New Regulatory Paradigms for a Fast Changing World”</h4>
-As scientific innovation accelerates—from AI-enabled drug discovery and decentralized trials to cell and gene therapies—the traditional boundaries of regulation are being fundamentally tested. Regulatory agencies worldwide are increasingly called upon not only to safeguard safety and efficacy, but also to enable timely access, foster innovation, and respond to evolving healthcare needs.<br><br>This high-level plenary brings together global regulatory experts including Dr Robert Califf, Ms Emer Cooke, Adj A/Prof Raymond Chua, and Prof John Lim to explore how regulatory frameworks must evolve in a rapidly changing world.<br><br>Drawing on perspectives from the US, Europe, and Asia, this session will offer strategic insights into the future of regulatory science and governance—highlighting how forward-looking regulatory paradigms can unlock innovation, strengthen public trust, and ultimately accelerate patient access to transformative therapies.
+As scientific innovation accelerates—from AI-enabled drug discovery and decentralized trials to cell and gene therapies—the traditional boundaries of regulation are being fundamentally tested. Regulatory agencies worldwide are increasingly called upon not only to safeguard safety and efficacy, but also to enable timely access, foster innovation, and respond to evolving healthcare needs.<br><br>This high-level plenary brings together global regulatory experts including Dr Robert Califf, Ms Emer Cooke, Adj A/Prof Raymond Chua, and Prof John Lim to explore how regulatory frameworks must evolve in a rapidly changing world.
           <hr class="my-3 border-primary">
           <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -313,6 +313,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title">
                   <font color="#808080">Lunch Track</font><br>Sharing Session by HSA - GCP E6 Updates</h5>
+Stay current with the latest developments in Good Clinical Practice guidelines as the Health Sciences Authority shares important updates to ICH E6. Join the session to gain clarity on regulatory expectations and understand key changes of the guideline.
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -349,6 +350,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
                         <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 1: Trials That Matter</font><br>“Aligning Clinical Research with Health System and Societal Needs?”</h5>
+Clinical research bridges the gap between scientific inquiry and real-world health system needs. This session focuses on designing trials that generate evidence relevant to health needs and policy requirements. Gain understanding of conducting research that delivers tangible benefits to patients and health systems.
                 <hr class="my-3 border-primary">
 	  </div>
 </div></div>
@@ -359,6 +361,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
 								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 2: From Data to Decision</font><br>“Real-World Data as a Core Pillar of Modern Clinical Trials”</h5>
+As clinical research evolves to meet the demands of faster innovation, more inclusive participation, and real-world impact, real-world data (RWD) and real-world evidence (RWE) are emergeing as critical enablers across the clinical trial continuum. RWE is increasingly shaping how trials are deisnged, conducted, and translated into meaningful healthcare decisions. <br><br>This session explores how RWD can be transformed into decision-grade evidence to support regulatory, clinical and policy outcomes.
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -386,6 +389,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
 								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track A: Catalyzing Innovation and Equity</font><br>“The Strategic Role of Philanthropy in Advancing Clinical Trials”</h5>
+The role of philanthropy in clinical research is evolving from traditional funding to strategic partnership that addresses research gaps and promotes treatment equity.  Acquire insights into harnessing philanthropic resources to accelerate innovation and expand equitable access to clinical advances.
                 <hr class="my-3 border-primary">
 				</div></div></div>
 				</div></section> 
@@ -418,6 +422,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
             <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 3: Innovations in Trial Design &amp; Methodology</font><br>“Pragmatic &amp; Real-World Evidence Studies” </h5>
+Traditional clinical trial methodologies are evolving to better reflect real-world clinical practice and patient experiences. This session focuses on how pragmatic trial designs and real-world evidence studies are creating more meaningful connections between research findings and clinical practice.
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -477,6 +482,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 4: Managing Global / Regional Trial Networks </font><br>“Operational Excellence &amp; Ecosystem Partnerships”</h5>
+Managing clinical trials across multiple regions demands sophisticated operational frameworks and strategic collaborative relationships. Gain strategic insights into optimising network performance, enhancing trial efficiency, and leveraging collaborative partnerships to deliver high-quality clinical research across global sites.
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -552,6 +558,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
                   <b>30 Jul | 15:00 - 16:30</b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track B: Talent Development – Building a Future-Ready Clinical Research Workforce</font><br>“Leadership Development in Clinical Research: Creating the Next Generation of PIs and Trial Managers”</h5>
+The future of clinical research depends on cultivating skilled leaders who can navigate complex technological and methodological changes. Gain insights into building robust talent pipelines, fostering leadership capabilities, and creating sustainable workforce development initiatives.
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
