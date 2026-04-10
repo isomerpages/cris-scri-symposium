@@ -10,7 +10,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Adj Prof Raymond Chua</b></h4>
-<b>Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)<br>Chief Executive Officer, Health Sciences Authority (HSA)
+<b>Chief Executive Officer, Health Sciences Authority (HSA)<br>Deputy Director-General of Health (Health Regulation), Ministry of Health (Singapore)
 </b>
 	
 <p>Adj Prof Raymond Chua Swee Boon is a public health trained physician and presently the Deputy Director-General of Health (Health Regulation) at Singapore’s Ministry of Health (MoH) and the Chief Executive Officer of the Health Sciences Authority (HSA), overseeing the regulations of healthcare services, information and health products respectively. He is currently leading a regulatory transformation review to synergize regulatory operations across healthcare services, information, and products. </p><p>
