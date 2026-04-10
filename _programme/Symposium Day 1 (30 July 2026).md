@@ -395,7 +395,7 @@ As clinical research evolves to meet the demands of faster innovation, more incl
                               <b>Dr Louise Goh</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Lead Specialist</div>
-<div class="text-ellipsis speaker-company">Agency for Care Effectiveness (ACE), <br>Ministry of Health (Singapore)</div>
+<div class="text-ellipsis speaker-company">Agency for Care Effectiveness (ACE)<br>Ministry of Health (Singapore)</div>
                       </div>
                     </div>
                   </div>
