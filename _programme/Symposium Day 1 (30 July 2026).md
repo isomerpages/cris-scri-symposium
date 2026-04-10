@@ -362,7 +362,7 @@ Clinical research bridges the gap between scientific inquiry and real-world heal
                   <b>30 Jul | 13:00 - 14:30</b>&nbsp;
                 </div>
 								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 2: From Data to Decision</font><br>“Real-World Data as a Core Pillar of Modern Clinical Trials”</h5>
-As clinical research evolves to meet the demands of faster innovation, more inclusive participation, and real-world impact, real-world data (RWD) and real-world evidence (RWE) are emergeing as critical enablers across the clinical trial continuum. RWE is increasingly shaping how trials are deisnged, conducted, and translated into meaningful healthcare decisions. <br><br>This session explores how RWD can be transformed into decision-grade evidence to support regulatory, clinical and policy outcomes.
+As clinical research evolves to meet the demands of faster innovation, more inclusive participation, and real-world impact, real-world data (RWD) and real-world evidence (RWE) are emerging as critical enablers across the clinical trial continuum. RWE is increasingly shaping how trials are designed, conducted, and translated into meaningful healthcare decisions. <br><br>This session explores how RWD can be transformed into decision-grade evidence to support regulatory, clinical and policy outcomes.
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
