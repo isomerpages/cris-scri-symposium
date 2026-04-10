@@ -395,7 +395,6 @@ As clinical research evolves to meet the demands of faster innovation, more incl
                           </div>
                           <div class="text-ellipsis speaker-position">Lead Specialist</div>
 <div class="text-ellipsis speaker-company">Agency for Care Effectiveness (ACE), <br>Ministry of Health (Singapore)</div>
-<b>(Moderator)</b> 
                       </div>
                     </div>
                   </div>
