@@ -265,6 +265,7 @@ description: ""
           <h4 class="speaker-name text-ellipsis">Dr Louise Goh</h4>
           <div class="speaker-position text-ellipsis">Lead Specialist</div>
           <div class="speaker-company text-ellipsis">Agency for Care Effectiveness (ACE)</div>
+          <div class="speaker-company text-ellipsis">Ministry of Health (Singapore)</div>
         </a>
       </div>
 				<div class="col is-3 is-6-mobile">
