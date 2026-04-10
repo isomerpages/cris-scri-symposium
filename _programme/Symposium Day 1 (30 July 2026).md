@@ -405,7 +405,7 @@ As clinical research evolves to meet the demands of faster innovation, more incl
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-7 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/loiuse-goh/"><img src="/images/ShiLuming.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/shi-luming/"><img src="/images/ShiLuming.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
