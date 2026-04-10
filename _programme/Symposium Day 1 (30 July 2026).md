@@ -409,7 +409,7 @@ As clinical research evolves to meet the demands of faster innovation, more incl
 												</div></div>
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/li-minghui/">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/shi-luming/">
                               <b>Dr Shi Luming</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Scientific Director</div>
