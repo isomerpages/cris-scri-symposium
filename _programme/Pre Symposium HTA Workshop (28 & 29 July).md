@@ -286,7 +286,7 @@ Analysis</p>
 <p>16:30 - 17:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Budget Impact Analysis</p>
+<p>Evidence-to-Recommendation Framework in HEE</p>
 </td>
 </tr>
 <tr>
