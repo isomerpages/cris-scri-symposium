@@ -8,6 +8,10 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_WorkshopA1.png">
 </div>
 <h4><strong>Pre-Symposium Biostatistics Workshop on Advanced and Innovative Clinical Trial Designs</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Register_Now_Buttonx2_1.png">
+</div>
 <p>Please note:</p>
 <ul data-tight="true" class="tight">
 <li>
