@@ -209,7 +209,7 @@ description: ""
                 <h4 class="programme-title">
                   <font color="#808080">Plenary Panel</font><br>
 “Defining New Regulatory Paradigms for a Fast Changing World”</h4>
-As scientific innovation accelerates—from AI-enabled drug discovery and decentralized trials to cell and gene therapies—the traditional boundaries of regulation are being fundamentally tested. Regulatory agencies worldwide are increasingly called upon not only to safeguard safety and efficacy, but also to enable timely access, foster innovation, and respond to evolving healthcare needs.<br><br>This high-level plenary brings together global regulatory experts including Dr Robert Califf, Ms Emer Cooke, Adj A/Prof Raymond Chua, and Prof John Lim to explore how regulatory frameworks must evolve in a rapidly changing world.
+As scientific innovation accelerates—from AI-enabled drug discovery and decentralized trials to cell and gene therapies—the traditional boundaries of regulation are being fundamentally tested. Regulatory agencies worldwide are increasingly called upon not only to safeguard safety and efficacy, but also to enable timely access, foster innovation, and respond to evolving healthcare needs.<br><br>This high-level plenary brings together global regulatory experts including Dr Robert Califf, Ms Emer Cooke, Adj A/Prof (Dr) Raymond Chua, and Prof John Lim to explore how regulatory frameworks must evolve in a rapidly changing world.
           <hr class="my-3 border-primary">
           <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -255,7 +255,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
                   </div>
                   <div class="col is-8">
                     <div class="speaker-name text-ellipsis">
-                      <a rel="noopener" class="speaker-name text-ellipsis" href="/raymond-chua/"><b>Adj Prof Raymond Chua</b></a>
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/raymond-chua/"><b>Adj Prof (Dr) Raymond Chua</b></a>
                     </div>
                     <div class="text-ellipsis speaker-position">
                       Chief Executive Officer, Health Sciences Authority (HSA)
