@@ -19,6 +19,6 @@ With over 25 years of experience in both public healthcare and the private pharm
 
 During the COVID-19 pandemic, he served as Deputy Commander of the Medical Operations Taskforce, playing a key role in clinical operations, testing infrastructure, and enforcement of control orders. </p><p>
 
-Adj Prof (Dr) Raymond holds adjunct positions at the NUS Saw Swee Hock School of Public Health and Duke-NUS Centre of Regulatory Excellence, and academic credentials including a Bachelor of Medicine and Surgery from NUS, an MSc in Public Health from the London School of
+Adj Prof (Dr) Raymond Chua holds adjunct positions at the NUS Saw Swee Hock School of Public Health and Duke-NUS Centre of Regulatory Excellence, and academic credentials including a Bachelor of Medicine and Surgery from NUS, an MSc in Public Health from the London School of
 Hygiene and Tropical Medicine, and an MBA from the University of Nottingham.</p>
 </div></div>
