@@ -10,7 +10,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewProgramme.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme1504.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
