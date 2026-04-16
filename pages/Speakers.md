@@ -565,7 +565,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/ChaiJiaHui.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Ms Chai Jia Hui</h4>
+          <h4 class="speaker-name text-ellipsis">Ms Jia Hui Chai</h4>
           <div class="speaker-position text-ellipsis">Health Economist</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
@@ -596,7 +596,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/LiMingHui.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Assoc Prof Li Minghui</h4>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Minghui Li</h4>
           <div class="speaker-position text-ellipsis">Associate Professor</div>
           <div class="speaker-company text-ellipsis">University of Tennessee Health Science Center College of Pharmacy</div>
         </a>
@@ -629,7 +629,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/ShiLuming.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Shi Luming</h4>
+          <h4 class="speaker-name text-ellipsis">Dr Luming Shi</h4>
           <div class="speaker-position text-ellipsis">Scientific Director</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
