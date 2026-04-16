@@ -9,11 +9,11 @@ description: ""
 <img src="/images/WongCherYi.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Ms Wong Cher Yi</b></h4>
+	<h4><b>Ms Cher Yi Wong</b></h4>
 <b>Director of Clinical Trial Unit and Senior Clinical Research Coordinator
 <br>National University Heart Centre Singapore</b>
 	
-<p>Ms Wong Cher Yi joined the National University Heart Centre Singapore Clinical Trial Unit (NUHCS CTU) in 2016 and is currently Director of CTU and Senior Clinical Research Coordinator.</p><p>
+<p>Ms Wong joined the National University Heart Centre Singapore Clinical Trial Unit (NUHCS CTU) in 2016 and is currently Director of CTU and Senior Clinical Research Coordinator.</p><p>
 
 Her career has been shaped by years of working alongside experienced investigators, managers, and clinical research leaders, from whom she continues to learn. With a background rooted in hands-on trial coordination and ongoing leadership learning, Ms Wong supports the management and development of the CTU, overseeing study workflows, start-up activities, and the execution of industry-sponsored and investigator-initiated studies.</p><p>
 
