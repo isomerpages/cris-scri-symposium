@@ -9,7 +9,7 @@ description: ""
 <img src="/images/ChingLungCheung.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Prof Ching Lung Cheung</b></h4>
+	<h4><b>Prof Ching-Lung Cheung</b></h4>
 <b>Director, Real‑World Study and Application Centre (RWSAC)<br>
 Greater Bay Area International Clinical Trial Institute (GBAICTI), Hong Kong</b>
 	
