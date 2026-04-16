@@ -9,7 +9,7 @@ description: ""
 <img src="/images/CheungYinBun.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Prof Cheung Yin Bun</b></h4>
+	<h4><b>Prof Yin Bun Cheung</b></h4>
 <b>Professor, Centre for Biomedical Science<br>
 	Duke-NUS Medical School</b>
 	
