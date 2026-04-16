@@ -531,7 +531,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/ShenLiang.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Shen Liang</h4>
+          <h4 class="speaker-name text-ellipsis">Dr Liang Shen</h4>
           <div class="speaker-position text-ellipsis">Deputy Director, Biostatistics</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
@@ -586,7 +586,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/GuoLiang.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Guo Liang</h4>
+          <h4 class="speaker-name text-ellipsis">Dr Liang Guo</h4>
           <div class="speaker-position text-ellipsis">Head, Health Economics and Outcomes Research (HEOR)</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
