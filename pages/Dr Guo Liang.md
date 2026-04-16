@@ -9,11 +9,11 @@ description: ""
 <img src="/images/GuoLiang.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Dr Guo Liang</b></h4>
+	<h4><b>Dr Liang Guo</b></h4>
 <b>Head, Health Economics and Outcomes Research (HEOR)<br>Singapore Clinical Research Institute (SCRI)
 </b>
 	
-<p>Dr Guo Liang is Head of the Health Economics and Outcomes Research (HEOR) team at Singapore Clinical Research Institute (SCRI), under the Consortium for Clinical Research and Innovation, Singapore (CRIS). She is a senior epidemiologist and also an active member of Cochrane Singapore. Her role covers technical support, methodological consultation, and providing training on clinical research, evidence synthesis, clinical guideline development, and health technology assessment.</p><p>
+<p>Dr Guo is Head of the Health Economics and Outcomes Research (HEOR) team at Singapore Clinical Research Institute (SCRI), under the Consortium for Clinical Research and Innovation, Singapore (CRIS). She is a senior epidemiologist and also an active member of Cochrane Singapore. Her role covers technical support, methodological consultation, and providing training on clinical research, evidence synthesis, clinical guideline development, and health technology assessment.</p><p>
 
 Dr Guo has over 15 years of experience in public health with a background of Bachelor of Medicine, Master of Public Health, and Master of Health Economics and Pharmacoeconomics. Her professional experience spans the Center for Disease Control and Prevention, tertiary hospital, and national research institutes. Prior to joining SCRI, her work focuses on syndromic surveillance, epidemic preparedness and management, community health promotion, and project management of large-scale clinical and public health research initiatives.</p><p>
 
