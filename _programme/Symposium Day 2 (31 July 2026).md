@@ -152,7 +152,7 @@ Explore how ecosystem partnerships are transforming the healthcare innovation pi
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
                             <a rel="noopener" class="speaker-name text-ellipsis" href="/yong-wei-peng/">
-                              <b>Dr Yong Wei Peng</b></a>
+                              <b>Dr Wei Peng Yong</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Associate Director (Research) and Senior Consultant</div>
 <div class="text-ellipsis speaker-company">National University Cancer Institute, Singapore (NCIS)
@@ -169,7 +169,7 @@ Explore how ecosystem partnerships are transforming the healthcare innovation pi
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
                             <a rel="noopener" class="speaker-name text-ellipsis" href="/ho-wen-qi/">
-                              <b>Dr Ho Wen Qi</b></a>
+                              <b>Dr Wen Qi Ho</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Therapeutics Lead</div>
 <div class="text-ellipsis speaker-company">ClavystBio</div>
@@ -301,7 +301,7 @@ How can Asia emerge as a leading global clinical trial destination? Gain insight
                   </div>
                   <div class="col is-8">
                     <div class="speaker-name text-ellipsis">
-                      <a rel="noopener" class="speaker-name text-ellipsis" href="/chng-wee-joo/"><b>Prof Chng Wee Joo</b></a>
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/chng-wee-joo/"><b>Prof Wee Joo Chng</b></a>
                     </div>
                     <div class="text-ellipsis speaker-position">
                       Executive Director
@@ -448,7 +448,7 @@ The era of artificial intelligence and digital solutions is revolutionising clin
                   </div>
                   <div class="col is-8">
                     <div class="speaker-name text-ellipsis">
-                      <a rel="noopener" class="speaker-name text-ellipsis" href="/ngiam-kee-yuan/"><b>Adj Prof Ngiam Kee Yuan</b></a>
+                      <a rel="noopener" class="speaker-name text-ellipsis" href="/ngiam-kee-yuan/"><b>Adj Prof Kee Yuan Ngiam</b></a>
                     </div>
                     <div class="text-ellipsis speaker-position">
                       Head, Artificial Intelligence Office

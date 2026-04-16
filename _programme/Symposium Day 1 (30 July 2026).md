@@ -364,6 +364,24 @@ Clinical research bridges the gap between scientific inquiry and real-world heal
 								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 2: From Data to Decision</font><br>“Real-World Data as a Core Pillar of Modern Clinical Trials”</h5>
 As clinical research evolves to meet the demands of faster innovation, more inclusive participation, and real-world impact, real-world data (RWD) and real-world evidence (RWE) are emerging as critical enablers across the clinical trial continuum. RWE is increasingly shaping how trials are designed, conducted, and translated into meaningful healthcare decisions. <br><br>This session explores how RWD can be transformed into decision-grade evidence to support regulatory, clinical and policy outcomes.
                 <hr class="my-3 border-primary">
+								                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/ching-lung-cheung/"><img src="/images/ChingLungCheung.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/ching-lung-cheung/">
+                              <b>Prof Ching-Lung Cheung</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Director, Real‑World Study and Application Centre (RWSAC)</div>
+<div class="text-ellipsis speaker-company">Greater Bay Area International Clinical Trial Institute (GBAICTI), Hong Kong</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
@@ -392,7 +410,7 @@ As clinical research evolves to meet the demands of faster innovation, more incl
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
                             <a rel="noopener" class="speaker-name text-ellipsis" href="/li-minghui/">
-                              <b>Assoc Prof Li Minghui</b></a>
+                              <b>Assoc Prof Minghui Li</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Associate Professor</div>
 <div class="text-ellipsis speaker-company">University of Tennessee Health Science Center College of Pharmacy</div>
@@ -410,7 +428,7 @@ As clinical research evolves to meet the demands of faster innovation, more incl
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
                             <a rel="noopener" class="speaker-name text-ellipsis" href="/shi-luming/">
-                              <b>Dr Shi Luming</b></a>
+                              <b>Dr Luming Shi</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Scientific Director</div>
 <div class="text-ellipsis speaker-company">Singapore Clinical Research Institute (SCRI)</div>
@@ -641,7 +659,7 @@ The future of clinical research depends on cultivating skilled leaders who can n
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
                             <a rel="noopener" class="speaker-name text-ellipsis" href="/wong-cher-yi/">
-                              <b>Ms Wong Cher Yi</b></a>
+                              <b>Ms Cher Yi Wong</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Director, Clinical Trial Unit</div>
 <div class="text-ellipsis speaker-company">National University Heart Centre Singapore

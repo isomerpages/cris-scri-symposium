@@ -1,5 +1,5 @@
 ---
-title: Ms Chai Jia Hui
+title: Ms Jia Hui Chai
 permalink: /chai-jia-hui/
 variant: markdown
 description: ""
@@ -9,7 +9,7 @@ description: ""
 <img src="/images/ChaiJiaHui.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Ms Chai Jia Hui</b></h4>
+	<h4><b>Ms Jia Hui Chai</b></h4>
 <b>Health Economist<br>Singapore Clinical Research Institute (SCRI)</b>
 	
 <p>Ms Chai is a Health Economist with close to a decade of experience in economic modelling, health technology assessment, and health services research. Her work focuses on economic evaluation, the use of real-world evidence, and methodological development.</p><p>

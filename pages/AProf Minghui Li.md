@@ -1,5 +1,5 @@
 ---
-title: AProf Li Minghui
+title: AProf Minghui Li
 permalink: /li-minghui/
 variant: markdown
 description: ""
@@ -9,10 +9,10 @@ description: ""
 <img src="/images/LiMingHui.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Assoc Prof Li Minghui</b></h4>
+	<h4><b>Assoc Prof Minghui Li</b></h4>
 <b>Associate Professor<br>University of Tennessee Health Science Center College of Pharmacy</b>
 	
-<p>Prof Li Minghui is an Associate Professor at the University of Tennessee Health Science Center College of Pharmacy. </p><p>
+<p>Prof Li is an Associate Professor at the University of Tennessee Health Science Center College of Pharmacy. </p><p>
 
 He earned his Ph.D. in Pharmaceutical and Health Outcomes from the University of South Carolina and completed a Fellowship in Artificial Intelligence (AI) and Machine Learning (ML) at the University of North Texas Health Science Center. </p><p>
 
