@@ -9,7 +9,7 @@ description: ""
 <img src="/images/ShenLiang.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Dr Shen Liang</b></h4>
+	<h4><b>Dr Liang Shen</b></h4>
 <b>Deputy Director, Biostatistics<br>Singapore Clinical Research Institute (SCRI)</b>
 	
 <p>Dr Shen Liang is the Deputy Director of Biostatistics at SCRI.</p><p>
