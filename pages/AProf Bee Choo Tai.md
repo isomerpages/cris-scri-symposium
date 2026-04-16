@@ -9,7 +9,7 @@ description: ""
 <img src="/images/TaiBeeChoo.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>Assoc Prof Tai Bee Choo</b></h4>
+	<h4><b>Assoc Prof Bee Choo Tai</b></h4>
 <b>Biostatistician and Clinical Trials Expert<br>NUS Saw Swee Hock School of Public Health<br>NUS Yong Loo Lin School of Medicine</b>
 	
 <p>Associate Professor Tai is a distinguished biostatistician and clinical trials expert at the National University of Singapore, holding joint appointments at the NUS Saw Swee Hock School of Public Health and the NUS Yong Loo Lin School of Medicine. </p><p>
