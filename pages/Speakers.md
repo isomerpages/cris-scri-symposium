@@ -541,7 +541,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/TaiBeeChoo.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Assoc Prof Tai Bee Choo</h4>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Bee Choo Tai</h4>
           <div class="speaker-position text-ellipsis">Biostatistician and Clinical Trials Expert </div>
           <div class="speaker-company text-ellipsis">NUS Saw Swee Hock School of Public Health</div>
 					          <div class="speaker-company text-ellipsis">NUS Yong Loo Lin School of Medicine</div>
