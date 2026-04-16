@@ -197,7 +197,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/ChingLungCheung.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Prof Ching Lung Cheung</h4>
+          <h4 class="speaker-name text-ellipsis">Prof Ching-Lung Cheung</h4>
           <div class="speaker-position text-ellipsis">Director, Real‑World Study and Application Centre (RWSAC)</div>
           <div class="speaker-company text-ellipsis">Greater Bay Area International Clinical Trial Institute (GBAICTI), Hong Kong</div>
         </a>
@@ -220,7 +220,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/ChngWeeJoo.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Prof Chng Wee Joo</h4>
+          <h4 class="speaker-name text-ellipsis">Prof Wee Joo Chng</h4>
           <div class="speaker-position text-ellipsis">Executive Director</div>
           <div class="speaker-company text-ellipsis">Singapore Translational Cancer Consortium</div>
         </a>
@@ -284,7 +284,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/HoWenQi.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Ho Wen Qi</h4>
+          <h4 class="speaker-name text-ellipsis">Dr Wen Qi Ho</h4>
           <div class="speaker-position text-ellipsis">Therapeutics Lead</div>
           <div class="speaker-company text-ellipsis">ClavystBio</div>
         </a>
@@ -307,7 +307,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/LiMingHui.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Assoc Prof Li Minghui</h4>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Minghui Li</h4>
           <div class="speaker-position text-ellipsis">Associate Professor</div>
           <div class="speaker-company text-ellipsis">University of Tennessee Health Science Center College of Pharmacy</div>
         </a>
@@ -350,7 +350,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/NgiamKeeYuan.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Adj Prof Ngiam Kee Yuan</h4>
+          <h4 class="speaker-name text-ellipsis">Adj Prof Kee Yuan Ngiam</h4>
           <div class="speaker-position text-ellipsis">Head, Artificial Intelligence Office</div>
           <div class="speaker-company text-ellipsis">NUHS Corporate Office</div>
         </a>
@@ -394,7 +394,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/ShiLuming.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Shi Luming</h4>
+          <h4 class="speaker-name text-ellipsis">Dr Luming Shi</h4>
           <div class="speaker-position text-ellipsis">Scientific Director</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
@@ -447,7 +447,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/WongCherYi.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Ms Wong Cher Yi</h4>
+          <h4 class="speaker-name text-ellipsis">Ms Cher Yi Wong</h4>
           <div class="speaker-position text-ellipsis">Director, Clinical Trial Unit</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
@@ -457,7 +457,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/YongWeiPeng.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Yong Wei Peng</h4>
+          <h4 class="speaker-name text-ellipsis">Dr Wei Peng Yong</h4>
           <div class="speaker-position text-ellipsis">Associate Director (Research) and Senior Consultant</div>
           <div class="speaker-company text-ellipsis">National University Cancer Institute, Singapore (NCIS)</div>
         </a>
@@ -498,7 +498,7 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/CheungYinBun.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Prof Cheung Yin Bun</h4>
+          <h4 class="speaker-name text-ellipsis">Prof Yin Bun Cheung</h4>
           <div class="speaker-position text-ellipsis">Professor, Centre for Biomedical Science</div>
           <div class="speaker-company text-ellipsis">Duke-NUS Medical School</div>
         </a>
