@@ -187,7 +187,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/ChengHe.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr Cheng He</h4>
+          <h4 class="speaker-name text-ellipsis">Dr He Cheng</h4>
           <div class="speaker-position text-ellipsis">Vice President of Research and Development</div>
           <div class="speaker-company text-ellipsis">MiRXES</div>
         </a>
