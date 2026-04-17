@@ -12,7 +12,7 @@ description: ""
 <h4><strong>Gold Sponsor</strong></h4>
 
 <div class="row">
-<div class="col is-6"><a href="https://www.nhghealth.com.sg/"><img src="/images/NHGHealth.jpg"></a></div>
+<div class="col is-6 is-10-mobile"><a href="https://www.nhghealth.com.sg/"><img src="/images/NHGHealth.jpg"></a></div>
 </div>
 
 
