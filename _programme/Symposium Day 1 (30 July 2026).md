@@ -369,12 +369,12 @@ As clinical research evolves to meet the demands of faster innovation, more incl
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-7 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/ching-lung-cheung/"><img src="/images/ChingLungCheung.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/ching-lung-cheung/"><img src="/images/ChingLungCheung2.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
                             <a rel="noopener" class="speaker-name text-ellipsis" href="/ching-lung-cheung/">
-                              <b>Prof Ching-Lung Cheung</b></a>
+                              <b>Prof Ching Lung Cheung</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Director, Real‑World Study and Application Centre (RWSAC)</div>
 <div class="text-ellipsis speaker-company">Greater Bay Area International Clinical Trial Institute (GBAICTI), Hong Kong</div>

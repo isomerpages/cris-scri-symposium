@@ -195,9 +195,9 @@ description: ""
 	<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ching-lung-cheung">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/ChingLungCheung.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/ChingLungCheung2.png" alt="">
           </div>
-          <h4 class="speaker-name text-ellipsis">Prof Ching-Lung Cheung</h4>
+          <h4 class="speaker-name text-ellipsis">Prof Ching Lung Cheung</h4>
           <div class="speaker-position text-ellipsis">Director, Real‑World Study and Application Centre (RWSAC)</div>
           <div class="speaker-company text-ellipsis">Greater Bay Area International Clinical Trial Institute (GBAICTI), Hong Kong</div>
         </a>
