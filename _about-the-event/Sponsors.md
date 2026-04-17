@@ -18,17 +18,17 @@ description: ""
 
 <h4><strong>Silver Sponsor</strong></h4>
 <div class="row">
-<div class="col is-5 is-5-mobile"><a href="https://www.gilead.com/"><img src="/images/GILEAD.jpg"></a></div>
+<div class="col is-5 is-9-mobile"><a href="https://www.gilead.com/"><img src="/images/GILEAD.jpg"></a></div>
 </div>
 
 <h4><strong>Bronze Sponsors</strong></h4>
 <div class="row">
-<div class="col is-4 is-4-mobile"><a href="https://www.boehringer-ingelheim.com/"><img src="/images/Boehringer_Ingelheim.jpg"></a></div>
-<div class="col is-4 is-4-mobile"><a href="https://www.zuelligpharma.com/"><img src="/images/ZuelligPharma.jpg"></a></div></div>
+<div class="col is-4 is-8-mobile"><a href="https://www.boehringer-ingelheim.com/"><img src="/images/Boehringer_Ingelheim.jpg"></a></div>
+<div class="col is-4 is-8-mobile"><a href="https://www.zuelligpharma.com/"><img src="/images/ZuelligPharma.jpg"></a></div></div>
 	
 <h4><strong>Exhibitors</strong></h4>
 <div class="row">
-<div class="col is-3 is-3-mobile"><a href="https://cytekbio.com/"><img src="/images/CytekBioscience.jpg"></a></div>
+<div class="col is-3 is-7-mobile"><a href="https://cytekbio.com/"><img src="/images/CytekBioscience.jpg"></a></div>
 </div>
 	
 
