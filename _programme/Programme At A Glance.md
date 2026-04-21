@@ -44,9 +44,10 @@ note that availability for both Pre-Symposium Workshops are limited to
 <p><strong>SCRI Clinical Trials Symposium 2026 </strong>and the <strong>Pre-Symposium Workshops </strong>are <strong>Accredited CME Events</strong> approved
 by the Singapore Medical Council.
 <br>
-<br><strong>Total: Up to a maximum of 16 Cat-1B CME Points</strong>
-<br>- Pre-Symposium Workshop: 8 Cat-1B CME Points (4 points per day)
-<br>- SCRI Clinical Trials Symposium: 8 Cat-1B CME Points (4 points per day)
+<br><strong>Total: Up to 16 Cat-1B CME Points</strong>
+<br>- Pre-Symposium Workshop: 8 Cat-1B CME Points (4 points per day of workshop)
+<br>- SCRI Clinical Trials Symposium: 8 Cat-1B CME Points (4 points per day
+of Symposium)
 <br>
 <br>CPE (For Nurses Only) is pending for approval</p>
 <p></p>
