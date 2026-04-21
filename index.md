@@ -86,10 +86,12 @@ sections:
   - infopic:
       title: CME / CPE Points
       id: infopic
-      description: Accredited CME Event approved by the Singapore Medical Council. CPE
-        (for nurses only) is pending for approval.
+      description: This is an Accredited CME Event approved by the Singapore Medical
+        Council (4 CME Points/Day).  CPE (for nurses only) is pending for
+        approval.
       button: Register Now
       url: /register/
       image: /images/SCRIDAY1_128.jpg
       alt: Image alt text
+      subtitle: Up to 16 CAT-1B CME Points
 ---
