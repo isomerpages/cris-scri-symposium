@@ -28,10 +28,10 @@ access to the Main Symposium.</p>
 </div>
 </li>
 <li>
-<p><strong>Accredited CME Event</strong> approved by the Singapore Medical
-Council.
+<p>This workshop is an <strong>Accredited CME Event</strong> approved by the
+Singapore Medical Council.
 <br>Total: 8 Cat-1B CME Points (4 points for Day 1, 4 points for Day 2).
-<br>CPE (For Nurses Only) is pending for approval</p>
+<br>CPE (For Nurses Only) is pending for approval.</p>
 <hr>
 <p></p>
 </li>
