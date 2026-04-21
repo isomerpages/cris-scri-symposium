@@ -49,8 +49,7 @@ by the Singapore Medical Council.
 <br>- SCRI Clinical Trials Symposium: 8 Cat-1B CME Points (4 points per day
 of Symposium)
 <br>
-<br>CPE (For Nurses Only) is pending for approval</p>
-<p></p>
+<br>CPE (For Nurses Only) is pending for approval.</p>
 </li>
 </ul>
 <p></p>
