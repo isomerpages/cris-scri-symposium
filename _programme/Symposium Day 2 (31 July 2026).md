@@ -504,7 +504,12 @@ The era of artificial intelligence and digital solutions is revolutionising clin
       </div>
     </div>
   </div>
-	<p>*Please note that the programme may be subject to change without prior notice.<br>Tracks 1-10 will comprise of a 45-min presentation by speakers followed by 45-min panel discussion. </p>
+	<p>*Please note that the programme may be subject to change without prior notice.<br>Tracks 1-10 will comprise of a 45-min presentation by speakers followed by 45-min panel discussion.<br><br> 
+</p><div class="row"><div class="col is-3 is-4-mobile"><img src="/images/SMC_Logo.png" class="speaker-image mb-4"></div></div>
+*The Symposium is an <b>Accredited CME Event</b> approved by the Singapore Medical Council.<br>  
+Total: 8 Cat-1B CME Points (4 points for Day 1, 4 points for Day 2).<br>   
+CPE (For Nurses Only) is pending for approval.<p></p>
+</section>
 
 
 <style type="text/css">
@@ -541,4 +546,4 @@ The era of artificial intelligence and digital solutions is revolutionising clin
   }
 	.bg-different { background-color: #f2fcfc; }
 	.bg-notice { background-color: #F4F4F4; }
-</style></section>
+</style>
