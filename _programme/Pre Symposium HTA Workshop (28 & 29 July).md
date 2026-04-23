@@ -310,10 +310,11 @@ Analysis</p>
 organiser</p>
 <hr>
 <h4>HTA Workshop Speakers</h4>
-<hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTASpeakers4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTASpeakers5.png">
 </div>
+<hr>
 <h4><strong>About the SCRI Health Economics and Outcomes Research (HEOR) Unit</strong></h4>
 <p>HEOR under SCRI is a multidisciplinary team comprising epidemiologists
 and health economists with strengths in study design, grant writing, data
