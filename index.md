@@ -99,7 +99,7 @@ sections:
         phone. If in doubt, call ScamShield helpline at 1799, or visit their
         website.
       button: ScamShield Website
-      url: www.scamshield.gov.sg
+      url: https://www.scamshield.gov.sg/
       image: /images/Beware.png
       alt: Image alt text
 ---
