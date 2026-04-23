@@ -292,7 +292,10 @@ implementation of novel research methodologies.</p>
 <p>** Programme is subjected to changes without prior notification from the
 organiser</p>
 <hr>
-<h4><strong>Biostatistics Workshop Speakers</strong></h4><a class="isomer-image-wrapper" href="/speakers#Biostats"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/BiostatsSpeakers.png"></a>
+<h4><strong>Biostatistics Workshop Speakers</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BiostatsSpeakers2.png">
+</div>
 <hr>
 <h4><strong>About the SCRI Biostatistics Unit</strong></h4>
 <p>SCRI’s Biostatistics team is a multidisciplinary group of statisticians
