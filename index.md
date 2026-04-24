@@ -8,10 +8,8 @@ description: The SCRI Clinical Trials Symposium 2026 is back - bolder, bigger,
   transformative collaboration.
 image: /images/At_A_Glance_05.png
 permalink: /
-notification: Singapore Clinical Research Institute (SCRI) will NEVER ask you to
-  transfer money or disclose bank details over a call. If in doubt, call the
-  24/7 ScamShield helpline at 1799, or visit the ScamShield website at
-  www.scamshield.gov.sg
+notification: Accredited CME Event | Visit the Programme page for the latest
+  Symposium programme details.
 sections:
   - hero:
       background: /images/SCRI_Banner_2000x800B.jpg
@@ -94,4 +92,14 @@ sections:
       image: /images/SCRIDAY1_128.jpg
       alt: Image alt text
       subtitle: Up to 16 CAT-1B CME Points
+  - infopic:
+      title: ScamShield
+      id: infopic
+      description: SCRI will never ask for money transfers or bank log-in details by
+        phone. If in doubt, call ScamShield helpline at 1799, or visit their
+        website.
+      button: ScamShield Website
+      url: https://www.scamshield.gov.sg/
+      image: /images/Beware.png
+      alt: Image alt text
 ---
