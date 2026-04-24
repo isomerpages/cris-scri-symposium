@@ -45,6 +45,22 @@ description: ""
 Discover how visionary women leaders are revolutionising the global clinical trials landscape. From innovative practices to navigating industry challenges, learn strategies these trailblazers use to drive change and shape the future of clinical research.
           <hr class="my-3 border-primary">
                 <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-5 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/daphne-gardner/"><img src="/images/DaphneGardnerTan.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/daphne-gardner/">
+                              <b>Adj Assoc Prof Daphne Gardner</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Senior Consultant Endocrinologist</div>
+<div class="text-ellipsis speaker-company">Singapore General Hospital</div>
+                      </div>
+                    </div>
+                  </div>
 									                  <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
