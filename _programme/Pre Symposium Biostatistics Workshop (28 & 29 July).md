@@ -346,7 +346,7 @@ implementation of novel research methodologies.</p>
 <p>Leveraging External Controls in the Design of Single-Arm Trials</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assoc Prof Tai Bee Choo</p>
+<p>Assoc Prof Bee Choo Tai</p>
 </td>
 </tr>
 <tr>
