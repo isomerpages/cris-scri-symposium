@@ -258,7 +258,7 @@ implementation of novel research methodologies.</p>
 <p>Power and Precision: Sample Size Estimation and Re-estimation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Shen Liang</p>
+<p>Dr Liang Shen</p>
 </td>
 </tr>
 <tr>
