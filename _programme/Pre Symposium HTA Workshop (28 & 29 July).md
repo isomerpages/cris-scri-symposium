@@ -74,8 +74,9 @@ experience in economic modelling.</p>
 <p></p>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -86,6 +87,9 @@ experience in economic modelling.</p>
 <th rowspan="1" colspan="4">
 <p>Pre-Symposium HTA Workshop Day 1 (28 July 2026)</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -94,6 +98,10 @@ experience in economic modelling.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Speakers</strong>
 </p>
 </td>
 </tr>
@@ -105,6 +113,9 @@ experience in economic modelling.</p>
 <p>Health Technology Assessment (HTA) for Policy and Coverage: Navigating
 Global &amp; Local Regulatory Requirements by HTA Agencies</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Dr Fereen Liew</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -114,6 +125,9 @@ Global &amp; Local Regulatory Requirements by HTA Agencies</p>
 <p>Understanding Health Economic Evaluation (HEE) and Modelling: Principles,
 Methods, and Applications</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Dr Shi Luming</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -121,6 +135,9 @@ Methods, and Applications</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Morning Break</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -131,6 +148,9 @@ Methods, and Applications</p>
 <p>Approaches to Integrating Real World Data/Real World Evidence (RWE) into
 HEE</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Adj Prof Kelvin Bryan Tan</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -140,6 +160,9 @@ HEE</p>
 <p>Conducting Meta-Analysis and Network Meta-Analysis to Generate Input Parameters
 for Model-Based HEE</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Dr Charles Zheng</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -147,6 +170,9 @@ for Model-Based HEE</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Lunch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -156,6 +182,9 @@ for Model-Based HEE</p>
 <td rowspan="1" colspan="3">
 <p>TreeAge Techniques for Advanced HEE Modelling</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Dr Belinda Orme</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -163,6 +192,9 @@ for Model-Based HEE</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Afternoon Break</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -172,6 +204,9 @@ for Model-Based HEE</p>
 <td rowspan="1" colspan="3">
 <p>International Reference Case for Evaluating Diagnostic Tests</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Dr Xiao Jun Wang</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -179,6 +214,9 @@ for Model-Based HEE</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Case Study: HEE of Diagnostic Test</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jia Hui Chai</p>
 </td>
 </tr>
 <tr>
@@ -188,12 +226,16 @@ for Model-Based HEE</p>
 <td rowspan="1" colspan="3">
 <p>Q &amp; A</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -203,6 +245,9 @@ for Model-Based HEE</p>
 <tr>
 <th rowspan="1" colspan="4">
 <p>Pre-Symposium HTA Workshop Day 2 (29 July 2026)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -214,6 +259,10 @@ for Model-Based HEE</p>
 <p><strong>Programme</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Speakers</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -222,6 +271,9 @@ for Model-Based HEE</p>
 <td rowspan="1" colspan="3">
 <p>Incorporating Health Outcomes into Diagnostic HEE Model</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Jia Hui Chai</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -229,6 +281,9 @@ for Model-Based HEE</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Morning Break</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -239,6 +294,9 @@ for Model-Based HEE</p>
 <p>Ensuring Robustness in Diagnostic HEE: Theory &amp; Practice for Uncertainty
 Analysis</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Dr Brendon Zhou</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -246,6 +304,9 @@ Analysis</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Interpreting Results of Diagnostic HEE Model</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Julie Zhu</p>
 </td>
 </tr>
 <tr>
@@ -255,6 +316,9 @@ Analysis</p>
 <td rowspan="1" colspan="3">
 <p>Lunch</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -262,6 +326,9 @@ Analysis</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Standards of Reporting HTA Findings</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Liang Guo</p>
 </td>
 </tr>
 <tr>
@@ -271,6 +338,9 @@ Analysis</p>
 <td rowspan="1" colspan="3">
 <p>R programing for HEE modelling</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Dr Zaw Myo Tun</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -278,6 +348,9 @@ Analysis</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Afternoon Break</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -287,6 +360,9 @@ Analysis</p>
 <td rowspan="1" colspan="3">
 <p>AI application in HEE</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Asso Prof Minghui Li</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -295,6 +371,9 @@ Analysis</p>
 <td rowspan="1" colspan="3">
 <p>Evidence-to-Recommendation Framework in HEE</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Edwin Chan</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -302,6 +381,9 @@ Analysis</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Q &amp; A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
