@@ -78,8 +78,9 @@ implementation of novel research methodologies.</p>
 <p></p>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -87,7 +88,7 @@ implementation of novel research methodologies.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="4">
+<th rowspan="1" colspan="5">
 <p>Pre-Symposium Biostatistics Workshop Day 1 (28 July 2026)</p>
 </th>
 </tr>
@@ -100,6 +101,10 @@ implementation of novel research methodologies.</p>
 <p><strong>Programme</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Speakers</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -107,6 +112,9 @@ implementation of novel research methodologies.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>The Research Lifecycle: From Logic to Evidence Generation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Yin Bun Cheung</p>
 </td>
 </tr>
 <tr>
@@ -116,6 +124,9 @@ implementation of novel research methodologies.</p>
 <td rowspan="1" colspan="3">
 <p>Morning Break</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -123,6 +134,9 @@ implementation of novel research methodologies.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Early-Phase Innovations: Modern Dose-Finding &amp; Phase I Strategies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Yin Bun Cheung</p>
 </td>
 </tr>
 <tr>
@@ -132,6 +146,9 @@ implementation of novel research methodologies.</p>
 <td rowspan="1" colspan="3">
 <p>Lunch</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -139,6 +156,9 @@ implementation of novel research methodologies.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Adaptive Designs: Enhancing Flexibility and Efficiency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assoc Prof Bibhas Chakraborty</p>
 </td>
 </tr>
 <tr>
@@ -148,6 +168,9 @@ implementation of novel research methodologies.</p>
 <td rowspan="1" colspan="3">
 <p>Afternoon Break 1</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -155,6 +178,9 @@ implementation of novel research methodologies.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Precision Medicine: Basket, Umbrella, and Platform Trials</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nabilah Rahman</p>
 </td>
 </tr>
 <tr>
@@ -164,6 +190,9 @@ implementation of novel research methodologies.</p>
 <td rowspan="1" colspan="3">
 <p>Afternoon Break 2</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -171,6 +200,9 @@ implementation of novel research methodologies.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Strategic Monitoring: Designing Trials with Interim Analyses</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Sarah Burkill</p>
 </td>
 </tr>
 <tr>
@@ -180,12 +212,16 @@ implementation of novel research methodologies.</p>
 <td rowspan="1" colspan="3">
 <p>Q &amp; A</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -195,6 +231,9 @@ implementation of novel research methodologies.</p>
 <tr>
 <th rowspan="1" colspan="4">
 <p>Pre-Symposium Biostatistics Workshop Day 2 (29 July 2026)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -206,6 +245,10 @@ implementation of novel research methodologies.</p>
 <p><strong>Programme</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Speakers</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -213,6 +256,9 @@ implementation of novel research methodologies.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Power and Precision: Sample Size Estimation and Re-estimation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Liang Shen</p>
 </td>
 </tr>
 <tr>
@@ -222,6 +268,9 @@ implementation of novel research methodologies.</p>
 <td rowspan="1" colspan="3">
 <p>Morning Break</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -229,6 +278,9 @@ implementation of novel research methodologies.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>The Digital Frontier: Artificial Intelligence (AI) in Clinical Trials</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Jin Liyuan</p>
 </td>
 </tr>
 <tr>
@@ -238,6 +290,9 @@ implementation of novel research methodologies.</p>
 <td rowspan="1" colspan="3">
 <p>Lunch</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -245,6 +300,9 @@ implementation of novel research methodologies.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Maximizing Efficiency: Crossover Trial Designs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Mihir Gandhi</p>
 </td>
 </tr>
 <tr>
@@ -254,6 +312,9 @@ implementation of novel research methodologies.</p>
 <td rowspan="1" colspan="3">
 <p>Afternoon Break 1</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -261,6 +322,9 @@ implementation of novel research methodologies.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Pragmatic Designs: Cluster Randomized and Stepped-Wedge Trials</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Mihir Gandhi</p>
 </td>
 </tr>
 <tr>
@@ -270,6 +334,9 @@ implementation of novel research methodologies.</p>
 <td rowspan="1" colspan="3">
 <p>Afternoon Break 2</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -278,6 +345,9 @@ implementation of novel research methodologies.</p>
 <td rowspan="1" colspan="3">
 <p>Leveraging External Controls in the Design of Single-Arm Trials</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Assoc Prof Bee Choo Tai</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -285,6 +355,9 @@ implementation of novel research methodologies.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Q &amp; A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
