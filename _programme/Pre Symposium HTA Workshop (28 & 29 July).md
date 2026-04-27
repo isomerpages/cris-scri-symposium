@@ -361,7 +361,7 @@ Analysis</p>
 <p>AI application in HEE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asso Prof Minghui Li</p>
+<p>Assoc Prof Minghui Li</p>
 </td>
 </tr>
 <tr>
