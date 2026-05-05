@@ -45,8 +45,33 @@ description: ""
                   Welcome &amp; Introduction
                 </h4>
                 <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/eugene-gan/"><img alt="Eugene Gan" src="/images/EugeneGan.png" class="speaker-image mb-4"></a>
+                        </div>
+                        <div class="col is-12">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/eugene-gan/">
+                              <b>Dr Eugene Gan</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Senior Director</div>
+<div class="text-ellipsis speaker-company">Singapore Clinical Research Institute (SCRI)</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-</div></div></div></div></div></div></section>
+</section>
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -98,7 +123,50 @@ description: ""
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 09:25 - 09:45</b>&nbsp;
+                  <b>30 Jul | 09:25 - 09:55</b>&nbsp;
+                </div>
+                <h4 class="programme-title">
+                  <font color="#808080">Keynote Speech</font>
+                </h4>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
+                        </div>
+                        <div class="col is-12">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/">
+                              <b>Dr Robert Califf</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Instructor in Medicine</div>
+<div class="text-ellipsis speaker-company">Duke University</div>
+<div class="text-ellipsis speaker-company"><i>Former U.S. FDA Commissioner <br>shaping global regulatory policy</i></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full">
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time">
+                  <b>30 Jul | 09:55 - 10:15</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
 "Strengthening Singapore’s Clinical Trials Ecosystem: Innovation, Inclusion and Impact"
@@ -123,49 +191,6 @@ description: ""
                           <div class="text-ellipsis speaker-company">
                             Consortium for Clinical Research and Innovation, Singapore (CRIS)
                           </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full">
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time">
-                  <b>30 Jul | 09:45 - 10:15</b>&nbsp;
-                </div>
-                <h4 class="programme-title">
-                  <font color="#808080">Keynote Speech</font>
-                </h4>
-                <hr class="my-3 border-primary">
-                <div class="speakers px-2">
-                  <div style="display: flex;flex-wrap:wrap;" class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
-                        </div>
-                        <div class="col is-12">
-                          <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/">
-                              <b>Dr Robert Califf</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">Instructor in Medicine</div>
-<div class="text-ellipsis speaker-company">Duke University</div>
-<div class="text-ellipsis speaker-company"><i>Former U.S. FDA Commissioner <br>shaping global regulatory policy</i></div>
                         </div>
                       </div>
                     </div>
