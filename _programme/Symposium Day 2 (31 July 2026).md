@@ -65,6 +65,23 @@ Discover how visionary women leaders are revolutionising the global clinical tri
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-5 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/brigette-ma/"><img src="/images/BrigetteMa.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/brigette-ma/">
+                              <b>Prof Brigette Ma</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Francis Lee Professor of Precision Oncology</div>
+<div class="text-ellipsis speaker-company">Director of Phase 1 Clinical Trial Centre</div>
+													<div class="text-ellipsis speaker-company">Department of Clinical Oncology, The Chinese University of Hong Kong</div>
+                      </div>
+                    </div>
+                  </div>
+									                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-5 is-5-mobile">
                           <a rel="noopener" class="speaker-name text-ellipsis" href="/lisa-ooi/"><img src="/images/LisaOoi.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
