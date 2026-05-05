@@ -9,6 +9,13 @@ description: ""
 <div class="row padding--top--xl">
 <h4><strong>Our Sponsors</strong></h4></div>
 <hr>
+<h4><strong>Platinum Sponsor</strong></h4>
+
+<div class="row">
+<div class="col is-6 is-10-mobile"><a href="https://www.nuhs.edu.sg/"><img src="/images/NUHS-Logo.png"></a></div>
+</div>
+
+
 <h4><strong>Gold Sponsor</strong></h4>
 
 <div class="row">
