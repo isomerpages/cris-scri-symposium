@@ -11,7 +11,7 @@ description: ""
 <div class="col is-9 speaker-details">
 	<h4><b>Prof Brigette Ma</b></h4>
 <b>Francis Lee Professor of Precision Oncology<br>
-Director of phase 1 clinical trial centre<br>
+Director of Phase 1 Clinical Trial Centre<br>
 Department of Clinical Oncology<br>
 The Chinese University of Hong Kong</b>
 	
