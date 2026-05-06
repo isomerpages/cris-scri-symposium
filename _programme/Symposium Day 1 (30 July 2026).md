@@ -126,7 +126,7 @@ description: ""
                   <b>30 Jul | 09:25 - 09:55</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
-                  <font color="#808080">Keynote Speech</font>
+"Strengthening Singapore’s Clinical Trials Ecosystem: Innovation, Inclusion and Impact"
                 </h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
@@ -134,16 +134,20 @@ description: ""
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/"><img alt="danny soon" src="/images/DannySoon.png" class="speaker-image mb-4">
+                          </a>
                         </div>
                         <div class="col is-12">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/">
-                              <b>Dr Robert Califf</b></a>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/">
+                              <b>Adj A/Prof Danny Soon</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">Instructor in Medicine</div>
-<div class="text-ellipsis speaker-company">Duke University</div>
-<div class="text-ellipsis speaker-company"><i>Former U.S. FDA Commissioner <br>shaping global regulatory policy</i></div>
+                          <div class="text-ellipsis speaker-position">
+                           Chief Executive Officer
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            Consortium for Clinical Research and Innovation, Singapore (CRIS)
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -169,7 +173,7 @@ description: ""
                   <b>30 Jul | 09:55 - 10:15</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
-"Strengthening Singapore’s Clinical Trials Ecosystem: Innovation, Inclusion and Impact"
+                  <font color="#808080">Keynote Speech</font>
                 </h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
@@ -177,20 +181,16 @@ description: ""
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/"><img alt="danny soon" src="/images/DannySoon.png" class="speaker-image mb-4">
-                          </a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/"><img alt="RobertCaliff" src="/images/RobertCaliff.png" class="speaker-image mb-4"></a>
                         </div>
                         <div class="col is-12">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/">
-                              <b>Adj A/Prof Danny Soon</b></a>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/robert-califf/">
+                              <b>Dr Robert Califf</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">
-                           Chief Executive Officer
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Consortium for Clinical Research and Innovation, Singapore (CRIS)
-                          </div>
+                          <div class="text-ellipsis speaker-position">Instructor in Medicine</div>
+<div class="text-ellipsis speaker-company">Duke University</div>
+<div class="text-ellipsis speaker-company"><i>Former U.S. FDA Commissioner <br>shaping global regulatory policy</i></div>
                         </div>
                       </div>
                     </div>
