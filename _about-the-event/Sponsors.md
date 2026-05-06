@@ -9,6 +9,13 @@ description: ""
 <div class="row padding--top--xl">
 <h4><strong>Our Sponsors</strong></h4></div>
 <hr>
+<h4><strong>Platinum Sponsor</strong></h4>
+
+<div class="row">
+<div class="col is-6 is-10-mobile"><a href="https://www.nuhs.edu.sg/"><img src="/images/NUHS_Logo.png"></a></div>
+</div>
+
+
 <h4><strong>Gold Sponsor</strong></h4>
 
 <div class="row">
@@ -23,12 +30,15 @@ description: ""
 
 <h4><strong>Bronze Sponsors</strong></h4>
 <div class="row">
+<div class="col is-4 is-8-mobile"><a href="https://www.astrazeneca.com/"><img src="/images/AstraZeneca_Logo.png"></a></div>
 <div class="col is-4 is-8-mobile"><a href="https://www.boehringer-ingelheim.com/"><img src="/images/Boehringer_Ingelheim.jpg"></a></div>
 <div class="col is-4 is-8-mobile"><a href="https://www.zuelligpharma.com/"><img src="/images/ZuelligPharma.jpg"></a></div></div>
 	
 <h4><strong>Exhibitors</strong></h4>
 <div class="row">
+<div class="col is-3 is-7-mobile"><a href="https://www.almacgroup.com/"><img src="/images/Almac_Logo.png"></a></div>
 <div class="col is-3 is-7-mobile"><a href="https://cytekbio.com/"><img src="/images/CytekBioscience.jpg"></a></div>
+	<div class="col is-3 is-7-mobile"><a href="https://expectohealthscience.com/"><img src="/images/Expecto_Logo.png"></a></div>
 </div>
 	
 
