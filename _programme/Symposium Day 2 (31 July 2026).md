@@ -339,7 +339,7 @@ How can Asia emerge as a leading global clinical trial destination? Gain insight
                     <div class="text-ellipsis speaker-position">
                       Executive Director
                     </div>
-                    <div class="text-ellipsis speaker-company">Singapore Translational Cancer Consortium (SCRI)</div>
+                    <div class="text-ellipsis speaker-company">Singapore Translational Cancer Consortium (STCC)</div>
                   </div>
                 </div>
               </div>
