@@ -23,15 +23,18 @@ registration will close once capacity is reached.</p>
 <p>Delegates who sign up for pre-symposium workshop will also enjoy complimentary
 access to the Main Symposium.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/SMC_Logo.png">
-</div>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SMC_SNB_Logo.png">
+</div>
+<ul data-tight="true" class="tight">
 <li>
-<p>This workshop is an <strong>Accredited CME Event</strong> approved by the
-Singapore Medical Council.
+<p>This workshop is an <strong>Accredited CME and CPE Event</strong> approved
+by the Singapore Medical Council and Singapore Nursing Board.
+<br>
 <br>Total: 8 Cat-1B CME Points (4 points for Day 1, 4 points for Day 2).
-<br>CPE (For Nurses Only) is pending for approval.</p>
+<br>Total: 8 CPE Points (4 points for Day 1, 4 points for Day 2).</p>
 <hr>
 <p></p>
 </li>
