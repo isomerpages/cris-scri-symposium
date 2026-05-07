@@ -63,6 +63,16 @@ sections:
       image: /images/HTAVisual.png
       alt: Image alt text
   - infopic:
+      title: CME / CPE Points
+      id: infopic
+      description: This is an Accredited CME and CPE Event approved by the Singapore
+        Medical Council and Singapore Nursing Board (4 CME & CPE Points/Day).
+      button: Register Now
+      url: /register/
+      image: /images/SCRIDAY1_128.jpg
+      alt: Image alt text
+      subtitle: Up to 16 CME & CPE Points
+  - infopic:
       title: Connect & Collaborate
       id: infopic
       description: Meet leading organisations driving clinical innovation. Explore new
@@ -81,16 +91,6 @@ sections:
       url: /about-event#video2024
       image: /images/PlayVideo2.png
       alt: Video
-  - infopic:
-      title: CME / CPE Points
-      id: infopic
-      description: This is an Accredited CME and CPE Event approved by the Singapore
-        Medical Council and Singapore Nursing Board (4 CME & CPE Points/Day).
-      button: Register Now
-      url: /register/
-      image: /images/SCRIDAY1_128.jpg
-      alt: Image alt text
-      subtitle: Up to 16 CME & CPE Points
   - infopic:
       title: ScamShield
       id: infopic
