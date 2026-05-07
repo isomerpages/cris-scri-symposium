@@ -8,8 +8,8 @@ description: The SCRI Clinical Trials Symposium 2026 is back - bolder, bigger,
   transformative collaboration.
 image: /images/At_A_Glance_05.png
 permalink: /
-notification: Accredited CME Event | Visit the Programme page for the latest
-  Symposium programme details.
+notification: Accredited CME and CPE Event | Visit the Programme page for the
+  latest Symposium programme details.
 sections:
   - hero:
       background: /images/SCRI_Banner_2000x800B.jpg
@@ -84,14 +84,13 @@ sections:
   - infopic:
       title: CME / CPE Points
       id: infopic
-      description: This is an Accredited CME Event approved by the Singapore Medical
-        Council (4 CME Points/Day).  CPE (for nurses only) is pending for
-        approval.
+      description: This is an Accredited CME and CPE Event approved by the Singapore
+        Medical Council and Singapore Nursing Board (4 CME & CPE Points/Day).
       button: Register Now
       url: /register/
       image: /images/SCRIDAY1_128.jpg
       alt: Image alt text
-      subtitle: Up to 16 CAT-1B CME Points
+      subtitle: Up to 16 CME & CPE Points
   - infopic:
       title: ScamShield
       id: infopic
