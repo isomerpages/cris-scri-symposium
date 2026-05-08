@@ -731,10 +731,10 @@ The future of clinical research depends on cultivating skilled leaders who can n
     </div>
   </div>
 	<p>*Please note that the programme may be subject to change without prior notice.<br>Tracks 1-10 will comprise of a 45-min presentation by speakers followed by 45-min panel discussion. <br><br> 
-</p><div class="row"><div class="col is-3 is-4-mobile"><img src="/images/SMC_Logo.png" class="speaker-image mb-4"></div></div>
-*The Symposium is an <b>Accredited CME Event</b> approved by the Singapore Medical Council.<br>  
+</p><div class="row"><div class="col is-6 is-4-mobile"><img src="/images/SMC_SNB_Logo.png" class="speaker-image mb-4"></div></div>
+*The Symposium is an <b>Accredited CME and CPE Event</b> approved by the Singapore Medical Council and Singapore Nursing Board.<br>  
 Total: 8 Cat-1B CME Points (4 points for Day 1, 4 points for Day 2).<br>   
-CPE (For Nurses Only) is pending for approval.<p></p>
+Total: 8 CPE Points (4 points for Day 1, 4 points for Day 2).<p></p>
 </section>
 
 
