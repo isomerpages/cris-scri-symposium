@@ -522,6 +522,22 @@ Traditional clinical trial methodologies are evolving to better reflect real-wor
                       </div>
                     </div>
                   </div>
+																		                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/shefaly-shorey/"><img src="/images/ShefalyShorey.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/shefaly-shorey/">
+                              <b>Assoc Prof Shefaly Shorey</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Associate Professor &amp; Vice Dean (Administration), Alice Lee Centre for Nursing Studies, Yong Loo Lin School of Medicine</div>
+<div class="text-ellipsis speaker-company">Director, Yeo Boon Khim Mind Science Centre, National University of Singapore (NUS)</div>
+                      </div>
+                    </div>
+                  </div>
 									                  <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
