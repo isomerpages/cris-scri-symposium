@@ -179,7 +179,7 @@ description: ""
           <h4 class="speaker-name text-ellipsis">A/Prof Edwin Chan</h4>
           <div class="speaker-position text-ellipsis">Director, Cochrane Singapore</div>
 					<div class="speaker-position text-ellipsis">Associate Professor, Duke-NUS Medical School</div>
-          <div class="speaker-company text-ellipsis">Chief Scientific Officer, Singapore Clinical Research Institute (SCRI)</div>
+          <div class="speaker-company text-ellipsis">Senior Advisor, Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div> 
 		<div class="col is-3 is-6-mobile">
@@ -623,7 +623,7 @@ Lee Kong Chian School of Medicine</div>
             <img class="speaker-image img-fluid mb-3" src="/images/ChaiJiaHui.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Ms Jia Hui Chai</h4>
-          <div class="speaker-position text-ellipsis">Health Economist</div>
+          <div class="speaker-position text-ellipsis">Senior Health Economist</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
@@ -635,7 +635,7 @@ Lee Kong Chian School of Medicine</div>
           <h4 class="speaker-name text-ellipsis">A/Prof Edwin Chan</h4>
           <div class="speaker-position text-ellipsis">Director, Cochrane Singapore</div>
 					<div class="speaker-position text-ellipsis">Associate Professor, Duke-NUS Medical School</div>
-          <div class="speaker-company text-ellipsis">Chief Scientific Officer, Singapore Clinical Research Institute (SCRI)</div>
+          <div class="speaker-company text-ellipsis">Senior Advisor, Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div> 
 									      <div class="col is-3 is-6-mobile">
