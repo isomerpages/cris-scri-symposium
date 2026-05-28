@@ -15,7 +15,7 @@ description: ""
 Biostatistics as well as Health Technology Assessment.</p>
 </li>
 <li>
-<p>Availability for this Pre-Symposium HTA Workshop is limited to 30 pax
+<p>Availability for this Pre-Symposium HTA Workshop is limited to 24 pax
 and registration will close once capacity is reached.</p>
 </li>
 <li>
