@@ -82,11 +82,11 @@ Discover how visionary women leaders are revolutionising the global clinical tri
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-5 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/jo‑anne-manski‑nankervis/"><img src="/images/JoAnneManskiNankervis2.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/jo-anne-manski-nankervis/"><img src="/images/JoAnneManskiNankervis2.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/jo‑anne-manski‑nankervis/">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/jo-anne-manski-nankervis/">
                               <b>Assoc Prof Jo‑Anne Manski‑Nankervis</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Academic Director, Primary Care and Family Medicine, and Faculty Lead</div>
@@ -136,6 +136,23 @@ Medical device trials require distinct approaches that address unique regulatory
                           </div>
                           <div class="text-ellipsis speaker-position">Senior Consultant</div>
 <div class="text-ellipsis speaker-company">Tan Tock Seng Hospital Rehabilitation Centre NHG Health</div>
+                      </div>
+                    </div>
+                  </div>
+																		                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-5 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/lim-yujing/"><img src="/images/LimYujing.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/lim-yujing/">
+                              <b>Dr Lim Yujing</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Chief Executive Officer &amp; Chief Technology Officer</div>
+<div class="text-ellipsis speaker-company">Osteopore
+</div>
                       </div>
                     </div>
                   </div>
