@@ -384,9 +384,8 @@ Analysis</p>
 organiser</p>
 <hr>
 <h4>HTA Workshop Speakers</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTASpeakers5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTASpeakers6.png">
 </div>
 <hr>
 <h4><strong>About the SCRI Health Economics and Outcomes Research (HEOR) Unit</strong></h4>
