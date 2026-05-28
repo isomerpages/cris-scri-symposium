@@ -369,7 +369,7 @@ description: ""
 											<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/jo-anne-manski-nankervis/">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/JoAnneManskiNankervis.png" alt="">
+            <img class="speaker-image img-fluid mb-3" src="/images/JoAnneManskiNankervis2.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Assoc Prof Jo-Anne Manski-Nankervis</h4>
           <div class="speaker-position text-ellipsis">Academic Director, Primary Care and Family Medicine, and Faculty Lead</div>
