@@ -82,7 +82,7 @@ Discover how visionary women leaders are revolutionising the global clinical tri
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-5 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/jo‑anne-manski‑nankervis/"><img src="/images/JoAnneManskiNankervis.png" class="speaker-image mb-4"></a>
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/jo‑anne-manski‑nankervis/"><img src="/images/JoAnneManskiNankervis2.png" class="speaker-image mb-4"></a>
 												</div></div>
                         <div class="col">
                           <div class="speaker-name text-ellipsis">
