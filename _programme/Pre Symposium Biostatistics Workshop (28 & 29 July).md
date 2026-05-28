@@ -16,7 +16,7 @@ description: ""
 Biostatistics as well as Health Technology Assessment.</p>
 </li>
 <li>
-<p>Availability for this Pre-Symposium Workshop is limited to 30 pax and
+<p>Availability for this Pre-Symposium Workshop is limited to 24 pax and
 registration will close once capacity is reached.</p>
 </li>
 <li>
