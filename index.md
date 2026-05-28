@@ -8,8 +8,9 @@ description: The SCRI Clinical Trials Symposium 2026 is back - bolder, bigger,
   transformative collaboration.
 image: /images/At_A_Glance_05.png
 permalink: /
-notification: Accredited CME and CPE Event | Visit the Programme page for the
-  latest Symposium programme details.
+notification: "Beware of Impersonation Scams - Please be advised that SCRI
+  communicates only through its official email accounts for symposium related
+  correspondence: events@scri.cris.sg / projects@csquare-creative.com"
 sections:
   - hero:
       background: /images/SCRI_Banner_2000x800B.jpg
@@ -99,6 +100,6 @@ sections:
         website.
       button: ScamShield Website
       url: https://www.scamshield.gov.sg/
-      image: /images/Beware.png
+      image: /images/Beware2a.png
       alt: Image alt text
 ---
