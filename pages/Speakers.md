@@ -366,7 +366,20 @@ description: ""
           <div class="speaker-company text-ellipsis">Department of Clinical Oncology, The Chinese University of Hong Kong</div>
         </a>
       </div>
-									<div class="col is-3 is-6-mobile">
+											<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/jo-anne-manski-nankervis/">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/JoAnneManskiNankervis2.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof Jo-Anne Manski-Nankervis</h4>
+          <div class="speaker-position text-ellipsis">Academic Director, Primary Care and Family Medicine, and Faculty Lead</div>
+          <div class="speaker-company text-ellipsis">Office of Patient Engagement, Lee Kong Chian School of Medicine</div>
+        </a>
+      </div>
+	</div>			
+
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+										<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/bilal-mateen/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/BilalMateen.png" alt="">
@@ -376,9 +389,6 @@ description: ""
           <div class="speaker-company text-ellipsis">PATH</div>
         </a>
       </div>
-	</div>			
-
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 										<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/lisa-ooi/">
           <div class="speaker-image-wrapper">
@@ -409,7 +419,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Changi General Hospital, SingHealth, Singapore</div>
         </a>
       </div>
-					      <div class="col is-3 is-6-mobile">
+		</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+						      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ailing-simdevadas/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/AiLingSimDevadas.png" alt="">
@@ -420,9 +433,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Technological University, Singapore</div>
         </a>
       </div>
-		</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 						      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/sumitra-sachidanandan">
           <div class="speaker-image-wrapper">
@@ -453,7 +463,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Director, Yeo Boon Khim Mind Science Centre, National University of Singapore (NUS)</div>
         </a>
       </div>
-										<div class="col is-3 is-6-mobile">
+		</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+											<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/kelsi-smith">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/KelsiSmith.png" alt="">
@@ -463,9 +476,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Quantify Research</div>
         </a>
       </div>	
-		</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 									<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -496,7 +506,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Eye Research Institute</div>
         </a>
       </div>
-	<div class="col is-3 is-6-mobile">
+			</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/WongCherYi.png" alt="">
@@ -506,9 +519,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
-			</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/yong-wei-peng">
           <div class="speaker-image-wrapper">

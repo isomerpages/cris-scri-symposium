@@ -15,7 +15,7 @@ description: ""
 Biostatistics as well as Health Technology Assessment.</p>
 </li>
 <li>
-<p>Availability for this Pre-Symposium HTA Workshop is limited to 30 pax
+<p>Availability for this Pre-Symposium HTA Workshop is limited to 24 pax
 and registration will close once capacity is reached.</p>
 </li>
 <li>
@@ -219,7 +219,7 @@ for Model-Based HEE</p>
 <p>Case Study: HEE of Diagnostic Test</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jia Hui Chai</p>
+<p>Dr Julie Zhu</p>
 </td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@ for Model-Based HEE</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 - 10:30</p>
+<p>09:00 - 10:45</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Incorporating Health Outcomes into Diagnostic HEE Model</p>
@@ -280,7 +280,7 @@ for Model-Based HEE</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:30 - 10:45</p>
+<p>10:45 - 11:00</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Morning Break</p>
@@ -291,7 +291,7 @@ for Model-Based HEE</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:45 - 11:45</p>
+<p>11:00 - 12:30</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Ensuring Robustness in Diagnostic HEE: Theory &amp; Practice for Uncertainty
@@ -299,17 +299,6 @@ Analysis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Brendon Zhou</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11:45 - 12:30</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>Interpreting Results of Diagnostic HEE Model</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Julie Zhu</p>
 </td>
 </tr>
 <tr>
@@ -395,9 +384,8 @@ Analysis</p>
 organiser</p>
 <hr>
 <h4>HTA Workshop Speakers</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTASpeakers5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTASpeakers6.png">
 </div>
 <hr>
 <h4><strong>About the SCRI Health Economics and Outcomes Research (HEOR) Unit</strong></h4>
