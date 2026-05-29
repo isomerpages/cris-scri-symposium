@@ -156,6 +156,24 @@ Medical device trials require distinct approaches that address unique regulatory
                       </div>
                     </div>
                   </div>
+																											                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-5 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/karen-wai/"><img src="/images/KarenWai.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/karen-wai/">
+                              <b>Dr Karen Wai</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Chief Strategy Officer</div>
+<div class="text-ellipsis speaker-company">Aevice Health
+													</div>
+													<b>(Moderator)</b> 
+                      </div>
+                    </div>
+                  </div>
 				</div></div></div></div></div></div></div></div></section> 
 <section>
   <div class="bp-container is-fluid">
