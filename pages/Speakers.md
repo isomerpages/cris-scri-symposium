@@ -519,6 +519,16 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Eye Research Institute</div>
         </a>
       </div>
+									<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/karen-wai">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/KarenWai.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Karen Wai</h4>
+          <div class="speaker-position text-ellipsis">Chief Strategy Officer</div>
+          <div class="speaker-company text-ellipsis">Aevice Health</div>
+        </a>
+      </div>
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/wong-cher-yi">
           <div class="speaker-image-wrapper">
