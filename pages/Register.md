@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_RegisterNow.png">
 </div>
-<h4><strong>Registration begins in February 2026</strong></h4>
+<h4><strong>Early Bird Extended to 14 June 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Symposium Passes</strong>
@@ -55,5 +55,5 @@ details.</p>
 <p>Click on the banner below to proceed to the registration portal.</p>
 </li>
 </ul>
-<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/scri-clinical-trials-symposium-2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/RegistrationSchedule04.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/scri-clinical-trials-symposium-2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/RegistrationSchedule05.png"></a>
 <p></p>
