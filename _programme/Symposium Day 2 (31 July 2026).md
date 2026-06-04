@@ -139,7 +139,7 @@ Medical device trials require distinct approaches that address unique regulatory
                       </div>
                     </div>
                   </div>
-																		                  <div style="display: flex;flex-wrap:wrap;" class="row">
+												<div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-5 is-5-mobile">
@@ -156,7 +156,24 @@ Medical device trials require distinct approaches that address unique regulatory
                       </div>
                     </div>
                   </div>
-																											                  <div style="display: flex;flex-wrap:wrap;" class="row">
+																					<div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-5 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/pauline-tay/"><img src="/images/PaulineTay.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/pauline-tay/">
+                              <b>Dr Pauline Tay</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Senior Director</div>
+<div class="text-ellipsis speaker-company">National Health Innovation Centre (NHIC) 
+</div>
+                      </div>
+                    </div>
+                  </div>
+										<div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
                       <div class="row">
                         <div class="col is-5 is-5-mobile">
