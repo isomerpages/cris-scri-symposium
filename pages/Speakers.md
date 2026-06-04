@@ -477,7 +477,20 @@ Lee Kong Chian School of Medicine</div>
 					<div class="speaker-company text-ellipsis">National University Health System (NUHS)</div>
         </a>
       </div>
-								<div class="col is-3 is-6-mobile">
+										<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/pauline-tay">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/PaulineTay.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Pauline Tay</h4>
+          <div class="speaker-position text-ellipsis">Senior Director</div>
+					<div class="speaker-company text-ellipsis">National Health Innovation Centre (NHIC)</div>
+        </a>
+      </div>
+			</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+									<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/dipti-thakkar">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/diptithakkar.png" alt="">
@@ -487,9 +500,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>
-			</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 								<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/daniel-ting">
           <div class="speaker-image-wrapper">
@@ -520,6 +530,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
+				</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/yong-wei-peng">
           <div class="speaker-image-wrapper">
