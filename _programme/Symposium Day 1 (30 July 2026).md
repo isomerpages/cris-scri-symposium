@@ -313,8 +313,8 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
                   <b>30 Jul | 11:45 - 12:45 </b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title">
-                  <font color="#808080">DUKE-NUS</font><br>2026 Sir Alasdair Breckenridge Lecture   </h5>
-Ms Emer Cooke will deliver the lecture around the theme of “Defining New Regulatory Paradigms for a Fast-Changing World”, where she will share her thoughts on how regulatory systems can evolve in response to rapid scientific, technological, and global health change. This special session is co-organised by the Duke-NUS Centre of Regulatory Excellence (CoRE) and SCRI.
+                  <font color="#808080">DUKE-NUS</font><br>2026 Sir Alasdair Breckenridge Lecture "Reimagining the Future of Medicines Regulation"   </h5>
+Ms Emer Cooke will deliver the lecture where she will share her thoughts on how regulatory systems can evolve in response to rapid scientific, technological, and global health change. This special session is co-organised by the Duke-NUS Centre of Regulatory Excellence (CoRE) and SCRI.
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
