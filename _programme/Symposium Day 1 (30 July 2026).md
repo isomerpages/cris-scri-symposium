@@ -98,9 +98,9 @@ description: ""
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 09:25 - 09:45</b>&nbsp;
+                  <b>30 Jul | 09:25 - 09:55</b>&nbsp;
                 </div>
-                <h4 class="programme-title">
+                <h4 class="programme-title">5
                   <font color="#808080">Keynote Speech</font>
                 </h4>
                 <hr class="my-3 border-primary">
@@ -141,7 +141,7 @@ description: ""
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 09:45 - 10:15</b>&nbsp;
+                  <b>30 Jul | 09:55 - 10:15</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
 "Strengthening Singapore’s Clinical Trials Ecosystem: Innovation, Inclusion and Impact"
@@ -310,7 +310,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 12:00 - 13:00</b>&nbsp;
+                  <b>30 Jul | 11:45 - 12:45 </b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title">
                   <font color="#808080">DUKE-NUS</font><br>2026 Sir Alasdair Breckenridge Lecture   </h5>
@@ -342,7 +342,7 @@ Ms Emer Cooke will deliver the lecture around the theme of “Defining New Regul
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 12:00 - 13:00</b>&nbsp;
+                  <b>30 Jul | 11:45 - 12:45 </b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title">
                   <font color="#808080">Lunch Track</font><br>Sharing Session by HSA - GCP E6 Updates</h5>
