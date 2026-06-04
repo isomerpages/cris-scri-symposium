@@ -9,6 +9,7 @@ description: ""
 </div>
 <h4><strong>Pre-Symposium Biostatistics Workshop on Advanced and Innovative Clinical Trial Designs</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/scri-clinical-trials-symposium-2026"><img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Register_Now_Buttonx2_1.png"></a>
+<h4><strong>**Closing Soon: Final Seats Remaining</strong></h4>
 <p>Please note:</p>
 <ul data-tight="true" class="tight">
 <li>

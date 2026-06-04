@@ -7,25 +7,6 @@ description: ""
 ![](/images/Banner_OurSpeakers.png)
 
 <div>
-  <h3>Guest of Honour</h3>
-</div>
-
-<section class="bp-section font">
-  <div class="bp-container is-fluid has-text-centered">
-    <div class="row">
-      <div class="col"></div><div class="col is-5">
-        <a class="speaker" href="/koh-poh-koon">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/SMSKohPohKoon.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Dr Koh Poh Koon</h4>
-          <div class="speaker-position text-ellipsis">Senior Minister of State</div>
-          <div class="speaker-company text-ellipsis">Ministry of Health &amp; Ministry of Manpower (Singapore)</div>
-        </a>
-      </div><div class="col"></div>
-      		</div></div></section>
-
-<div>
   <h3>Keynote Speaker</h3>
 </div>
 
@@ -496,7 +477,20 @@ Lee Kong Chian School of Medicine</div>
 					<div class="speaker-company text-ellipsis">National University Health System (NUHS)</div>
         </a>
       </div>
-								<div class="col is-3 is-6-mobile">
+										<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/pauline-tay">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/PaulineTay.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Pauline Tay</h4>
+          <div class="speaker-position text-ellipsis">Senior Director</div>
+					<div class="speaker-company text-ellipsis">National Health Innovation Centre (NHIC)</div>
+        </a>
+      </div>
+			</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+									<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/dipti-thakkar">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/diptithakkar.png" alt="">
@@ -506,9 +500,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>
-			</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 								<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/daniel-ting">
           <div class="speaker-image-wrapper">
@@ -539,6 +530,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
+				</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/yong-wei-peng">
           <div class="speaker-image-wrapper">
