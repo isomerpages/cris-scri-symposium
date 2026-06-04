@@ -321,13 +321,45 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
     <div class="row">
       <div class="col is-full">
         <div class="row">
-          <div class="col is-8">
+          <div class="col is-4">
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4 bg-notice">
                 <div class="programme-time">
                   <b>30 Jul | 11:30 - 13:00</b>&nbsp;
                 </div>
                 <h4 class="programme-title">Lunch &amp; Networking</h4>
+              </div>
+            </div>
+          </div>
+					          <div class="col is-4">
+            <div style="height: 100%" class="border bg-light h-100 position-relative">
+              <div style="height: 100%" class="p-4">
+                <div class="programme-time">
+                  <b>30 Jul | 12:00 - 13:00</b>&nbsp;
+                </div>
+                <h5 style="margin-top: 1rem" class="programme-title">
+                  <font color="#808080">DUKE-NUS</font><br>2026 Sir Alasdair Breckenridge Lecture   </h5>
+Ms Emer Cooke will deliver the lecture around the theme of “Defining New Regulatory Paradigms for a Fast-Changing World”, where she will share her thoughts on how regulatory systems can evolve in response to rapid scientific, technological, and global health change. This special session is co-organised by the Duke-NUS Centre of Regulatory Excellence (CoRE) and SCRI.
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/emer-cooke/"><img alt="Emer Cooke" src="/images/EmerCooke.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                              <a rel="noopener" class="speaker-name text-ellipsis" href="/emer-cooke/"><b>Ms Emer Cooke</b></a>
+                    </div>
+                    <div class="text-ellipsis speaker-position">
+                      Executive Director
+                    </div>
+                    <div class="text-ellipsis speaker-company">European Medicines Agency</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
