@@ -87,33 +87,8 @@ description: ""
                   Guest of Honour - Opening Address
                 </h4>
                 <hr class="my-3 border-primary">
-                <div class="speakers px-2">
-                  <div style="display: flex;flex-wrap:wrap;" class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4 is-5-mobile">
-                          <a rel="noopener" class="speaker-name text-ellipsis" href="/koh-poh-koon/"><img alt="SMS Koh Poh Koon" src="/images/SMSKohPohKoon.png" class="speaker-image mb-4"></a>
-                        </div>
-                        <div class="col is-12">
-                          <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/koh-poh-koon/">
-                              <b>Dr Koh Poh Koon</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">Senior Minister of State</div>
-<div class="text-ellipsis speaker-company">Ministry of Health &amp; Ministry of Manpower (Singapore)</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+	  </div>
+</div></div></div></div></div></div></section> 
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
