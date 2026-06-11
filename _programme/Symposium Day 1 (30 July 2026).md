@@ -87,8 +87,33 @@ description: ""
                   Guest of Honour - Opening Address
                 </h4>
                 <hr class="my-3 border-primary">
-	  </div>
-</div></div></div></div></div></div></section> 
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-mak/"><img alt="Kenneth Mak" src="/images/Kenneth_Mak.png" class="speaker-image mb-4"></a>
+                        </div>
+                        <div class="col is-12">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/kenneth-mak/">
+                              <b>Prof Kenneth Mak</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Director-General of Health</div>
+<div class="text-ellipsis speaker-company">Ministry of Health, Singapore</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
