@@ -7,6 +7,25 @@ description: ""
 ![](/images/Banner_OurSpeakers.png)
 
 <div>
+  <h3>Guest of Honour</h3>
+</div>
+
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col"></div><div class="col is-5">
+        <a class="speaker" href="/kenneth-mak">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/Kenneth_Mak.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Kenneth Mak</h4>
+          <div class="speaker-position text-ellipsis">Director-General of Health</div>
+          <div class="speaker-company text-ellipsis">Ministry of Health, Singapore</div>
+        </a>
+      </div><div class="col"></div>
+      		</div></div></section>
+
+<div>
   <h3>Keynote Speaker</h3>
 </div>
 
