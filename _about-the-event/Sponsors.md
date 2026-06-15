@@ -25,7 +25,7 @@ description: ""
 
 <h4><strong>Silver Sponsor</strong></h4>
 <div class="row">
-<div class="col is-5 is-9-mobile"><a href="https://www.gilead.com/"><img src="/images/GILEAD.jpg"></a></div>
+<div class="col is-5 is-9-mobile"><a href="https://www.enterprisesg.gov.sg/"><img src="/images/ESG_Logo.png"></a></div><div class="col is-5 is-9-mobile"><a href="https://www.gilead.com/"><img src="/images/GILEAD.jpg"></a></div>
 </div>
 
 <h4><strong>Bronze Sponsors</strong></h4>
