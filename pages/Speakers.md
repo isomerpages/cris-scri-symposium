@@ -562,6 +562,16 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Heart Centre Singapore</div>
         </a>
       </div>
+			<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/allen-yeoh">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/AllenYeoh.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Prof Allen Yeoh</h4>
+          <div class="speaker-position text-ellipsis">Head and Senior Consultant, VIVA-University Children’s Cancer Center</div>
+          <div class="speaker-company text-ellipsis">National University Cancer Institute, Singapore (NCIS)</div>
+        </a>
+      </div>
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/yong-wei-peng">
           <div class="speaker-image-wrapper">

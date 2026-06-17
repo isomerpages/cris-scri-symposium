@@ -522,6 +522,24 @@ The role of philanthropy in clinical research is evolving from traditional fundi
                     </div>
                   </div>
                 </div>
+								                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/allen-yeoh/"><img src="/images/AllenYeoh.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/allen-yeoh/">
+                              <b>Prof Allen Yeoh</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Head and Senior Consultant</div>
+<div class="text-ellipsis speaker-company">VIVA-University Children’s Cancer Center, National University Cancer Institute, Singapore (NCIS)</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
