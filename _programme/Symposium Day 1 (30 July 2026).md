@@ -39,7 +39,7 @@ description: ""
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 09:00 - 09:10</b>&nbsp;
+                  <b>30 Jul | 09:00 - 09:05</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
                   Welcome &amp; Introduction
@@ -81,7 +81,7 @@ description: ""
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 09:10 - 09:25</b>&nbsp;
+                  <b>30 Jul | 09:05 - 09:20</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
                   Guest of Honour - Opening Address
@@ -123,7 +123,7 @@ description: ""
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 09:25 - 09:55</b>&nbsp;
+                  <b>30 Jul | 09:20 - 09:50</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
                   <font color="#808080">Keynote Speech</font>
@@ -143,7 +143,7 @@ description: ""
                           </div>
                           <div class="text-ellipsis speaker-position">Instructor in Medicine</div>
 <div class="text-ellipsis speaker-company">Duke University</div>
-<div class="text-ellipsis speaker-company"><i>Former U.S. FDA Commissioner <br>shaping global regulatory policy</i></div>
+<div class="text-ellipsis speaker-company"><i><br></i></div>
                         </div>
                       </div>
                     </div>
@@ -166,7 +166,7 @@ description: ""
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 09:55 - 10:15</b>&nbsp;
+                  <b>30 Jul | 09:50 - 10:10</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
 "Strengthening Singapore’s Clinical Trials Ecosystem: Innovation, Inclusion and Impact"
@@ -213,10 +213,10 @@ description: ""
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 10:15 - 10:30</b>&nbsp;
+                  <b>30 Jul | 10:10 - 10:30</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
-                  <font color="#808080">MOU Signing Ceremony</font></h4>
+                  <font color="#808080">MOU Signing Ceremonies</font></h4>
                 <hr class="my-3 border-primary">
 	  </div>
 </div></div></div></div></div></div></section> 
@@ -335,7 +335,7 @@ As scientific innovation accelerates—from AI-enabled drug discovery and decent
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 11:45 - 12:45 </b>&nbsp;
+                  <b>30 Jul | 12:00 - 13:00 </b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title">
                   <font color="#808080">DUKE-NUS</font><br>2026 Sir Alasdair Breckenridge Lecture "Reimagining the Future of Medicines Regulation"   </h5>
@@ -367,7 +367,7 @@ Ms Emer Cooke will deliver the lecture where she will share her thoughts on how 
             <div style="height: 100%" class="border bg-light h-100 position-relative">
               <div style="height: 100%" class="p-4">
                 <div class="programme-time">
-                  <b>30 Jul | 11:45 - 12:45 </b>&nbsp;
+                  <b>30 Jul | 11:30 - 12:30 </b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title">
                   <font color="#808080">Lunch Track</font><br>Sharing Session by HSA - GCP E6 Updates</h5>
@@ -504,6 +504,24 @@ As clinical research evolves to meet the demands of faster innovation, more incl
 								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track A: Catalyzing Innovation and Equity</font><br>“The Strategic Role of Philanthropy in Advancing Clinical Trials”</h5>
 The role of philanthropy in clinical research is evolving from traditional funding to strategic partnership that addresses research gaps and promotes treatment equity.  Acquire insights into harnessing philanthropic resources to accelerate innovation and expand equitable access to clinical advances.
                 <hr class="my-3 border-primary">
+								                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/li-yang-hsu/"><img src="/images/HsuLiYang.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/li-yang-hsu/">
+                              <b>Prof Li Yang Hsu</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Professor, Saw Swee Hock School of Public Health</div>
+<div class="text-ellipsis speaker-company">National University of Singapore</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
