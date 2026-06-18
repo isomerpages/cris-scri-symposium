@@ -591,17 +591,44 @@ The era of artificial intelligence and digital solutions is revolutionising clin
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time">
-                  <b>31 Jul | 17:30 - 18:00</b>&nbsp;
+                  <b>31 Jul | 17:30 - 17:45</b>&nbsp;
                 </div>
                 <h4 class="programme-title">
                   <font color="#808080">Closing Address</font><br>
 “Future of Clinical Trials – From Vision to Collective Action”</h4>
                 <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/"><img alt="danny soon" src="/images/DannySoon.png" class="speaker-image mb-4">
+                          </a>
+                        </div>
+                        <div class="col is-12">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/danny-soon/">
+                              <b>Adj A/Prof Danny Soon</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                           Chief Executive Officer
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            Consortium for Clinical Research and Innovation, Singapore (CRIS)
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </div>
-</div></div></div></section>
+</section>
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -611,7 +638,7 @@ The era of artificial intelligence and digital solutions is revolutionising clin
             <div class="border bg-light h-100 position-relative">
               <div class="p-4 bg-notice">
                 <div class="programme-time">
-                  <b>31 Jul | 18:00</b>&nbsp;
+                  <b>31 Jul | 17:45</b>&nbsp;
                 </div>
                 <h4 class="programme-title">End of Day 2</h4>
               </div>
