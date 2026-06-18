@@ -143,7 +143,7 @@ description: ""
                           </div>
                           <div class="text-ellipsis speaker-position">Instructor in Medicine</div>
 <div class="text-ellipsis speaker-company">Duke University</div>
-<div class="text-ellipsis speaker-company"><i>Former U.S. FDA Commissioner <br>shaping global regulatory policy</i></div>
+<div class="text-ellipsis speaker-company"><i><br></i></div>
                         </div>
                       </div>
                     </div>
