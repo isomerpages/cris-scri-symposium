@@ -305,6 +305,23 @@ Explore how ecosystem partnerships are transforming the healthcare innovation pi
 “Building Public Trust and Participation Through Awareness and Education”</h5>
 Even as medical knowledge expands, complex barriers continue to limit patient involvement in clinical trials across communities worldwide. Delve into potential strategies to overcome these challenges by strengthening public confidence and improving recruitment through effective participant communication and targeted outreach.
           <hr class="my-3 border-primary">
+								                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-5 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/han-hui-cheong/"><img src="/images/HanHuiCheong.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="han-hui-cheong/">
+                              <b>Dr Han-Hui Cheong</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Clinical Development Operations Country Liaison (ASEAN)</div>
+<div class="text-ellipsis speaker-company">Boehringer Ingelheim Singapore</div>
+                      </div>
+                    </div>
+                  </div>
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
@@ -357,7 +374,7 @@ Even as medical knowledge expands, complex barriers continue to limit patient in
                     </div>
                   </div>
                 </div></div></div></div>
-</div></div></div></div></section> 
+</div></div></div></div></div></section> 
 						
 <section>
   <div class="bp-container is-fluid">
