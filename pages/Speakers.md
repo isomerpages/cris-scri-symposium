@@ -192,7 +192,20 @@ description: ""
           <div class="speaker-company text-ellipsis">MiRXES</div>
         </a>
       </div> 
-	<div class="col is-3 is-6-mobile">
+			<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/han-hui-cheong">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/HanHuiCheong.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Han-Hui Cheong</h4>
+          <div class="speaker-position text-ellipsis">Clinical Development Operations Country Liaison (ASEAN)</div>
+          <div class="speaker-company text-ellipsis">Boehringer Ingelheim Singapore</div>
+        </a>
+      </div> 
+					    </div>	
+		
+<div style="display: flex;flex-wrap:wrap;" class="row"><div class="row">
+		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ching-lung-cheung">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/ChingLungCheung2.png" alt="">
@@ -202,9 +215,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Greater Bay Area International Clinical Trial Institute (GBAICTI), Hong Kong</div>
         </a>
       </div>       
-					    </div>	
-		
-<div style="display: flex;flex-wrap:wrap;" class="row"><div class="row">
 	<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/derek-chew">
           <div class="speaker-image-wrapper">
@@ -235,7 +245,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Senior Consultant Surgeon, National Cancer Centre Singapore</div>
         </a>
       </div> 
-					<div class="col is-3 is-6-mobile">
+					    </div>		
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/karen-chua">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/KarenChua.png" alt="">
@@ -245,9 +258,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Tan Tock Seng Hospital Rehabilitation Centre NHG Health</div>
         </a>
       </div> 
-					    </div>		
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 		      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/jon-emery">
           <div class="speaker-image-wrapper">
@@ -278,7 +288,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
-			      <div class="col is-3 is-6-mobile">
+					    </div>				
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+				      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/daphne-gardner">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/DaphneGardnerTan.png" alt="">
@@ -288,9 +301,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Singapore General Hospital</div>
         </a>
       </div>
-					    </div>				
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 									<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/george-goh/">
           <div class="speaker-image-wrapper">
@@ -322,7 +332,10 @@ description: ""
           <div class="speaker-company text-ellipsis">ClavystBio</div>
         </a>
       </div>
-					<div class="col is-3 is-6-mobile">
+					    </div>		
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/li-yang-hsu/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/HsuLiYang.png" alt="">
@@ -332,9 +345,6 @@ description: ""
           <div class="speaker-company text-ellipsis">National University of Singapore</div>
         </a>
       </div>
-					    </div>		
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
 						<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/fook-kay-lee/">
           <div class="speaker-image-wrapper">
@@ -365,7 +375,10 @@ description: ""
           <div class="speaker-company text-ellipsis">University of Tennessee Health Science Center College of Pharmacy</div>
         </a>
       </div>
-									<div class="col is-3 is-6-mobile">
+	</div>			
+
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+										<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/lim-yujing/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/LimYujing.png" alt="">
@@ -375,9 +388,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Osteopore</div>
         </a>
       </div>
-	</div>			
-
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 									<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/wendy-loo/">
           <div class="speaker-image-wrapper">
@@ -409,7 +419,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Office of Patient Engagement, Lee Kong Chian School of Medicine</div>
         </a>
       </div>
-										<div class="col is-3 is-6-mobile">
+		</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+											<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/bilal-mateen/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/BilalMateen.png" alt="">
@@ -419,9 +432,6 @@ description: ""
           <div class="speaker-company text-ellipsis">PATH</div>
         </a>
       </div>
-		</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 											<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/lisa-ooi/">
           <div class="speaker-image-wrapper">
@@ -452,7 +462,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Changi General Hospital, SingHealth, Singapore</div>
         </a>
       </div>
-						      <div class="col is-3 is-6-mobile">
+		</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+							      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ailing-simdevadas/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/AiLingSimDevadas.png" alt="">
@@ -463,9 +476,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Technological University, Singapore</div>
         </a>
       </div>
-		</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 							      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/sumitra-sachidanandan">
           <div class="speaker-image-wrapper">
@@ -496,7 +506,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Director, Yeo Boon Khim Mind Science Centre, National University of Singapore (NUS)</div>
         </a>
       </div>
-											<div class="col is-3 is-6-mobile">
+			</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+												<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/kelsi-smith">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/KelsiSmith.png" alt="">
@@ -506,9 +519,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Quantify Research</div>
         </a>
       </div>	
-			</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 										<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -539,7 +549,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>
-								<div class="col is-3 is-6-mobile">
+				</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+									<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/daniel-ting">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/DanielTing.png" alt="">
@@ -549,9 +562,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Eye Research Institute</div>
         </a>
       </div>
-				</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 										<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/karen-wai">
           <div class="speaker-image-wrapper">
@@ -582,6 +592,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Cancer Institute, Singapore (NCIS)</div>
         </a>
       </div>
+					</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/yong-wei-peng">
           <div class="speaker-image-wrapper">
