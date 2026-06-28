@@ -9,7 +9,7 @@ description: ""
 <img src="/images/DingYewYoong.png">
 </div>
 <div class="col is-9 speaker-details">
-	<h4><b>A/Prof Ding Yew Yoong</b></h4>
+	<h4><b>A/Prof Yew Yoong Ding</b></h4>
 <b>Senior Consultant, Department of Geriatric Medicine, Tan Tock Seng Hospital<br>
 Executive Director and Lead Scientist, Geriatric Education &amp; Research Institute</b>
 	
