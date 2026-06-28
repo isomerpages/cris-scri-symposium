@@ -410,6 +410,42 @@ Stay current with the latest developments in Good Clinical Practice guidelines a
                 <h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track 1: Trials That Matter</font><br>“Aligning Clinical Research with Health System and Societal Needs?”</h5>
 Clinical research bridges the gap between scientific inquiry and real-world health system needs. This session focuses on designing trials that generate evidence relevant to health needs and policy requirements. Gain understanding of conducting research that delivers tangible benefits to patients and health systems.
                 <hr class="my-3 border-primary">
+								                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/ding-yew-yoong/"><img src="/images/DingYewYoong.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/ding-yew-yoong/">
+                              <b>A/Prof Yew Yoong Ding</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Senior Consultant, Department of Geriatric Medicine, Tan Tock Seng Hospital</div>
+<div class="text-ellipsis speaker-company">Executive Director and Lead Scientist, Geriatric Education &amp; Research Institute</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/jimmy-lee/"><img src="/images/JimmyLee.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/jimmy-lee/">
+                              <b>A/Prof Jimmy Lee</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Group Chief Research &amp; Innovation Officer</div>
+<div class="text-ellipsis speaker-company">Group Research &amp; Innovation, NHG Health</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
 	  </div>
 </div></div>
           <div class="col is-4">
