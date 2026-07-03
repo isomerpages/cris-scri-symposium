@@ -452,7 +452,7 @@ description: ""
           <div class="speaker-company text-ellipsis">Office of Patient Engagement, Lee Kong Chian School of Medicine</div>
         </a>
       </div>
-											<div class="col is-3 is-6-mobile">
+													<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/bilal-mateen/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/BilalMateen.png" alt="">
@@ -465,6 +465,16 @@ description: ""
 		</div>			
 	
 <div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+												<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/serene-ng/">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/SereneNg.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Serene Ng</h4>
+          <div class="speaker-position text-ellipsis">Chief Operating Officer</div>
+          <div class="speaker-company text-ellipsis">Lee Kong Chian School of Medicine (LKCMedicine), Nanyang Technological University</div>
+        </a>
+      </div>
 												<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/lisa-ooi/">
           <div class="speaker-image-wrapper">
@@ -495,7 +505,10 @@ description: ""
           <div class="speaker-company text-ellipsis">Changi General Hospital, SingHealth, Singapore</div>
         </a>
       </div>
-							      <div class="col is-3 is-6-mobile">
+			</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+								      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ailing-simdevadas/">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/AiLingSimDevadas.png" alt="">
@@ -506,9 +519,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Novena Campus, Nanyang Technological University, Singapore</div>
         </a>
       </div>
-			</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 								      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/sumitra-sachidanandan">
           <div class="speaker-image-wrapper">
@@ -539,7 +549,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Director, Yeo Boon Khim Mind Science Centre, National University of Singapore (NUS)</div>
         </a>
       </div>
-												<div class="col is-3 is-6-mobile">
+				</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+													<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/kelsi-smith">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/KelsiSmith.png" alt="">
@@ -549,9 +562,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Quantify Research</div>
         </a>
       </div>	
-				</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 											<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/david-tan">
           <div class="speaker-image-wrapper">
@@ -582,7 +592,10 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Hummingbird Bioscience</div>
         </a>
       </div>
-									<div class="col is-3 is-6-mobile">
+	</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+										<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/daniel-ting">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/DanielTing.png" alt="">
@@ -592,9 +605,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Eye Research Institute</div>
         </a>
       </div>
-	</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 										<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/karen-wai">
           <div class="speaker-image-wrapper">
@@ -625,6 +635,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Cancer Institute, Singapore (NCIS)</div>
         </a>
       </div>
+		</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/yong-wei-peng">
           <div class="speaker-image-wrapper">
