@@ -370,8 +370,8 @@ Ms Emer Cooke will deliver the lecture where she will share her thoughts on how 
                   <b>30 Jul | 11:30 - 12:30 </b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title">
-                  <font color="#808080">Lunch Track</font><br>Sharing Session by HSA - GCP E6 Updates</h5>
-Stay current with the latest developments in Good Clinical Practice guidelines as the Health Sciences Authority shares important updates to ICH E6. Join the session to gain clarity on regulatory expectations and understand key changes of the guideline.
+                  <font color="#808080">Lunch Track</font><br>Implementation of ICH E6 (R3) GCP Guideline – Singapore’s Experience</h5>
+Stay current with HSA’s journey in implementing the ICH E6 (R3) GCP guideline in Singapore. Join the session to gain clarity on the&nbsp;enhanced risk proportionality&nbsp;for GCP inspections, lessons learnt from GCP inspections conducted since implementation, and achieving fitness for purpose clinical trial quality.
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
