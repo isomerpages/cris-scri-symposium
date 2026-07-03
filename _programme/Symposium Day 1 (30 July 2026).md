@@ -370,8 +370,8 @@ Ms Emer Cooke will deliver the lecture where she will share her thoughts on how 
                   <b>30 Jul | 11:30 - 12:30 </b>&nbsp;
                 </div>
                 <h5 style="margin-top: 1rem" class="programme-title">
-                  <font color="#808080">Lunch Track</font><br>Sharing Session by HSA - GCP E6 Updates</h5>
-Stay current with the latest developments in Good Clinical Practice guidelines as the Health Sciences Authority shares important updates to ICH E6. Join the session to gain clarity on regulatory expectations and understand key changes of the guideline.
+                  <font color="#808080">Lunch Track</font><br>Implementation of ICH E6 (R3) GCP Guideline – Singapore’s Experience</h5>
+Stay current with HSA’s journey in implementing the ICH E6 (R3) GCP guideline in Singapore. Join the session to gain clarity on the&nbsp;enhanced risk proportionality&nbsp;for GCP inspections, lessons learnt from GCP inspections conducted since implementation, and achieving fitness for purpose clinical trial quality.
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
@@ -540,6 +540,24 @@ As clinical research evolves to meet the demands of faster innovation, more incl
 								<h5 style="margin-top: 1rem" class="programme-title"><font color="#808080">Track A: Catalyzing Innovation and Equity</font><br>“The Strategic Role of Philanthropy in Advancing Clinical Trials”</h5>
 The role of philanthropy in clinical research is evolving from traditional funding to strategic partnership that addresses research gaps and promotes treatment equity.  Acquire insights into harnessing philanthropic resources to accelerate innovation and expand equitable access to clinical advances.
                 <hr class="my-3 border-primary">
+																                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/matthew-arentz/"><img src="/images/MatthewArentz.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/matthew-arentz/">
+                              <b>Dr Matthew Arentz</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Director of Precision Health</div>
+<div class="text-ellipsis speaker-company">Novartis Foundation</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
 								                <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
