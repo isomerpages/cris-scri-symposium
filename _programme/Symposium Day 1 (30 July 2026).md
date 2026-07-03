@@ -612,14 +612,30 @@ The role of philanthropy in clinical research is evolving from traditional fundi
                     </div>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
+                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/serene-ng/"><img src="/images/SereneNg.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/serene-ng/">
+                              <b>Dr Serene Ng</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Chief Operating Officer</div>
+<div class="text-ellipsis speaker-company">Lee Kong Chian School of Medicine (LKCMedicine), Nanyang Technological University</div>
+                      <b>(Moderator)</b>
+                      </div>
+                    </div>
+                  </div>
+                </div>							
+            </div></div></div>
       
     
   
-</section>	
+</div></section>	
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
