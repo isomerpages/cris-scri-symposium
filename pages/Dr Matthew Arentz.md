@@ -6,7 +6,7 @@ description: ""
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/matthewarentz.png">
+<img src="/images/MatthewArentz.png">
 </div>
 <div class="col is-9 speaker-details">
 	<h4><b>Dr Matthew Arentz</b></h4>
