@@ -428,6 +428,24 @@ Clinical research bridges the gap between scientific inquiry and real-world heal
                     </div>
                   </div>
                 </div>
+																		                <div class="speakers px-2">
+                  <div style="display: flex;flex-wrap:wrap;" class="row">
+                    <div class="col iprog-speaker">
+                      <div class="row">
+                        <div class="col is-7 is-5-mobile">
+                          <a rel="noopener" class="speaker-name text-ellipsis" href="/eng-soo-yap/"><img src="/images/YapEngSoo.png" class="speaker-image mb-4"></a>
+												</div></div>
+                        <div class="col">
+                          <div class="speaker-name text-ellipsis">
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/eng-soo-yap/">
+                              <b>Adj A/Prof Eng Soo Yap</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Chief Medical Officer</div>
+<div class="text-ellipsis speaker-company">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 <div class="speakers px-2">
                   <div style="display: flex;flex-wrap:wrap;" class="row">
                     <div class="col iprog-speaker">
@@ -442,6 +460,7 @@ Clinical research bridges the gap between scientific inquiry and real-world heal
                           </div>
                           <div class="text-ellipsis speaker-position">Group Chief Research &amp; Innovation Officer</div>
 <div class="text-ellipsis speaker-company">Group Research &amp; Innovation, NHG Health</div>
+													                      <b>(Moderator)</b>
                       </div>
                     </div>
                   </div>
