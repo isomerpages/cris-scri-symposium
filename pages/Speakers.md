@@ -626,6 +626,19 @@ Lee Kong Chian School of Medicine</div>
         </a>
       </div>
 			<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/eng-soo-yap">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/YapEngSoo.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Adj A/Prof Eng Soo Yap</h4>
+          <div class="speaker-position text-ellipsis">Chief Medical Officer</div>
+          <div class="speaker-company text-ellipsis">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</div>
+        </a>
+      </div>
+		</div>			
+	
+<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
+				<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/allen-yeoh">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/AllenYeoh.png" alt="">
@@ -635,9 +648,6 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">National University Cancer Institute, Singapore (NCIS)</div>
         </a>
       </div>
-		</div>			
-	
-<div style="display: flex;flex-wrap:wrap;width:100%" class="row">
 		<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/yong-wei-peng">
           <div class="speaker-image-wrapper">
