@@ -8,7 +8,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_WorkshopB1.png">
 </div>
 <h4><strong>Pre-Symposium Health Technology Assessment (HTA) Workshop - Evidence for Decisions: HTA Requirements and Applied HEE Methodology</strong></h4><a class="isomer-image-wrapper" href="https://www.gevme.com/scri-clinical-trials-symposium-2026"><img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Register_Now_Buttonx2_1.png"></a>
-<h4><strong>**Closing Soon: Final Seats Remaining</strong> </h4>
+<h4><strong>**Closing Soon: Final Seats Remaining</strong></h4>
 <p>Please note:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -111,7 +111,18 @@ experience in economic modelling.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 - 10:00</p>
+<p>09:00 - 09:05</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Opening Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adj A/Prof Danny Soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:05 - 10:05</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Health Technology Assessment (HTA) for Policy and Coverage: Navigating
@@ -123,7 +134,7 @@ Global &amp; Local Regulatory Requirements by HTA Agencies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:00 - 10:45</p>
+<p>10:05 - 10:45</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Understanding Health Economic Evaluation (HEE) and Modelling: Principles,
@@ -362,7 +373,7 @@ Analysis</p>
 <p>16:30 - 17:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Evidence-to-Recommendation Framework in HEE</p>
+<p>Incorporating NMB in healthcare decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A/Prof Edwin Chan</p>
