@@ -112,7 +112,7 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 - 10:15</p>
+<p>09:00 - 09:45</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>The Research Lifecycle: From Logic to Evidence Generation</p>
@@ -123,18 +123,7 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:15 - 10:30</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>Morning Break</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10:30 - 12:00</p>
+<p>09:45 - 10:45</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Early-Phase Innovations: Modern Dose-Finding &amp; Phase I Strategies</p>
@@ -145,10 +134,10 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12:00 - 13:00</p>
+<p>10:45 - 11:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Lunch</p>
+<p>Morning Break</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -156,7 +145,7 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13:00 - 14:30</p>
+<p>11:00 - 12:30</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Adaptive Designs: Enhancing Flexibility and Efficiency</p>
@@ -167,10 +156,10 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:30 - 14:45</p>
+<p>12:30 - 13:30</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Afternoon Break 1</p>
+<p>Lunch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -178,7 +167,7 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:45 - 16:00</p>
+<p>13:30 - 14:45</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Precision Medicine: Basket, Umbrella, and Platform Trials</p>
@@ -189,10 +178,21 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16:00 - 16:15</p>
+<p>14:45 - 15:30</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Afternoon Break 2</p>
+<p>Strategic Monitoring: Designing Trials with Interim Analyses</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Sarah Burkill</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15:30 - 15:45</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Afternoon Break</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -200,13 +200,14 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16:15 - 17:00</p>
+<p>15:45 - 17:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Strategic Monitoring: Designing Trials with Interim Analyses</p>
+<p>Adverse Events in Randomized Controlled trials: A Drive to Improve Analysis
+and Communication Practices</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Sarah Burkill</p>
+<p>Assoc Prof Rachel Phillips</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +257,7 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 - 10:30</p>
+<p>09:00 - 10:45</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Power and Precision: Sample Size Estimation and Re-estimation</p>
@@ -267,7 +268,7 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:30 - 10:45</p>
+<p>10:45 - 11:00</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Morning Break</p>
@@ -278,18 +279,29 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:45 - 12:00</p>
+<p>11:00 - 12:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>The Digital Frontier: Artificial Intelligence (AI) in Clinical Trials</p>
+<p>Use of AI in Clinical Trials: A Clinician's Perspective</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Jin Liyuan</p>
+<p>Dr Tan Wei Chong, He Jianqiao</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>12:00 - 13:00</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Can AI Design Clinical Trials We Can Trust?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kabilan Elangovan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13:00 - 14:00</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Lunch</p>
@@ -300,29 +312,18 @@ implementation of novel research methodologies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13:00 - 14:00</p>
+<p>14:00 - 14:45</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Maximizing Efficiency: Crossover Trial Designs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Mihir Gandhi</p>
+<p>Asst. Prof Mihir Gandhi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:00 - 14:15</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>Afternoon Break 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14:15 - 15:45</p>
+<p>14:45 - 15:45</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Pragmatic Designs: Cluster Randomized and Stepped-Wedge Trials</p>
@@ -336,7 +337,7 @@ implementation of novel research methodologies.</p>
 <p>15:45 - 16:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Afternoon Break 2</p>
+<p>Afternoon Break</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -347,7 +348,8 @@ implementation of novel research methodologies.</p>
 <p>16:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Leveraging External Controls in the Design of Single-Arm Trials</p>
+<p>Leveraging External Controls to Quantify Treatment Response in Single-arm
+Phase II Trials: Fad or Possibility?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assoc Prof Bee Choo Tai</p>
