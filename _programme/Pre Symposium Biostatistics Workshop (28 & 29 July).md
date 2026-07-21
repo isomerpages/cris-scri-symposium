@@ -373,7 +373,7 @@ organiser</p>
 <hr>
 <h4><strong>Biostatistics Workshop Speakers</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BiostatsSpeakers2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BiostatsSpeakers4.png">
 </div>
 <hr>
 <h4><strong>About the SCRI Biostatistics Unit</strong></h4>
