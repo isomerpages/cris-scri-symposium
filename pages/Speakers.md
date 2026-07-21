@@ -215,16 +215,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Boehringer Ingelheim Singapore</div>
         </a>
       </div> 
-		<div class="col is-3 is-6-mobile">
-        <a class="speaker" href="/janise-chevrier-lee">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" src="/images/JaniseChevrierLee.png" alt="">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Dr Janise Chevrier-Lee</h4>
-          <div class="speaker-position text-ellipsis">Country Medical Head, Singapore</div>
-          <div class="speaker-company text-ellipsis">Roche Singapore</div>
-        </a>
-      </div>       
 			<div class="col is-3 is-6-mobile">
         <a class="speaker" href="/ching-lung-cheung">
           <div class="speaker-image-wrapper">
@@ -233,6 +223,16 @@ description: ""
           <h4 class="speaker-name text-ellipsis">Prof Ching Lung Cheung</h4>
           <div class="speaker-position text-ellipsis">Director, Real‑World Study and Application Centre (RWSAC)</div>
           <div class="speaker-company text-ellipsis">Greater Bay Area International Clinical Trial Institute (GBAICTI), Hong Kong</div>
+        </a>
+      </div>       
+			<div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/janise-chevrier-lee">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/JaniseChevrierLee.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr Janise Chevrier-Lee</h4>
+          <div class="speaker-position text-ellipsis">Country Medical Head, Singapore</div>
+          <div class="speaker-company text-ellipsis">Roche Singapore</div>
         </a>
       </div>       
 	<div class="col is-3 is-6-mobile">
