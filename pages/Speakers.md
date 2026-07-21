@@ -710,6 +710,19 @@ Lee Kong Chian School of Medicine</div>
         </a>
       </div>
       <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/kabilan-elangovan">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/KabilanElangovan.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr Kabilan Elangovan</h4>
+          <div class="speaker-position text-ellipsis">AI Scientist</div>
+          <div class="speaker-company text-ellipsis">SingHealth AI Office</div>
+        </a>
+      </div>
+		</div>
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
+	      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/mihir-gandhi">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" src="/images/MihirGandhi.png" alt="">
@@ -719,9 +732,16 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
-		</div>
-
-<div style="display: flex;flex-wrap:wrap;" class="row">
+		      <div class="col is-3 is-6-mobile">
+        <a class="speaker" href="/rachel-phillips">
+          <div class="speaker-image-wrapper">
+            <img class="speaker-image img-fluid mb-3" src="/images/RachelPhillips.png" alt="">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Assoc Prof RachelPhillips</h4>
+          <div class="speaker-position text-ellipsis">Head of Clinical Trial Statistics, Imperial Clinical Trials Unit (ICTU)</div>
+          <div class="speaker-company text-ellipsis">School of Public Health</div>
+        </a>
+      </div>
 				      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/nabilah-rahman">
           <div class="speaker-image-wrapper">
@@ -742,6 +762,9 @@ Lee Kong Chian School of Medicine</div>
           <div class="speaker-company text-ellipsis">Singapore Clinical Research Institute (SCRI)</div>
         </a>
       </div>
+			</div>
+
+<div style="display: flex;flex-wrap:wrap;" class="row">
 			      <div class="col is-3 is-6-mobile">
         <a class="speaker" href="/tai-bee-choo">
           <div class="speaker-image-wrapper">
