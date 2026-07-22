@@ -11,6 +11,8 @@ description: ""
 <div class="col is-9 speaker-details">
 	<h4><b>Prof Wee Joo Chng</b></h4>
 <b>
+Group Chief Scientist
+National University Health System (NUHS) <br> <b>
 Executive Director, Singapore Translational Cancer Consortium<br>
 Vice President (Biomedical Sciences Research), National University of Singapore<br>
 Senior Consultant, National University Cancer Institute, Singapore
@@ -20,5 +22,5 @@ Senior Consultant, National University Cancer Institute, Singapore
 
 Prof Chng is a distinguished researcher in the fields of genomics, therapeutics and hematologic malignancies, with extensive experience in clinical practice, administration, and leadership. He has received multiple national and international awards for his highly translational research, which has significantly improved patient outcomes and enabled therapy customization. He is the chair of the Asian Myeloma Network, a member of several prestigious professional groups, such as the International Myeloma Working Group and the American Society of Hematology, and a former president of the Singapore Society of Hematology.
 </p>
-</div>
-</div>
+</b></div><b>
+</b></div>
