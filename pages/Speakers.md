@@ -254,8 +254,8 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/ChngWeeJoo.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Wee Joo Chng</h4>
-          <div class="speaker-position text-ellipsis">Executive Director</div>
-          <div class="speaker-company text-ellipsis">Singapore Translational Cancer Consortium</div>
+          <div class="speaker-position text-ellipsis">Group Chief Scientist</div>
+          <div class="speaker-company text-ellipsis">National University Health System (NUHS)</div>
         </a>
       </div> 
 					<div class="col is-3 is-6-mobile">
