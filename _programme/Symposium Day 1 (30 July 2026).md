@@ -6,6 +6,11 @@ description: ""
 ---
 ![](/images/Banner_Day1Programme.png)
 <div>
+	<b>[Download the Event E-Booklet here.](/files/SCRI_E_Booklet__Online_.pdf)</b>
+		<br><br>
+</div>
+
+<div>
   <b>30 July 2026 (Thu) | 08:00 - 16:30</b>&nbsp;
   <h3>Programme</h3>
 </div>
