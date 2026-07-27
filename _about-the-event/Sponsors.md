@@ -36,6 +36,7 @@ description: ""
 	
 <h4><strong>Exhibitors</strong></h4>
 <div class="row">
+	<div class="col is-3 is-7-mobile"><a href="https://anivance.io/"><img src="/images/AnivanceAI_Logo.png"></a></div>
 <div class="col is-3 is-7-mobile"><a href="https://www.almacgroup.com/"><img src="/images/Almac_Logo.png"></a></div>
 <div class="col is-3 is-7-mobile"><a href="https://cytekbio.com/"><img src="/images/CytekBioscience.jpg"></a></div>
 	<div class="col is-3 is-7-mobile"><a href="https://expectohealthscience.com/"><img src="/images/Expecto_Logo.png"></a></div>

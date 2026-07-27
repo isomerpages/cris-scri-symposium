@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_RegisterNow.png">
 </div>
-<h4><strong>Early Bird Extended to 14 June 2026</strong></h4>
+<h4><strong>Online Registration is now closed. Onsite registration is available at MBS L3 Cassia ballroom from 30-31 July.</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Symposium Passes</strong>
