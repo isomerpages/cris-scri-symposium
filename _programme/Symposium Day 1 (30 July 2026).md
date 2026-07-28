@@ -631,7 +631,7 @@ The role of philanthropy in clinical research is evolving from traditional fundi
                               <b>Dr Fook Kay Lee</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Head of Collaborative Health</div>
-<div class="text-ellipsis speaker-company">Temasek Foundation</div>
+<div class="text-ellipsis speaker-company">Temasek Trust</div>
                       </div>
                     </div>
                   </div>
