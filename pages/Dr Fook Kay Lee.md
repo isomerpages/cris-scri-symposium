@@ -13,7 +13,7 @@ description: ""
 <b>Head of Health Collaborative<br>
 Temasek Foundation</b>
 	
-<p>Dr Lee heads Temasek Foundation’s the Health Collaborative where he supports efforts to advance health and well being in Asia. The Collaborative brings together public, private, philanthropic and research partners to connect science, policy, financing and implementation, and translate promising ideas into scalable health solutions. 
+<p>Dr Lee heads Temasek Foundation’s Health Collaborative where he supports efforts to advance health and well-being in Asia. The Collaborative brings together public, private, philanthropic and research partners to connect science, policy, financing and implementation, and translate promising ideas into scalable health solutions. 
 	
 
 Previously, Dr Lee headed Temasek Foundation's Pandemic Preparedness Team that develops and executes philanthropic outreach and projects for preparedness and countermeasures for future pandemics. His office supports regional networking of scientific communities and health policy makers, and capacity building through science and technology sharing. It also catalyses efforts for biobanking to promote data and material sharing in scientific networks and surveillance of emerging infections and neglected tropical diseases with pandemic potential.</p><p>
