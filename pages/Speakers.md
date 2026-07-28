@@ -385,7 +385,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Fook Kay Lee</h4>
           <div class="speaker-position text-ellipsis">Head of Collaborative Health</div>
-          <div class="speaker-company text-ellipsis">Temasek Foundation</div>
+          <div class="speaker-company text-ellipsis">Temasek Trust</div>
         </a>
       </div>
 								<div class="col is-3 is-6-mobile">
