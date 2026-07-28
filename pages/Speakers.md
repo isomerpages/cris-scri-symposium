@@ -384,7 +384,7 @@ description: ""
             <img class="speaker-image img-fluid mb-3" src="/images/FookKayLee.png" alt="">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr Fook Kay Lee</h4>
-          <div class="speaker-position text-ellipsis">Head Pandemic Preparedness</div>
+          <div class="speaker-position text-ellipsis">Head of Collaborative Health</div>
           <div class="speaker-company text-ellipsis">Temasek Foundation</div>
         </a>
       </div>
