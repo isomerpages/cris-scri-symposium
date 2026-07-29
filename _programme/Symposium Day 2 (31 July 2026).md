@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/Banner_Day2Programme.png)
 <div>
-	<b>Download the <a href="/files/SCRI_EBooklet_Online_270726.pdf">Event E-Booklet</a>.</b>
+	<b>Download the <a href="/files/SCRI_E_Booklet_Online.pdf">Event E-Booklet</a>.</b>
 		<br><br>
 </div>
 <div>

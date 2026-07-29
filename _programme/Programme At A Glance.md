@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_AtAGlance.png">
 </div>
-<p>Download the <a href="/files/SCRI_EBooklet_Online_270726.pdf" rel="noopener noreferrer nofollow" target="_blank">Event E-Booklet</a>.</p>
+<p>Download the <a href="/files/SCRI_E_Booklet_Online.pdf" rel="noopener noreferrer nofollow" target="_blank">Event E-Booklet</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AtAGlance2026B.png">
 </div>
